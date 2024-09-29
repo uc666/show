@@ -57,7 +57,7 @@
     "演员详情": "body&&.desc_item:contains(主演:)&&Text!主演:",
     "导演": "body&&.desc_item:matches(导演)&&Text!导演:",
     "简介详情": ".detail-con&&p&&Text!简介:",
-    "线路列表数组规则": "body&&#lines&&li.line",
+    "线路列表数组规则": "#episode_tab&&p",
     "线路标题": "Text[替换:默认=>📺看电视吧||云播①=>📺看电视吧]",
     "播放列表数组规则": "#leftTabBox&&.numList",
     "选集列表数组规则": "li",
