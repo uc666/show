@@ -83,7 +83,7 @@ try:
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://tv.youdu.fan:666/毒盒影视/du.jar"
+            "jar": "./jar/du.jar;md5;59342d3fa71b245484e9a5129e63de22"
         }
         new_site2 = {
             "key": "追剧影视",
