@@ -1,13 +1,12 @@
-name: Get b1
+name: Get Live 
 
 on:
   schedule:
-    - cron: '4 */4 * * *'
-    #  timezone: Asia/Shanghai  # 设置时区为上海（北京）时间
-  workflow_dispatch: 
+    - cron: '5 */8 * * *'
+  workflow_dispatch:  # 手动触发
 
 jobs:
-  update_b1:
+  get_streams:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,12 +24,12 @@ jobs:
         pip install requests
 
     - name: Run Python script
-      run: python ./fann.py
+      run: python ./getv.py
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add b1.txt
-        git commit -m "Update b1" --allow-empty
+        git add zb1.txt
+        git commit -m "Update live streams playlist" --allow-empty
         git push

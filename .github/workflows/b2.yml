@@ -1,13 +1,12 @@
-name: Get b1
+name: Get b2
 
 on:
   schedule:
-    - cron: '4 */4 * * *'
-    #  timezone: Asia/Shanghai  # 设置时区为上海（北京）时间
+    - cron: '2 */4 * * *'
   workflow_dispatch: 
 
 jobs:
-  update_b1:
+  update_b2:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,12 +24,12 @@ jobs:
         pip install requests
 
     - name: Run Python script
-      run: python ./fann.py
+      run: python ./mi.py
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add b1.txt
-        git commit -m "Update b1" --allow-empty
+        git add b2.txt
+        git commit -m "Update b2" --allow-empty
         git push
