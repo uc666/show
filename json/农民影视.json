@@ -35,7 +35,7 @@
     "分类片单链接加前缀": "https://m.wwgz.cn",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$手机#Referer$https://m.wwgz.cn",
-    "search_url": "https://v.nmvod.cn/index.php?m=vod-search;post",
+    "search_url": "https://m.wwgz.cn/index.php?m=vod-search;post",
     "sea_PtBody": "wd={wd}",
     "search_mode": "1",
     "sea_arr_rule": "#data_list&&li",
@@ -57,7 +57,8 @@
     "演员详情": "body&&.desc_item:contains(主演:)&&Text!主演:",
     "导演": "body&&.desc_item:matches(导演)&&Text!导演:",
     "简介详情": ".detail-con&&p&&Text!简介:",
-    "线路列表数组规则": "#lines&&li",
+    "线路列表数组规则": "#leftTabBox&&ul&&li",  // 初始选择
+    "新线路列表数组规则": "#lines&&li",  // 新的线路选择
     "线路标题": "Text[替换:默认=>📺看电视吧||云播①=>📺看电视吧]",
     "播放列表数组规则": "#leftTabBox&&.numList",
     "选集列表数组规则": "li",
