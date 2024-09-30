@@ -45,7 +45,7 @@
       "key": "ikun",
       "name": "🐔爱坤┃1080P",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod?",
+      "api": "https://ikzy7.com/api.php/provide/vod?",
       "searchable": 1,
       "changeable": 1,
       "categories": [
