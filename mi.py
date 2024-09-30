@@ -98,19 +98,36 @@ try:
         }
         new_site3 = {
             "key": "qwqfun",
-            "name": " 🥂干杯┃1080P",
-            "type": 3,
+            "name": "⛹干杯┃1080P",
+            "type": 1,
             "api": "https://www.qwqfun.one/api.php/tvbox",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": "qwqfun"
         }
+        new_site4 = {
+            "key": "ikun",
+            "name": "🐔爱坤┃1080P",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod?",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+    "喜剧片",
+    "国产剧",
+    "香港剧",
+    "大陆综艺",
+    "国产动漫",
+    "爽文短剧"
+   ]
+        }
         
         # 将 new_site 和 new_site2 插入到特定位置
         data["sites"].insert(0, new_site)
         data["sites"].insert(3, new_site2)
         data["sites"].insert(4, new_site3)
+        data["sites"].insert(5, new_site4)
 
     else:
         print('"sites" 键不在数据中')
