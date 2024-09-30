@@ -20,15 +20,11 @@
 
         { "url": "https://fmbox.cc", "name": "🏄️星辰" },
 
-        { "url": "http://我不是.摸鱼儿.top/vip", "name": "🐟内部" },
-
-        { "url": "https://www.yingm.cc/dm/dm.json", "name": "🍍动漫" },
-
         { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "😎潇洒" },
 
-        { "url": "http://fmys.top/fmys.json", "name": "🐹FM影视🐹" },
+        { "url": "http://74.120.175.78/JK/XYQTVBox/dj.json", "name": " 🛷dj" },
 
-        { "url": "https://gitee.com/kkwtv/ce/raw/master/0731.json", "name": "📢看看屋" },
+        { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "📰children" },
 
         { "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json", "name": "🐹月光" },
 
@@ -56,7 +52,7 @@
         
         { "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json", "name": "🚀道长" },
         
-        { "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Sw.json", "name": "🐇圥忈" },
+        { "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-VI.json", "name": "🐇圥忈" },
         
         { "url": "https://盒子迷.top/禁止贩卖", "name": "🌟盒子迷" },
         
@@ -85,18 +81,6 @@
         { "url": "http://jinenyy.vip/app/tvbox/tvbox.json", "name": "🐹进恩哥" },
 
         { "url": "https://gitee.com/tv888/tv/raw/master/svip.json", "name": "🐹天微" },
-
-        //{ "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/video.json", "name": "🐹小武哥" },
-
-        //{ "url": "https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json", "name": "🐹呱哥" },
-
-        //{ "url": "https://ghp.ci/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json", "name": "🐹高天流云" },
-
-        //{ "url": "https://ghp.ci/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json", "name": "🐹candymuj" },
-
-        //{ "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json", "name": "🐹墨韵" },
-
-        //{ "url": "https://ghp.ci/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json", "name": "🐹月影" },
 
         { "url": "https://xn--8owq8u.com/tv/", "name": "🐹毒盒" },
         
