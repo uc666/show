@@ -37,7 +37,7 @@ try:
     # 修改内容
     data["wallpaper"] = "http://www.kf666888.cn/api/tvbox/img"
     data["logo"] = "./jar/logo.gif"
-    data["warningText"] ="烟笼寒水月笼沙，夜泊秦淮近酒家。"
+    data["warningText"] ="手拿菜刀砍电线，一路火花带闪电。"
     data["lives"] = [
         {
             "name": "LIVE",
@@ -87,7 +87,7 @@ try:
         }
         new_site2 = {
             "key": "追剧影视",
-            "name": "🏅追剧┃不卡",
+            "name": "🏅追剧┃1080P",
             "type": 3,
             "api": "csp_AppZJ",
             "searchable": 1,
@@ -96,16 +96,27 @@ try:
             "jar": "./jar/0914.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
             "ext": "http://z.kzjtv.com/"
         }
+                new_site3 = {
+            "key": "qwqfun",
+            "name": " 🥂干杯┃1080P",
+            "type": 3,
+            "api": "https://www.qwqfun.one/api.php/tvbox",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "qwqfun"
+        }
         
         # 将 new_site 和 new_site2 插入到特定位置
         data["sites"].insert(0, new_site)
         data["sites"].insert(3, new_site2)
+        data["sites"].insert(4, new_site3)
 
     else:
         print('"sites" 键不在数据中')
 
     # 删除指定的键
-    keys_to_remove = ["csp_wanou", "csp_zhizhen", "米搜", "配置"]
+    keys_to_remove = ["csp_wanou", "csp_zhizhen", "米搜", "配置", "虎牙直播js"]
     data["sites"] = [site for site in data["sites"] if site.get("key") not in keys_to_remove]
     
     # 将修改后的内容转换为 JSON 字符串，并指定 ensure_ascii=False 以确保汉字和表情符号正常显示
