@@ -22,7 +22,7 @@
     },
     {
       "key": "追剧影视",
-      "name": "🏅追剧┃不卡",
+      "name": "🏅追剧┃1080P",
       "type": 3,
       "api": "csp_AppZJ",
       "searchable": 1,
@@ -30,6 +30,16 @@
       "changeable": 1,
       "jar": "./jar/0914.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
       "ext": "http://z.kzjtv.com/"
+    },
+    {
+      "key": "qwqfun",
+      "name": " 🥂干杯┃1080P",
+      "type": 3,
+      "api": "https://www.qwqfun.one/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "qwqfun"
     },
     {
       "key": "csp_LiteApple",
@@ -340,21 +350,6 @@
       "changeable": 0
     },
     {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "Jrsjs",
       "name": "🏀JRS┃球迷",
       "type": 3,
@@ -535,5 +530,5 @@
       "playerType": 1
     }
   ],
-  "warningText": "烟笼寒水月笼沙，夜泊秦淮近酒家。"
+  "warningText": "手拿菜刀砍电线，一路火花带闪电。"
 }
