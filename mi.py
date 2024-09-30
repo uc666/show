@@ -98,7 +98,7 @@ try:
         }
         new_site3 = {
             "key": "qwqfun",
-            "name": "⛹干杯┃1080P",
+            "name": "🏍干杯┃1080P",
             "type": 1,
             "api": "https://www.qwqfun.one/api.php/tvbox",
             "searchable": 1,
@@ -114,12 +114,12 @@ try:
             "searchable": 1,
             "changeable": 1,
             "categories": [
-    "喜剧片",
+    "大陆综艺",
     "国产剧",
     "香港剧",
-    "大陆综艺",
-    "国产动漫",
-    "爽文短剧"
+    "爽文短剧",
+    "喜剧片",
+    "国产动漫"
    ]
         }
         
