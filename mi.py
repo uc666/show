@@ -96,7 +96,7 @@ try:
             "jar": "./jar/0914.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
             "ext": "http://z.kzjtv.com/"
         }
-                new_site3 = {
+        new_site3 = {
             "key": "qwqfun",
             "name": " 🥂干杯┃1080P",
             "type": 3,
