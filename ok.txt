@@ -15,7 +15,6 @@
     {"key":"無盡","name":"♾️|無盡🥉","type":3,"api":"csp_XBPQ","ext":"./json/wujin.json"},
     {"key":"優質","name":"💯|優質🥉","type":3,"api":"csp_XBPQ","ext":"./json/youzhi.json"},
     {"key":"非凡","name":"✨|非凡🥉","type":3,"api":"csp_XBPQ","ext":"./json/feifan.json"},
-    {"key":"香蕉","name":"🍌|香蕉[🥇]","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"飛速","name":"✈️|飛速🥉","type":3,"api":"csp_XBPQ","ext":"./json/feisu.json"}
   ],
   "rules":[
