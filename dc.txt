@@ -80,6 +80,6 @@
 
         { "url": "https://xn--8owq8u.com/tv/", "name": "🐹毒盒" },
         
-        { "url": "http://meowtv.cn/tv", "name": "🐹喵影视🐹" }
+        { "url": "http://www.meowtv.top", "name": "🐹喵影视🐹" }
     ]
 }
