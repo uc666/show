@@ -56,13 +56,15 @@
         
         { "url": "http://我不是.摸鱼儿.top", "name": "💖摸鱼💖" },
 
-        { "url": "http://ok321.top/tv", "name": "💖OK💖" },
+        { "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0", "name": "💖吾爱💖" },
         
         { "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json", "name": "🐹不良帅🐹" },
 
         { "url": "https://tv.菜妮丝.top", "name": "🐹菜妮丝🐹" },
 
         { "url": "https://www.cwss.xyz/刺猬线路禁止贩卖", "name": "🐹刺猬🐹" },
+
+        { "url": "https://www.xn--rgv465a.top/%E6%97%A0%E7%95%8C%E7%BA%BF%E8%B7%AF%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96", "name": "🐹无界🐹" },
         
         { "url": "https://mao.7080.wang/tv/1.json", "name": "⚜️7080" },
 
