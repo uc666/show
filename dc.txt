@@ -26,8 +26,6 @@
 
         { "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json", "name": "🐹月光" },
 
-        { "url": "https://box.iqinu.com/", "name": "🐹龙门" },
-
         { "url": "https://ghp.ci/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json", "name": "🐹其人之道🐹" },
 
         { "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/ok.txt", "name": "🐼电视吧" },
@@ -59,8 +57,6 @@
         { "url": "http://我不是.摸鱼儿.top", "name": "💖摸鱼💖" },
 
         { "url": "http://ok321.top/tv", "name": "💖OK💖" },
-        
-        { "url": "http://home.jundie.top:81/top98.json", "name": "🐹俊佬🐹" },
         
         { "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json", "name": "🐹不良帅🐹" },
 
