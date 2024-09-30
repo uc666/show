@@ -4,7 +4,7 @@ on:
   repository_dispatch:
   workflow_dispatch:
   schedule:
-    - cron: '6 */4 * * *'
+    - cron: '8 */4 * * *'
 
 env:
   DELETE_RELEASE: true
