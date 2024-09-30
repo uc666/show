@@ -37,7 +37,7 @@ try:
     # 修改内容
     data["wallpaper"] = "http://www.kf666888.cn/api/tvbox/img"
     data["logo"] = "./jar/logo.gif"
-    data["warningText"] ="手拿菜刀砍电线，一路火花带闪电。"
+    data["warningText"] ="否极泰来,好运连连。"
     data["lives"] = [
         {
             "name": "LIVE",
@@ -110,7 +110,7 @@ try:
             "key": "ikun",
             "name": "🐔爱坤┃1080P",
             "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod?",
+            "api": "https://ikzy7.com/api.php/provide/vod?",
             "searchable": 1,
             "changeable": 1,
             "categories": [
