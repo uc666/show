@@ -21,11 +21,11 @@
 风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140
 风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
 风云足球,http://154.12.55.21/zb/zb.php?id=239.253.93.254:6432475173f06f696049e5f5502479f743f1&v=3&time=0
-更新2024-09-30,https://api.lq.mba/api/dm-xjj
-更新2024-09-30,https://api.yujn.cn/api/duilian.php?type=video
-更新2024-09-30,https://api.kuleu.com/api/xjj?type=string
-更新2024-09-30,http://api.yujn.cn/api/juhexjj.php?type=video
-更新2024-09-30,http://api.yujn.cn/api/jiepai.php?type=video
+更新2024-10-01,https://api.lq.mba/api/dm-xjj
+更新2024-10-01,https://api.yujn.cn/api/duilian.php?type=video
+更新2024-10-01,https://api.kuleu.com/api/xjj?type=string
+更新2024-10-01,http://api.yujn.cn/api/juhexjj.php?type=video
+更新2024-10-01,http://api.yujn.cn/api/jiepai.php?type=video
 
 🐼V6代理,#genre#
 
