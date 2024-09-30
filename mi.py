@@ -66,6 +66,12 @@ try:
             "type": 0,
             "url": "./zb3.txt",
             "playerType": 1
+        },
+        {
+      "name": "BTV",
+      "type": 0,
+      "url": "https://l.gmbbk.com/upload/37933793.txt",
+      "playerType": 1
         }
     ]
 
