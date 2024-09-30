@@ -33,13 +33,29 @@
     },
     {
       "key": "qwqfun",
-      "name": "🌼干杯┃1080P",
+      "name": "⛹干杯┃1080P",
       "type": 1,
       "api": "https://www.qwqfun.one/api.php/tvbox",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "qwqfun"
+    },
+    {
+      "key": "ikun",
+      "name": "🐔爱坤┃1080P",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "喜剧片",
+        "国产剧",
+        "香港剧",
+        "大陆综艺",
+        "国产动漫",
+        "爽文短剧"
+      ]
     },
     {
       "key": "csp_LiteApple",
