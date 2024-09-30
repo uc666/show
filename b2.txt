@@ -546,5 +546,5 @@
       "playerType": 1
     }
   ],
-  "warningText": "手拿菜刀砍电线，一路火花带闪电。"
+  "warningText": "否极泰来,好运连连。"
 }
