@@ -4,7 +4,6 @@
 {"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/dx.txt"},
 {"sourceName":"🌺天微精选🌺","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
 {"sourceName":"欧歌","sourceUrl":"http://tv.nxog.top/"},
-{"sourceName":"驸马","sourceUrl":"http://fmys.top/online.json"},
 {"sourceName":"云星","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"月光","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"},
 {"sourceName":"宝盒","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
