@@ -72,7 +72,7 @@
 
         { "url": "https://weixine.net/ysc.json", "name": "🐹运输车" },
 
-        { "url": "https://盒子迷.top/春盈天下", "name": "🐹春盈天下" },
+        { "url": "https://pan.beecld.com/f/GrziE/A+M.txt", "name": "🐹官人" },
 
         { "url": "http://jinenyy.vip/app/tvbox/tvbox.json", "name": "🐹进恩哥" },
 
