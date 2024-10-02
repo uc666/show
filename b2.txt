@@ -28,12 +28,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jar/0914.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+      "jar": "./jar/0914.jar;md5;03c83adc48ceacbda2ab7fae8b1c6597",
       "ext": "http://z.kzjtv.com/"
     },
     {
       "key": "qwqfun",
-      "name": "🏍干杯┃1080P",
+      "name": "🍦qwqfun┃1080P",
       "type": 1,
       "api": "https://www.qwqfun.one/api.php/tvbox",
       "searchable": 1,
