@@ -116,7 +116,7 @@ try:
       "searchable":1,
       "quickSearch":1,
       "changeable":1,
-      "jar": "./jar/0914.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+      "jar": "./jar/0914.jar;md5;03c83adc48ceacbda2ab7fae8b1c6597",
       "ext": "http://z.kzjtv.com/"
     }
             new_site5 = {
