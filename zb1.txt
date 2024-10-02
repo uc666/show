@@ -1,7 +1,7 @@
 🐼看电视呗,#genre#
 温馨提醒,https://vd3.bdstatic.com/mda-pekbzwejzv6m3h6d/hd/cae_h264/1684832121402940833/mda-pekbzwejzv6m3h6d.mp4
 接口免费,https://ghp.ci/https://raw.githubusercontent.com/uc666/show/refs/heads/main/lib/tsyq.mp4
-拒绝收费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
+拒绝收费,https://v3-web-prime.douyinvod.com/video/tos/cn/tos-cn-ve-15/e0fc1e5b2c6741bb8749e7d097dc2cea/?a=6383&ch=0&cr=0&dr=0&er=0&cd=0%7C0%7C0%7C0&cv=1&br=1778&bt=1778&cs=0&ds=4&ft=AQHeBxbkRR0siqC5NDn2Nc0iPMgzbLZNlysU_4FQctiJNv7TGW&mime_type=video_mp4&qs=0&rc=Z2RkaGhnM2k4N2kzODVkOkBpMzx2M3U7a2tndjMzOmkzM0BgYDJiMWJgNjExXmMvMi0xYSNgbmIzMmVrMWBfLS0wLTBzcw%3D%3D&cquery=100b&dy_q=1727858110&expire=1727862057&l=2024100216351001C2FD8FD391DC7DABEF&ply_type=4&policy=4&signature=d1ea35ec422898521c304025fe30699d&tk=webid&webid=e438e504399eecf9c2f65594851517a53fcd0a47c3feace6f386418d12bbc04d1f8d3a959025eca458a3d3972d47616b08bbd6eb41865c77e68aca4301ba2ab17148b46bbfc3b0079d5a2a56486ed2dbd9c0c6bfbce8802273736e23f78bc1b1e2dea2b5ee057509ccab4a526d5da6d8adea27658b2e8ccdaecb0089d817f60a24a71d9eef4fae6ba75972b7e1507cf49934a357d77a4b51220764c8120b99a9-2919af409928f57b94ad56b624004839
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
