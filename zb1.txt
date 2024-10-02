@@ -21,11 +21,11 @@
 风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140
 风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
 风云足球,http://154.12.55.21/zb/zb.php?id=239.253.93.254:6432475173f06f696049e5f5502479f743f1&v=3&time=0
-更新2024-10-02,https://api.lq.mba/api/dm-xjj
-更新2024-10-02,https://api.yujn.cn/api/duilian.php?type=video
-更新2024-10-02,https://api.kuleu.com/api/xjj?type=string
-更新2024-10-02,http://api.yujn.cn/api/juhexjj.php?type=video
-更新2024-10-02,http://api.yujn.cn/api/jiepai.php?type=video
+更新2024-10-03,https://api.lq.mba/api/dm-xjj
+更新2024-10-03,https://api.yujn.cn/api/duilian.php?type=video
+更新2024-10-03,https://api.kuleu.com/api/xjj?type=string
+更新2024-10-03,http://api.yujn.cn/api/juhexjj.php?type=video
+更新2024-10-03,http://api.yujn.cn/api/jiepai.php?type=video
 
 🐼V6代理,#genre#
 
@@ -260,25 +260,25 @@ CHC影迷电影,http://8.138.7.223/tv/iptviptv.php?id=702
 
 🐼中央电视,#genre#
 
-CCTV1综合,http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
-CCTV2财经,http://8.138.7.223/tv/migu.php?id=cctv2$咪咕直播
-CCTV3综艺,http://8.138.7.223/tv/migu.php?id=cctv3$咪咕直播
-CCTV4中文国际,http://8.138.7.223/tv/migu.php?id=cctv4$咪咕直播
-CCTV4美洲,http://8.138.7.223/tv/migu.php?id=cctv4a$咪咕直播
-CCTV4欧洲,http://8.138.7.223/tv/migu.php?id=cctv4o$咪咕直播
-CCTV5体育,http://8.138.7.223/tv/migu.php?id=cctv5$咪咕直播
-CCTV5+体育赛事,http://8.138.7.223/tv/migu.php?id=cctv5p$咪咕直播
-CCTV6电影,http://8.138.7.223/tv/migu.php?id=cctv6$咪咕直播
-CCTV7国防军事,http://8.138.7.223/tv/migu.php?id=cctv7$咪咕直播
-CCTV8电视剧,http://8.138.7.223/tv/migu.php?id=cctv8$咪咕直播
-CCTV9纪录,http://8.138.7.223/tv/migu.php?id=cctv9$咪咕直播
-CCTV10科教,http://8.138.7.223/tv/migu.php?id=cctv10$咪咕直播
-CCTV11戏曲,http://8.138.7.223/tv/migu.php?id=cctv11$咪咕直播
-CCTV12社会与法,http://8.138.7.223/tv/migu.php?id=cctv12$咪咕直播
-CCTV13新闻,http://8.138.7.223/tv/migu.php?id=cctv13$咪咕直播
-CCTV14少儿,http://8.138.7.223/tv/migu.php?id=cctv14$咪咕直播
-CCTV15音乐,http://8.138.7.223/tv/migu.php?id=cctv15$咪咕直播
-CCTV17农业农村,http://8.138.7.223/tv/migu.php?id=cctv17$咪咕直播
+CCTV1综合,http://117.72.68.25:9930/migu.php?id=cctv1$咪咕直播
+CCTV2财经,http://117.72.68.25:9930/migu.php?id=cctv2$咪咕直播
+CCTV3综艺,http://117.72.68.25:9930/migu.php?id=cctv3$咪咕直播
+CCTV4中文国际,http://117.72.68.25:9930/migu.php?id=cctv4$咪咕直播
+CCTV4美洲,http://117.72.68.25:9930/migu.php?id=cctv4a$咪咕直播
+CCTV4欧洲,http://117.72.68.25:9930/migu.php?id=cctv4o$咪咕直播
+CCTV5体育,http://117.72.68.25:9930/migu.php?id=cctv5$咪咕直播
+CCTV5+体育赛事,http://117.72.68.25:9930/migu.php?id=cctv5p$咪咕直播
+CCTV6电影,http://117.72.68.25:9930/migu.php?id=cctv6$咪咕直播
+CCTV7国防军事,http://117.72.68.25:9930/migu.php?id=cctv7$咪咕直播
+CCTV8电视剧,http://117.72.68.25:9930/migu.php?id=cctv8$咪咕直播
+CCTV9纪录,http://117.72.68.25:9930/migu.php?id=cctv9$咪咕直播
+CCTV10科教,http://117.72.68.25:9930/migu.php?id=cctv10$咪咕直播
+CCTV11戏曲,http://117.72.68.25:9930/migu.php?id=cctv11$咪咕直播
+CCTV12社会与法,http://117.72.68.25:9930/migu.php?id=cctv12$咪咕直播
+CCTV13新闻,http://117.72.68.25:9930/migu.php?id=cctv13$咪咕直播
+CCTV14少儿,http://117.72.68.25:9930/migu.php?id=cctv14$咪咕直播
+CCTV15音乐,http://117.72.68.25:9930/migu.php?id=cctv15$咪咕直播
+CCTV17农业农村,http://117.72.68.25:9930/migu.php?id=cctv17$咪咕直播
 
 CCTV1综合,http://42.48.17.204:808/hls/1/index.m3u8$长沙联通
 CCTV2财经,http://42.48.17.204:808/hls/2/index.m3u8$长沙联通
@@ -483,27 +483,27 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 
 🐼全国卫视,#genre#
 
-东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws$咪咕直播
-吉林卫视,http://tvbox6.icu/tv/migu.php?id=jlws$咪咕直播
-辽宁卫视,http://tvbox6.icu/tv/migu.php?id=lnws$咪咕直播
-内蒙古卫视,http://tvbox6.icu/tv/migu.php?id=nmws$咪咕直播
-甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws$咪咕直播
-青海卫视,http://tvbox6.icu/tv/migu.php?id=qhws$咪咕直播
-陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws$咪咕直播
-山东卫视,http://tvbox6.icu/tv/migu.php?id=sdws$咪咕直播
-河南卫视,http://tvbox6.icu/tv/migu.php?id=hnws$咪咕直播
-湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws$咪咕直播
-江西卫视,http://tvbox6.icu/tv/migu.php?id=jxws$咪咕直播
-江苏卫视,http://tvbox6.icu/tv/migu.php?id=jsws$咪咕直播
-海峡卫视,http://tvbox6.icu/tv/migu.php?id=hxws$咪咕直播
-广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws$咪咕直播
-大湾区卫视,http://tvbox6.icu/tv/migu.php?id=dwqws$咪咕直播
-广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws$咪咕直播
-云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws$咪咕直播
-贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws$咪咕直播
-新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws$咪咕直播
-西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws$咪咕直播
-海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws$咪咕直播
+东方卫视,http://117.72.68.25:9930/migu.php?id=dfws$咪咕直播
+吉林卫视,http://117.72.68.25:9930/migu.php?id=jlws$咪咕直播
+辽宁卫视,http://117.72.68.25:9930/migu.php?id=lnws$咪咕直播
+内蒙古卫视,http://117.72.68.25:9930/migu.php?id=nmws$咪咕直播
+甘肃卫视,http://117.72.68.25:9930/migu.php?id=gsws$咪咕直播
+青海卫视,http://117.72.68.25:9930/migu.php?id=qhws$咪咕直播
+陕西卫视,http://117.72.68.25:9930/migu.php?id=sxws$咪咕直播
+山东卫视,http://117.72.68.25:9930/migu.php?id=sdws$咪咕直播
+河南卫视,http://117.72.68.25:9930/migu.php?id=hnws$咪咕直播
+湖北卫视,http://117.72.68.25:9930/migu.php?id=hubws$咪咕直播
+江西卫视,http://117.72.68.25:9930/migu.php?id=jxws$咪咕直播
+江苏卫视,http://117.72.68.25:9930/migu.php?id=jsws$咪咕直播
+海峡卫视,http://117.72.68.25:9930/migu.php?id=hxws$咪咕直播
+广东卫视,http://117.72.68.25:9930/migu.php?id=gdws$咪咕直播
+大湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws$咪咕直播
+广西卫视,http://117.72.68.25:9930/migu.php?id=gxws$咪咕直播
+云南卫视,http://117.72.68.25:9930/migu.php?id=ynws$咪咕直播
+贵州卫视,http://117.72.68.25:9930/migu.php?id=gzws$咪咕直播
+新疆卫视,http://117.72.68.25:9930/migu.php?id=xjws$咪咕直播
+西藏卫视,http://117.72.68.25:9930/migu.php?id=xzws$咪咕直播
+海南卫视,http://117.72.68.25:9930/migu.php?id=hinws$咪咕直播
 
 湖南卫视,http://42.48.17.204:808/hls/28/index.m3u8$长沙联通
 四川卫视,http://42.48.17.204:808/hls/29/index.m3u8$长沙联通
