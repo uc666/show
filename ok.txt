@@ -1,7 +1,7 @@
 {
   "spider":"./jar/XBPQ.jar;md5;bab500a7ca7cddbe8f745de9402ffbd1",
   "lives":[{"name":"live","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/sjyes168/tvbox/main/%E8%87%AA%E7%94%A8%E6%BA%901","playerType":2,"ua":"okhttp/5.0.0-alpha.14","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "wallpaper":"https://qist.cc/api/api.php",
+  "wallpaper":"./wp.png",
    "sites":[
     {"key":"黑木耳","name":"🌸|黑木耳🥇","type":3,"api":"csp_XBPQ","ext":"./json/heimuer.json"},
     {"key":"華為","name":"🌺|華為🥇","type":3,"api":"csp_XBPQ","ext":"./json/huaweiba.json"},
