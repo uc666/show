@@ -280,6 +280,26 @@ CCTV14少儿,http://117.72.68.25:9930/migu.php?id=cctv14$咪咕直播
 CCTV15音乐,http://117.72.68.25:9930/migu.php?id=cctv15$咪咕直播
 CCTV17农业农村,http://117.72.68.25:9930/migu.php?id=cctv17$咪咕直播
 
+CCTV1综合,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv1
+CCTV2财经,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv2
+CCTV3综艺,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv3
+CCTV4中文国际,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv4
+CCTV5体育,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv5
+CCTV5+体育赛事,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv5p
+CCTV6电影,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv6
+CCTV7国防军事,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv7
+CCTV8电视剧,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv8
+CCTV9纪录,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv9
+CCTV10科教,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv10
+CCTV11戏曲,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv11
+CCTV12社会与法,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv12
+CCTV13新闻,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv13
+CCTV14少儿,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv14
+CCTV15音乐,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv15
+CCTV16奥林匹克,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv16
+CCTV17农业农村,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv17
+CCTV4K超高清,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv4k.m3u8
+
 CCTV1综合,http://42.48.17.204:808/hls/1/index.m3u8$长沙联通
 CCTV2财经,http://42.48.17.204:808/hls/2/index.m3u8$长沙联通
 CCTV3综艺,http://42.48.17.204:808/hls/3/index.m3u8$长沙联通
@@ -4351,6 +4371,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 🐼北京ID10,#genre#
 
 //北京电视台
+
 北京卫视,http://8.138.7.223/tv/bjcckd.php?id=19$鹏博士
 北京文艺,http://8.138.7.223/tv/bjcckd.php?id=55$鹏博士
 北京体育休闲,http://8.138.7.223/tv/bjcckd.php?id=56$鹏博士
