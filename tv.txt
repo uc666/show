@@ -9,6 +9,7 @@
 {"sourceName":"月光","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"},
 {"sourceName":"宝盒","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
 {"sourceName":"堡盒","sourceUrl":"http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/c.txt"},
+{"sourceName":"西夏","sourceUrl":"https://d.kstore.space/download/2912/xx888.json"},
 {"sourceName":"朱师","sourceUrl":"https://d.kstore.space/download/5303/zhushifu/002.txt"}
 ]
 }
