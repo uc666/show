@@ -57,7 +57,9 @@
         { "url": "http://我不是.摸鱼儿.top", "name": "💖摸鱼💖" },
 
         { "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0", "name": "💖吾爱💖" },
-        
+
+        { "url": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "🐹微笑🐹" },
+
         { "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json", "name": "🐹不良帅🐹" },
 
         { "url": "https://tv.菜妮丝.top", "name": "🐹菜妮丝🐹" },
