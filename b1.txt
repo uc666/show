@@ -6,7 +6,7 @@
       "key": "农民影视",
       "name": "📺看电视吧",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_WexNmys",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
