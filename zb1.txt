@@ -21,11 +21,11 @@
 风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140
 风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
 风云足球,http://154.12.55.21/zb/zb.php?id=239.253.93.254:6432475173f06f696049e5f5502479f743f1&v=3&time=0
-更新2024-10-04,https://api.lq.mba/api/dm-xjj
-更新2024-10-04,https://api.yujn.cn/api/duilian.php?type=video
-更新2024-10-04,https://api.kuleu.com/api/xjj?type=string
-更新2024-10-04,http://api.yujn.cn/api/juhexjj.php?type=video
-更新2024-10-04,http://api.yujn.cn/api/jiepai.php?type=video
+更新2024-10-05,https://api.lq.mba/api/dm-xjj
+更新2024-10-05,https://api.yujn.cn/api/duilian.php?type=video
+更新2024-10-05,https://api.kuleu.com/api/xjj?type=string
+更新2024-10-05,http://api.yujn.cn/api/juhexjj.php?type=video
+更新2024-10-05,http://api.yujn.cn/api/jiepai.php?type=video
 
 🐼V6代理,#genre#
 
@@ -2446,17 +2446,17 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 🐼体育专区,#genre#
 
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-CCTV16奥林匹克,http://tv.tvbox6.icu/tv/xzbjhuz.php?id=15$星视界
-CCTV5体育,http://zhft.zyyuezi.com:9901/tsfile/live/0005_1.m3u8?key=txiptv$广州电信
+
 CCTV5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226019/index.m3u8$移动|回看
 CCTV5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221225603/index.m3u8$移动|回看
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226100/index.m3u8$移动|回看
-
+晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226124/index.m3u8$移动|回看
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226147/index.m3u8$移动|回看
 咪咕直播1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226398/index.m3u8$移动|回看
 咪咕直播2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226472/index.m3u8$移动|回看
-咪咕直播3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226472/index.m3u8$移动|回看
-咪咕直播4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226472/index.m3u8$移动|回看
-晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226124/index.m3u8$移动|回看
+
+晴彩竞技,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+晴彩篮球,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 
 24小时亚洲杯频道,http://tvbox6.icu/tv/migu.php?id=24hyzb
 CBA经典,http://tvbox6.icu/tv/migu.php?id=cbajd
