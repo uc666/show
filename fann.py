@@ -81,12 +81,11 @@ try:
       "key": "农民影视",
       "name": "📺看电视吧",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_WexNmys",
       "searchable":1,
       "quickSearch":1,
       "changeable":1,
-      "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "./json/农民影视.json"
+      "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
     }
             new_site2 = {
       "key": "追剧影视",
