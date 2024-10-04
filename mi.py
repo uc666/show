@@ -89,7 +89,7 @@ try:
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/du.jar;md5;59342d3fa71b245484e9a5129e63de22"
+            "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
         }
         new_site2 = {
             "key": "追剧影视",
@@ -128,12 +128,24 @@ try:
     "国产动漫"
    ]
         }
+        new_site5 = {
+            "key": "天天弹幕",
+            "name": "👻天天┃1080P",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+            "ext": {"danmu": true}
+        }
         
         # 将 new_site 和 new_site2 插入到特定位置
         data["sites"].insert(0, new_site)
         data["sites"].insert(3, new_site2)
         data["sites"].insert(4, new_site3)
         data["sites"].insert(5, new_site4)
+        data["sites"].insert(6, new_site5)
 
     else:
         print('"sites" 键不在数据中')
