@@ -10,8 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "./json/农民影视.json"
+      "jar": "./jar/nmys.jar;md5;27229543ba856f78c181bf0b4ae28b15"
     },
     {
       "key": "豆豆",
