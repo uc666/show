@@ -136,7 +136,7 @@ try:
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+            "jar": "./jar/wddanmu.jar;md5;c52fb9e051491089b007fea2b3109ee8",
             "ext": {"danmu": true}
         }
         
