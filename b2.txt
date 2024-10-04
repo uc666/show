@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/111/0927.txt;md5;5f7ad1111832093d5ffd021bfd3d665b5a4a",
   "logo": "./jar/logo.gif",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
