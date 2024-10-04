@@ -137,7 +137,7 @@ try:
             "quickSearch": 1,
             "changeable": 1,
             "jar": "./jar/wddanmu.jar;md5;c52fb9e051491089b007fea2b3109ee8",
-            "ext": {"danmu": true}
+            "ext": {"danmu": True}
         }
         
         # 将 new_site 和 new_site2 插入到特定位置
