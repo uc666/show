@@ -29,237 +29,102 @@
 更新2024-10-05,http://api.yujn.cn/api/juhexjj.php?type=video
 更新2024-10-05,http://api.yujn.cn/api/jiepai.php?type=video
 
-🐼V6代理,#genre#
-
-V音乐台,http://8.138.7.223/tv/iptviptv.php?id=1000
-HBO,http://8.138.7.223/tv/iptviptv.php?id=1001
-今日俄罗斯,http://8.138.7.223/tv/iptviptv.php?id=1003
-日本NHK,http://8.138.7.223/tv/iptviptv.php?id=1004
-韩国KBS,http://8.138.7.223/tv/iptviptv.php?id=1005
-翡翠台(广电),http://8.138.7.223/tv/iptviptv.php?id=99
-明珠台,http://8.138.7.223/tv/iptviptv.php?id=103
-翡翠台(原版),http://8.138.7.223/tv/iptviptv.php?id=98
-千禧经典台,http://8.138.7.223/tv/iptviptv.php?id=901
-翡翠台4k,http://8.138.7.223/tv/iptviptv.php?id=902
-Animax,http://8.138.7.223/tv/iptviptv.php?id=903
-美亚电影台,http://8.138.7.223/tv/iptviptv.php?id=904
-TVB PLUS,http://8.138.7.223/tv/iptviptv.php?id=905
-无线新闻台,http://8.138.7.223/tv/iptviptv.php?id=906
-天映經典頻道,http://8.138.7.223/tv/iptviptv.php?id=914
-黃金翡翠台,http://8.138.7.223/tv/iptviptv.php?id=916
-
-CCTV-1 综合,http://8.138.7.223/tv/iptviptv.php?id=1
-CCTV-2 财经,http://8.138.7.223/tv/iptviptv.php?id=2
-CCTV-3 综艺,http://8.138.7.223/tv/iptviptv.php?id=3
-CCTV-4 中文国际,http://8.138.7.223/tv/iptviptv.php?id=4
-CCTV-5 体育,http://8.138.7.223/tv/iptviptv.php?id=5
-CCTV-6 电影,http://8.138.7.223/tv/iptviptv.php?id=6
-CCTV-5+,http://8.138.7.223/tv/iptviptv.php?id=136
-CCTV-7 国防军事,http://8.138.7.223/tv/iptviptv.php?id=7
-CCTV-8 电视剧,http://8.138.7.223/tv/iptviptv.php?id=8
-CCTV-9 纪录,http://8.138.7.223/tv/iptviptv.php?id=9
-CCTV-10 科教,http://8.138.7.223/tv/iptviptv.php?id=10
-CCTV-11 戏曲,http://8.138.7.223/tv/iptviptv.php?id=11
-CCTV-12 社会与法,http://8.138.7.223/tv/iptviptv.php?id=12
-CCTV-13 新闻,http://8.138.7.223/tv/iptviptv.php?id=13
-CCTV-14 少儿,http://8.138.7.223/tv/iptviptv.php?id=14
-CCTV-15 音乐,http://8.138.7.223/tv/iptviptv.php?id=15
-CCTV-16 奥林匹克,http://8.138.7.223/tv/iptviptv.php?id=16
-CCTV-17 农业高清,http://8.138.7.223/tv/iptviptv.php?id=17
-湖南卫视,http://8.138.7.223/tv/iptviptv.php?id=105
-浙江卫视,http://8.138.7.223/tv/iptviptv.php?id=106
-江苏卫视,http://8.138.7.223/tv/iptviptv.php?id=107
-东方卫视,http://8.138.7.223/tv/iptviptv.php?id=108
-安徽卫视,http://8.138.7.223/tv/iptviptv.php?id=109
-北京卫视,http://8.138.7.223/tv/iptviptv.php?id=110
-天津卫视,http://8.138.7.223/tv/iptviptv.php?id=111
-山东卫视,http://8.138.7.223/tv/iptviptv.php?id=112
-江西卫视,http://8.138.7.223/tv/iptviptv.php?id=113
-湖北卫视,http://8.138.7.223/tv/iptviptv.php?id=114
-辽宁卫视,http://8.138.7.223/tv/iptviptv.php?id=115
-黑龙江卫视,http://8.138.7.223/tv/iptviptv.php?id=116
-贵州卫视,http://8.138.7.223/tv/iptviptv.php?id=117
-四川卫视,http://8.138.7.223/tv/iptviptv.php?id=118
-河南卫视,http://8.138.7.223/tv/iptviptv.php?id=119
-云南卫视,http://8.138.7.223/tv/iptviptv.php?id=120
-重庆卫视,http://8.138.7.223/tv/iptviptv.php?id=121
-河北卫视,http://8.138.7.223/tv/iptviptv.php?id=122
-东南卫视,http://8.138.7.223/tv/iptviptv.php?id=123
-广西卫视,http://8.138.7.223/tv/iptviptv.php?id=124
-吉林卫视,http://8.138.7.223/tv/iptviptv.php?id=125
-陕西卫视,http://8.138.7.223/tv/iptviptv.php?id=126
-山西卫视,http://8.138.7.223/tv/iptviptv.php?id=127
-内蒙古卫视,http://8.138.7.223/tv/iptviptv.php?id=128
-青海卫视,http://8.138.7.223/tv/iptviptv.php?id=129
-海南卫视,http://8.138.7.223/tv/iptviptv.php?id=130
-宁夏卫视,http://8.138.7.223/tv/iptviptv.php?id=131
-西藏卫视,http://8.138.7.223/tv/iptviptv.php?id=132
-新疆卫视,http://8.138.7.223/tv/iptviptv.php?id=133
-甘肃卫视,http://8.138.7.223/tv/iptviptv.php?id=134
-厦门卫视,http://8.138.7.223/tv/iptviptv.php?id=135
-五星体育,http://8.138.7.223/tv/iptviptv.php?id=150
-新闻综合,http://8.138.7.223/tv/iptviptv.php?id=151
-东方财经,http://8.138.7.223/tv/iptviptv.php?id=152
-第一财经,http://8.138.7.223/tv/iptviptv.php?id=153
-法治天地,http://8.138.7.223/tv/iptviptv.php?id=154
-都市频道,http://8.138.7.223/tv/iptviptv.php?id=155
-东方影视,http://8.138.7.223/tv/iptviptv.php?id=156
-上海教育,http://8.138.7.223/tv/iptviptv.php?id=157
-七彩戏剧,http://8.138.7.223/tv/iptviptv.php?id=158
-金色学堂,http://8.138.7.223/tv/iptviptv.php?id=159
-重庆影视,http://8.138.7.223/tv/iptviptv.php?id=162
-重庆新闻,http://8.138.7.223/tv/iptviptv.php?id=163
-重庆社会,http://8.138.7.223/tv/iptviptv.php?id=164
-重庆时尚,http://8.138.7.223/tv/iptviptv.php?id=165
-重庆娱乐,http://8.138.7.223/tv/iptviptv.php?id=166
-重庆少儿,http://8.138.7.223/tv/iptviptv.php?id=167
-重庆科教,http://8.138.7.223/tv/iptviptv.php?id=168
-重庆汽摩,http://8.138.7.223/tv/iptviptv.php?id=169
-铜梁综合,http://8.138.7.223/tv/iptviptv.php?id=172
-万州综合,http://8.138.7.223/tv/iptviptv.php?id=173
-万州科教,http://8.138.7.223/tv/iptviptv.php?id=174
-万州影视,http://8.138.7.223/tv/iptviptv.php?id=175
-万州三峡移民,http://8.138.7.223/tv/iptviptv.php?id=176
-扬州1,http://8.138.7.223/tv/iptviptv.php?id=182
-扬州2,http://8.138.7.223/tv/iptviptv.php?id=183
-扬州3,http://8.138.7.223/tv/iptviptv.php?id=184
-浙江新闻,http://8.138.7.223/tv/iptviptv.php?id=188
-浙江体育,http://8.138.7.223/tv/iptviptv.php?id=189
-浙江经济,http://8.138.7.223/tv/iptviptv.php?id=191
-浙江钱江,http://8.138.7.223/tv/iptviptv.php?id=193
-浙江少儿,http://8.138.7.223/tv/iptviptv.php?id=194
-浙江数码,http://8.138.7.223/tv/iptviptv.php?id=195
-杭州TV-1 综合,http://8.138.7.223/tv/iptviptv.php?id=196
-杭州TV-2 明珠,http://8.138.7.223/tv/iptviptv.php?id=197
-杭州TV-3 生活,http://8.138.7.223/tv/iptviptv.php?id=198
-杭州TV-4 影视,http://8.138.7.223/tv/iptviptv.php?id=199
-杭州TV-5 青少·体育,http://8.138.7.223/tv/iptviptv.php?id=200
-宁波TV1,http://8.138.7.223/tv/iptviptv.php?id=205
-宁波TV2,http://8.138.7.223/tv/iptviptv.php?id=206
-宁波TV3,http://8.138.7.223/tv/iptviptv.php?id=207
-宁波TV4,http://8.138.7.223/tv/iptviptv.php?id=208
-安徽体育,http://8.138.7.223/tv/iptviptv.php?id=250
-安徽公共,http://8.138.7.223/tv/iptviptv.php?id=252
-安徽影视,http://8.138.7.223/tv/iptviptv.php?id=253
-安徽经济,http://8.138.7.223/tv/iptviptv.php?id=254
-安徽科教,http://8.138.7.223/tv/iptviptv.php?id=255
-亳州农村,http://8.138.7.223/tv/iptviptv.php?id=259
-亳州新闻,http://8.138.7.223/tv/iptviptv.php?id=260
-歙县综合,http://8.138.7.223/tv/iptviptv.php?id=263
-滁州公共,http://8.138.7.223/tv/iptviptv.php?id=265
-滁州科教,http://8.138.7.223/tv/iptviptv.php?id=266
-滁州新闻综合,http://8.138.7.223/tv/iptviptv.php?id=267
-四川影视,http://8.138.7.223/tv/iptviptv.php?id=300
-经济频道,http://8.138.7.223/tv/iptviptv.php?id=301
-文化旅游,http://8.138.7.223/tv/iptviptv.php?id=302
-新闻频道,http://8.138.7.223/tv/iptviptv.php?id=303
-影视文艺,http://8.138.7.223/tv/iptviptv.php?id=304
-科教频道,http://8.138.7.223/tv/iptviptv.php?id=305
-乡村频道,http://8.138.7.223/tv/iptviptv.php?id=306
-峨眉电影,http://8.138.7.223/tv/iptviptv.php?id=325
-天津新闻,http://8.138.7.223/tv/iptviptv.php?id=350
-天津文艺,http://8.138.7.223/tv/iptviptv.php?id=351
-天津影视,http://8.138.7.223/tv/iptviptv.php?id=352
-天津都市,http://8.138.7.223/tv/iptviptv.php?id=353
-天津体育,http://8.138.7.223/tv/iptviptv.php?id=354
-陕西新闻,http://8.138.7.223/tv/iptviptv.php?id=380
-陕西都市,http://8.138.7.223/tv/iptviptv.php?id=381
-陕西生活,http://8.138.7.223/tv/iptviptv.php?id=382
-陕西影视,http://8.138.7.223/tv/iptviptv.php?id=383
-陕西公共,http://8.138.7.223/tv/iptviptv.php?id=384
-陕西体育,http://8.138.7.223/tv/iptviptv.php?id=386
-西部电影,http://8.138.7.223/tv/iptviptv.php?id=387
-西安影视,http://8.138.7.223/tv/iptviptv.php?id=389
-延安频道,http://8.138.7.223/tv/iptviptv.php?id=393
-安康综合,http://8.138.7.223/tv/iptviptv.php?id=394
-咸阳综合,http://8.138.7.223/tv/iptviptv.php?id=400
-宝鸡1,http://8.138.7.223/tv/iptviptv.php?id=401
-宝鸡2,http://8.138.7.223/tv/iptviptv.php?id=402
-扶风频道,http://8.138.7.223/tv/iptviptv.php?id=405
-广东卫视,http://8.138.7.223/tv/iptviptv.php?id=450
-广东珠江,http://8.138.7.223/tv/iptviptv.php?id=451
-大湾区卫视,http://8.138.7.223/tv/iptviptv.php?id=452
-广州综合,http://8.138.7.223/tv/iptviptv.php?id=453
-广东新闻,http://8.138.7.223/tv/iptviptv.php?id=454
-广东民生,http://8.138.7.223/tv/iptviptv.php?id=455
-广东体育,http://8.138.7.223/tv/iptviptv.php?id=456
-广东经济科教,http://8.138.7.223/tv/iptviptv.php?id=457
-广东影视,http://8.138.7.223/tv/iptviptv.php?id=458
-潮州综合,http://8.138.7.223/tv/iptviptv.php?id=459
-潮州民生,http://8.138.7.223/tv/iptviptv.php?id=460
-梅州导视,http://8.138.7.223/tv/iptviptv.php?id=461
-广东导视(G导视),http://8.138.7.223/tv/iptviptv.php?id=462
-广西新闻,http://8.138.7.223/tv/iptviptv.php?id=470
-广西综艺,http://8.138.7.223/tv/iptviptv.php?id=471
-广西都市,http://8.138.7.223/tv/iptviptv.php?id=472
-广西乐购,http://8.138.7.223/tv/iptviptv.php?id=473
-广西影视,http://8.138.7.223/tv/iptviptv.php?id=474
-广西资讯,http://8.138.7.223/tv/iptviptv.php?id=475
-南宁新闻,http://8.138.7.223/tv/iptviptv.php?id=476
-南宁都市,http://8.138.7.223/tv/iptviptv.php?id=477
-南宁影视,http://8.138.7.223/tv/iptviptv.php?id=478
-南宁公共,http://8.138.7.223/tv/iptviptv.php?id=479
-贺州综合,http://8.138.7.223/tv/iptviptv.php?id=480
-玉林新闻,http://8.138.7.223/tv/iptviptv.php?id=488
-河北经济,http://8.138.7.223/tv/iptviptv.php?id=550
-河北都市,http://8.138.7.223/tv/iptviptv.php?id=551
-河北影视,http://8.138.7.223/tv/iptviptv.php?id=552
-河北少儿,http://8.138.7.223/tv/iptviptv.php?id=553
-河北公共,http://8.138.7.223/tv/iptviptv.php?id=554
-河北农民,http://8.138.7.223/tv/iptviptv.php?id=555
-河北杂技,http://8.138.7.223/tv/iptviptv.php?id=556
-湖北经视,http://8.138.7.223/tv/iptviptv.php?id=570
-湖北垄上,http://8.138.7.223/tv/iptviptv.php?id=571
-湖北公共,http://8.138.7.223/tv/iptviptv.php?id=572
-湖北影视,http://8.138.7.223/tv/iptviptv.php?id=573
-湖北生活,http://8.138.7.223/tv/iptviptv.php?id=575
-武汉新闻,http://8.138.7.223/tv/iptviptv.php?id=576
-武汉电视剧,http://8.138.7.223/tv/iptviptv.php?id=577
-房县新闻,http://8.138.7.223/tv/iptviptv.php?id=583
-江苏体育休闲,http://8.138.7.223/tv/iptviptv.php?id=600
-江苏城市,http://8.138.7.223/tv/iptviptv.php?id=601
-江苏影视,http://8.138.7.223/tv/iptviptv.php?id=602
-江苏教育,http://8.138.7.223/tv/iptviptv.php?id=603
-江苏综艺,http://8.138.7.223/tv/iptviptv.php?id=604
-江苏新闻,http://8.138.7.223/tv/iptviptv.php?id=605
-CHC家庭影院,http://8.138.7.223/tv/iptviptv.php?id=700
-CHC动作电影,http://8.138.7.223/tv/iptviptv.php?id=701
-CHC影迷电影,http://8.138.7.223/tv/iptviptv.php?id=702
-星空卫视,http://8.138.7.223/tv/iptviptv.php?id=703
-风云足球,http://8.138.7.223/tv/iptviptv.php?id=704
-央视台球,http://8.138.7.223/tv/iptviptv.php?id=705
-高尔夫网球,http://8.138.7.223/tv/iptviptv.php?id=706
-女性时尚,http://8.138.7.223/tv/iptviptv.php?id=707
-世界地理,http://8.138.7.223/tv/iptviptv.php?id=708
-怀旧剧场,http://8.138.7.223/tv/iptviptv.php?id=709
-风云剧场,http://8.138.7.223/tv/iptviptv.php?id=710
-第一剧场,http://8.138.7.223/tv/iptviptv.php?id=711
-老故事,http://8.138.7.223/tv/iptviptv.php?id=712
-中学生,http://8.138.7.223/tv/iptviptv.php?id=713
-快乐垂钓,http://8.138.7.223/tv/iptviptv.php?id=714
-天元围棋,http://8.138.7.223/tv/iptviptv.php?id=715
-凤凰香港,http://8.138.7.223/tv/iptviptv.php?id=730
-凤凰中文,http://8.138.7.223/tv/iptviptv.php?id=731
-凤凰资询,http://8.138.7.223/tv/iptviptv.php?id=732
-重温经典,http://8.138.7.223/tv/iptviptv.php?id=716
-新视觉,http://8.138.7.223/tv/iptviptv.php?id=717
-劲爆体育,http://8.138.7.223/tv/iptviptv.php?id=718
-魅力足球,http://8.138.7.223/tv/iptviptv.php?id=719
-北京体育,http://8.138.7.223/tv/iptviptv.php?id=800
-淘电影,http://8.138.7.223/tv/iptviptv.php?id=801
-淘剧场,http://8.138.7.223/tv/iptviptv.php?id=802
-淘娱乐,http://8.138.7.223/tv/iptviptv.php?id=803
-淘baby,http://8.138.7.223/tv/iptviptv.php?id=804
-淘精彩,http://8.138.7.223/tv/iptviptv.php?id=805
-北京文艺,http://8.138.7.223/tv/iptviptv.php?id=806
-北京科教,http://8.138.7.223/tv/iptviptv.php?id=807
-北京影视,http://8.138.7.223/tv/iptviptv.php?id=808
-北京生活,http://8.138.7.223/tv/iptviptv.php?id=809
-北京财经,http://8.138.7.223/tv/iptviptv.php?id=810
-北京新闻,http://8.138.7.223/tv/iptviptv.php?id=811
-北京卡酷少儿,http://8.138.7.223/tv/iptviptv.php?id=812
-北京国际,http://8.138.7.223/tv/iptviptv.php?id=813
-
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>87</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>88</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>89</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>90</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>91</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>92</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>93</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>94</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>95</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>96</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>97</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>98</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>99</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>100</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>101</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>102</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>103</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>104</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>105</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>381</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>382</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>383</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>384</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>385</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>386</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>387</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>388</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>389</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>390</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>391</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>392</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>393</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>394</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>395</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>396</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>397</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>398</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>399</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>400</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>401</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>402</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>403</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>404</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>405</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>406</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>407</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>408</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>409</b><br />
 🐼中央电视,#genre#
 
 CCTV1综合,http://117.72.68.25:9930/migu.php?id=cctv1$咪咕直播
@@ -282,66 +147,6 @@ CCTV14少儿,http://117.72.68.25:9930/migu.php?id=cctv14$咪咕直播
 CCTV15音乐,http://117.72.68.25:9930/migu.php?id=cctv15$咪咕直播
 CCTV17农业农村,http://117.72.68.25:9930/migu.php?id=cctv17$咪咕直播
 
-CCTV1综合,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv1
-CCTV2财经,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv2
-CCTV3综艺,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv3
-CCTV4中文国际,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv4
-CCTV5体育,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv5
-CCTV5+体育赛事,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv5p
-CCTV6电影,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv6
-CCTV7国防军事,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv7
-CCTV8电视剧,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv8
-CCTV9纪录,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv9
-CCTV10科教,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv10
-CCTV11戏曲,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv11
-CCTV12社会与法,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv12
-CCTV13新闻,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv13
-CCTV14少儿,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv14
-CCTV15音乐,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv15
-CCTV16奥林匹克,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv16
-CCTV17农业农村,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv17
-CCTV4K超高清,http://117.72.36.27:5168/xxtv/xxtv.php?id=cctv4k.m3u8
-
-CCTV1综合,http://42.48.17.204:808/hls/1/index.m3u8$长沙联通
-CCTV2财经,http://42.48.17.204:808/hls/2/index.m3u8$长沙联通
-CCTV3综艺,http://42.48.17.204:808/hls/3/index.m3u8$长沙联通
-CCTV4中文国际,http://42.48.17.204:808/hls/4/index.m3u8$长沙联通
-CCTV5体育,http://42.48.17.204:808/hls/5/index.m3u8$长沙联通
-CCTV5+体育赛事,http://42.48.17.204:808/hls/6/index.m3u8$长沙联通
-CCTV6电影,http://42.48.17.204:808/hls/7/index.m3u8$长沙联通
-CCTV7国防军事,http://42.48.17.204:808/hls/8/index.m3u8$长沙联通
-CCTV8电视剧,http://42.48.17.204:808/hls/9/index.m3u8$长沙联通
-CCTV9纪录,http://42.48.17.204:808/hls/10/index.m3u8$长沙联通
-CCTV10科教,http://42.48.17.204:808/hls/11/index.m3u8$长沙联通
-CCTV11戏曲,http://42.48.17.204:808/hls/12/index.m3u8$长沙联通
-CCTV12社会与法,http://42.48.17.204:808/hls/13/index.m3u8$长沙联通
-CCTV13新闻,http://42.48.17.204:808/hls/14/index.m3u8$长沙联通
-CCTV14少儿,http://42.48.17.204:808/hls/15/index.m3u8$长沙联通
-CCTV15音乐,http://42.48.17.204:808/hls/16/index.m3u8$长沙联通
-CCTV16奥林匹克,http://8.138.7.223/tv/bjcckd.php?id=17$鹏博士
-CCTV17农业农村,http://42.48.17.204:808/hls/17/index.m3u8$长沙联通
-
-CCTV6电影,http://8.138.7.223/tv/cctv6.m3u8$官方频道
-
-CCTV1综合,http://8.138.7.223/tv/bjcckd.php?id=1$鹏博士
-CCTV2财经,http://8.138.7.223/tv/bjcckd.php?id=2$鹏博士
-CCTV3综艺,http://8.138.7.223/tv/bjcckd.php?id=3$鹏博士
-CCTV4中文国际,http://8.138.7.223/tv/bjcckd.php?id=4$鹏博士
-CCTV5体育,http://8.138.7.223/tv/bjcckd.php?id=5$鹏博士
-CCTV5+体育赛事,http://8.138.7.223/tv/bjcckd.php?id=6$鹏博士
-CCTV6电影,http://8.138.7.223/tv/bjcckd.php?id=7$鹏博士
-CCTV7国防军事,http://8.138.7.223/tv/bjcckd.php?id=8$鹏博士
-CCTV8电视剧,http://8.138.7.223/tv/bjcckd.php?id=9$鹏博士
-CCTV9纪录,http://8.138.7.223/tv/bjcckd.php?id=10$鹏博士
-CCTV10科教,http://8.138.7.223/tv/bjcckd.php?id=11$鹏博士
-CCTV11戏曲,http://8.138.7.223/tv/bjcckd.php?id=12$鹏博士
-CCTV12社会与法,http://8.138.7.223/tv/bjcckd.php?id=13$鹏博士
-CCTV13新闻,http://8.138.7.223/tv/bjcckd.php?id=14$鹏博士
-CCTV14少儿,http://8.138.7.223/tv/bjcckd.php?id=15$鹏博士
-CCTV15音乐,http://8.138.7.223/tv/bjcckd.php?id=16$鹏博士
-CCTV16奥林匹克,http://8.138.7.223/tv/bjcckd.php?id=17$鹏博士
-CCTV17农业农村,http://8.138.7.223/tv/bjcckd.php?id=18$鹏博士
-
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动 | 回看
 CCTV2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$移动 | 回看
 CCTV3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$移动 | 回看
@@ -360,6 +165,26 @@ CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m
 CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$移动 | 回看
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$移动 | 回看
 CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$移动 | 回看
+
+CCTV1综合,http://dd.ddzb.fun/php/gzyx.php?id=ca1f525f17a2eddd9c98fbe17997d9df$有线电视
+CCTV2财经,http://dd.ddzb.fun/php/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398$有线电视
+CCTV3综艺,http://dd.ddzb.fun/php/gzyx.php?id=9c19c05ea31400b3c85598e71b2c39cf$有线电视
+CCTV4中文国际,http://dd.ddzb.fun/php/gzyx.php?id=0ad5b86534e39cb9a77b00a76ac9fe12$有线电视
+CCTV5体育,http://dd.ddzb.fun/php/gzyx.php?id=4f8e268f178c3b0d2cf82c2997b0346b$有线电视
+CCTV5+体育赛事,http://dd.ddzb.fun/php/gzyx.php?id=33cf15c8ece66fe3c41d2e4ec707ef59$有线电视
+CCTV6电影,http://dd.ddzb.fun/php/gzyx.php?id=f590aa425023d9a327fa1b69678f51e7$有线电视
+CCTV7国防军事,http://dd.ddzb.fun/php/gzyx.php?id=3fa4584c5de70fde94692563299e998c$有线电视
+CCTV8电视剧,http://dd.ddzb.fun/php/gzyx.php?id=b755332610506fe4746830b72438ae86$有线电视
+CCTV9纪录,http://dd.ddzb.fun/php/gzyx.php?id=0f8ce350b1250e8e50f4d1b10042b1c5$有线电视
+CCTV10科教,http://dd.ddzb.fun/php/gzyx.php?id=a1a56acc29d03965227b40ff665e2377$有线电视
+CCTV11戏曲,http://dd.ddzb.fun/php/gzyx.php?id=f73d2482318583c3ba7513b4e21d4a48$有线电视
+CCTV12社会与法,http://dd.ddzb.fun/php/gzyx.php?id=113eb2f0bd0ca6cf1779140bd1bb525f$有线电视
+CCTV13新闻,http://dd.ddzb.fun/php/gzyx.php?id=9bd0e0cf065e0ea9f5adfb9f0bad355e$有线电视
+CCTV14少儿,http://dd.ddzb.fun/php/gzyx.php?id=9a8a29dbf54f51d4502ae2cbf87272b4$有线电视
+CCTV15音乐,http://dd.ddzb.fun/php/gzyx.php?id=3f7ce58607980e4a75c3d065ef4e33d3$有线电视
+CCTV17农业农村,http://dd.ddzb.fun/php/gzyx.php?id=f5bc1ced6da68073115cc7ccd2c8925b$有线电视
+
+CCTV6电影,http://8.138.7.223/tv/cctv6.m3u8$官方频道
 
 CCTV1综合,http://8.138.7.223/tv/cqyx2.php?id=cctv1HD
 CCTV2财经,http://8.138.7.223/tv/cqyx2.php?id=cctv2HD
@@ -527,78 +352,92 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 西藏卫视,http://117.72.68.25:9930/migu.php?id=xzws$咪咕直播
 海南卫视,http://117.72.68.25:9930/migu.php?id=hinws$咪咕直播
 
-湖南卫视,http://42.48.17.204:808/hls/28/index.m3u8$长沙联通
-四川卫视,http://42.48.17.204:808/hls/29/index.m3u8$长沙联通
-重庆卫视,http://42.48.17.204:808/hls/30/index.m3u8$长沙联通
-海南卫视,http://42.48.17.204:808/hls/31/index.m3u8$长沙联通
-河南卫视,http://42.48.17.204:808/hls/32/index.m3u8$长沙联通
-吉林卫视,http://42.48.17.204:808/hls/33/index.m3u8$长沙联通
-甘肃卫视,http://42.48.17.204:808/hls/34/index.m3u8$长沙联通
-安徽卫视,http://42.48.17.204:808/hls/35/index.m3u8$长沙联通
-辽宁卫视,http://42.48.17.204:808/hls/36/index.m3u8$长沙联通
-东南卫视,http://42.48.17.204:808/hls/37/index.m3u8$长沙联通
-广东卫视,http://42.48.17.204:808/hls/38/index.m3u8$长沙联通
-湖北卫视,http://42.48.17.204:808/hls/39/index.m3u8$长沙联通
-贵州卫视,http://42.48.17.204:808/hls/40/index.m3u8$长沙联通
-河北卫视,http://42.48.17.204:808/hls/41/index.m3u8$长沙联通
-江苏卫视,http://42.48.17.204:808/hls/42/index.m3u8$长沙联通
-浙江卫视,http://42.48.17.204:808/hls/43/index.m3u8$长沙联通
-北京卫视,http://42.48.17.204:808/hls/44/index.m3u8$长沙联通
-天津卫视,http://42.48.17.204:808/hls/45/index.m3u8$长沙联通
-东方卫视,http://42.48.17.204:808/hls/46/index.m3u8$长沙联通
-深圳卫视,http://42.48.17.204:808/hls/47/index.m3u8$长沙联通
-山东卫视,http://42.48.17.204:808/hls/48/index.m3u8$长沙联通
-黑龙江卫视,http://42.48.17.204:808/hls/49/index.m3u8$长沙联通
-广西卫视,http://42.48.17.204:808/hls/50/index.m3u8$长沙联通
-云南卫视,http://42.48.17.204:808/hls/51/index.m3u8$长沙联通
-陕西卫视,http://42.48.17.204:808/hls/52/index.m3u8$长沙联通
-青海卫视,http://42.48.17.204:808/hls/53/index.m3u8$长沙联通
-江西卫视,http://42.48.17.204:808/hls/54/index.m3u8$长沙联通
-厦门卫视,http://42.48.17.204:808/hls/55/index.m3u8$长沙联通
-山西卫视,http://42.48.17.204:808/hls/56/index.m3u8$长沙联通
-内蒙古卫视,http://42.48.17.204:808/hls/57/index.m3u8$长沙联通
-宁夏卫视,http://42.48.17.204:808/hls/102/index.m3u8$长沙联通
-西藏卫视,http://42.48.17.204:808/hls/103/index.m3u8$长沙联通
-新疆卫视,http://42.48.17.204:808/hls/104/index.m3u8$长沙联通
-信源检修,http://42.48.17.204:808/hls/105/index.m3u8$长沙联通
-兵团卫视,http://42.48.17.204:808/hls/106/index.m3u8$长沙联通
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$移动 | 回看
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$移动 | 回看
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$移动 | 回看
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$移动 | 回看
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$移动 | 回看
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$移动 | 回看
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$移动 | 回看
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8$移动 | 回看
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$移动 | 回看
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$移动 | 回看
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$移动 | 回看
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$移动 | 回看
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$移动 | 回看
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$移动 | 回看
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$移动 | 回看
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$移动 | 回看
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$移动 | 回看
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$移动 | 回看
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$移动 | 回看
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$移动 | 回看
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$移动 | 回看
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$移动 | 回看
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$移动 | 回看
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$移动 | 回看
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$移动 | 回看
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$移动 | 回看
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$移动 | 回看
 
-北京卫视,http://8.138.7.223/tv/bjcckd.php?id=19$鹏博士
-天津卫视,http://8.138.7.223/tv/bjcckd.php?id=20$鹏博士
-河北卫视,http://8.138.7.223/tv/bjcckd.php?id=21$鹏博士
-山西卫视,http://8.138.7.223/tv/bjcckd.php?id=22$鹏博士
-内蒙古卫视,http://8.138.7.223/tv/bjcckd.php?id=23$鹏博士
-辽宁卫视,http://8.138.7.223/tv/bjcckd.php?id=24$鹏博士
-吉林卫视,http://8.138.7.223/tv/bjcckd.php?id=25$鹏博士
-黑龙江卫视,http://8.138.7.223/tv/bjcckd.php?id=26$鹏博士
-东方卫视,http://8.138.7.223/tv/bjcckd.php?id=27$鹏博士
-江苏卫视,http://8.138.7.223/tv/bjcckd.php?id=28$鹏博士
-浙江卫视,http://8.138.7.223/tv/bjcckd.php?id=29$鹏博士
-安徽卫视,http://8.138.7.223/tv/bjcckd.php?id=30$鹏博士
-东南卫视,http://8.138.7.223/tv/bjcckd.php?id=31$鹏博士
-江西卫视,http://8.138.7.223/tv/bjcckd.php?id=32$鹏博士
-山东卫视,http://8.138.7.223/tv/bjcckd.php?id=33$鹏博士
-河南卫视,http://8.138.7.223/tv/bjcckd.php?id=34$鹏博士
-湖北卫视,http://8.138.7.223/tv/bjcckd.php?id=35$鹏博士
-湖南卫视,http://8.138.7.223/tv/bjcckd.php?id=36$鹏博士
-广东卫视,http://8.138.7.223/tv/bjcckd.php?id=37$鹏博士
-广西卫视,http://8.138.7.223/tv/bjcckd.php?id=38$鹏博士
-海南卫视,http://8.138.7.223/tv/bjcckd.php?id=39$鹏博士
-重庆卫视,http://8.138.7.223/tv/bjcckd.php?id=40$鹏博士
-四川卫视,http://8.138.7.223/tv/bjcckd.php?id=41$鹏博士
-贵州卫视,http://8.138.7.223/tv/bjcckd.php?id=42$鹏博士
-云南卫视,http://8.138.7.223/tv/bjcckd.php?id=43$鹏博士
-西藏卫视,http://8.138.7.223/tv/bjcckd.php?id=44$鹏博士
-陕西卫视,http://8.138.7.223/tv/bjcckd.php?id=45$鹏博士
-甘肃卫视,http://8.138.7.223/tv/bjcckd.php?id=46$鹏博士
-青海卫视,http://8.138.7.223/tv/bjcckd.php?id=47$鹏博士
-宁夏卫视,http://8.138.7.223/tv/bjcckd.php?id=48$鹏博士
-新疆卫视,http://8.138.7.223/tv/bjcckd.php?id=49$鹏博士
-厦门卫视,http://8.138.7.223/tv/bjcckd.php?id=50$鹏博士
-大湾区卫视,http://8.138.7.223/tv/bjcckd.php?id=51$鹏博士
-深圳卫视,http://8.138.7.223/tv/bjcckd.php?id=52$鹏博士
-金鹰卡通,http://8.138.7.223/tv/bjcckd.php?id=53$鹏博士
-卡酷少儿,http://8.138.7.223/tv/bjcckd.php?id=54$鹏博士
+东方卫视,http://dd.ddzb.fun/php/gzyx.php?id=d697d7112f7cf3609cd88b63cce479d4$有线电视
+吉林卫视,http://dd.ddzb.fun/php/gzyx.php?id=27975dec3d5bb0158291c75402d4a691$有线电视
+广东卫视,http://dd.ddzb.fun/php/gzyx.php?id=02f45209e8dab92899920d74157fe58b$有线电视
+安徽卫视,http://dd.ddzb.fun/php/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c$有线电视
+重庆卫视,http://dd.ddzb.fun/php/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9$有线电视
+云南卫视,http://dd.ddzb.fun/php/gzyx.php?id=ddeb36cf1dfe993107c20e7d42b14948$有线电视
+贵州卫视,http://dd.ddzb.fun/php/gzyx.php?id=9245676006cb79b03798b89fa05576b1$有线电视
+广西卫视,http://dd.ddzb.fun/php/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a$有线电视
+北京卫视,http://dd.ddzb.fun/php/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52$有线电视
+西藏卫视,http://dd.ddzb.fun/php/gzyx.php?id=9e0df14790c0e020e939da4d2bfa0521$有线电视
+甘肃卫视,http://dd.ddzb.fun/php/gzyx.php?id=576a584528110c09d82de6b45d7ce182$有线电视
+宁夏卫视,http://dd.ddzb.fun/php/gzyx.php?id=5ca170032259b805051967fe22da8e32$有线电视
+江苏卫视,http://dd.ddzb.fun/php/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24$有线电视
+陕西卫视,http://dd.ddzb.fun/php/gzyx.php?id=9206b0f22c4febf2d490a85ac02766a1$有线电视
+新疆卫视,http://dd.ddzb.fun/php/gzyx.php?id=9f18a3278d5b83dc37d52b059e5b068e$有线电视
+东南卫视,http://dd.ddzb.fun/php/gzyx.php?id=d3b7451d5e68fc29788f48089c1e5d25$有线电视
+辽宁卫视,http://dd.ddzb.fun/php/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56$有线电视
+山东卫视,http://dd.ddzb.fun/php/gzyx.php?id=1db177c7492ad2769a93e3746f25f701$有线电视
+浙江卫视,http://dd.ddzb.fun/php/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69$有线电视
+黑龙江卫视,http://dd.ddzb.fun/php/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e$有线电视
+内蒙古卫视,http://dd.ddzb.fun/php/gzyx.php?id=c429d41e2e18aa0cd5bd2c838d35eda7$有线电视
+天津卫视,http://dd.ddzb.fun/php/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683$有线电视
+河南卫视,http://dd.ddzb.fun/php/gzyx.php?id=a30fc79dc17df5a58885f43cd1aaaf2e$有线电视
+湖北卫视,http://dd.ddzb.fun/php/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca$有线电视
+江西卫视,http://dd.ddzb.fun/php/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19$有线电视
+湖南卫视,http://dd.ddzb.fun/php/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083$有线电视
+四川卫视,http://dd.ddzb.fun/php/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca$有线电视
+兵团卫视,http://dd.ddzb.fun/php/gzyx.php?id=0f425d173b623ea4c49c96c6f073d109$有线电视
+青海卫视,http://dd.ddzb.fun/php/gzyx.php?id=d563232cc923dbc4efb4293d8d588aeb$有线电视
+东方卫视,http://dd.ddzb.fun/php/gzyx.php?id=d697d7112f7cf3609cd88b63cce479d4$有线电视
+吉林卫视,http://dd.ddzb.fun/php/gzyx.php?id=27975dec3d5bb0158291c75402d4a691$有线电视
+广东卫视,http://dd.ddzb.fun/php/gzyx.php?id=02f45209e8dab92899920d74157fe58b$有线电视
+安徽卫视,http://dd.ddzb.fun/php/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c$有线电视
+重庆卫视,http://dd.ddzb.fun/php/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9$有线电视
+云南卫视,http://dd.ddzb.fun/php/gzyx.php?id=ddeb36cf1dfe993107c20e7d42b14948$有线电视
+贵州卫视,http://dd.ddzb.fun/php/gzyx.php?id=9245676006cb79b03798b89fa05576b1$有线电视
+广西卫视,http://dd.ddzb.fun/php/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a$有线电视
+北京卫视,http://dd.ddzb.fun/php/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52$有线电视
+西藏卫视,http://dd.ddzb.fun/php/gzyx.php?id=9e0df14790c0e020e939da4d2bfa0521$有线电视
+甘肃卫视,http://dd.ddzb.fun/php/gzyx.php?id=576a584528110c09d82de6b45d7ce182$有线电视
+宁夏卫视,http://dd.ddzb.fun/php/gzyx.php?id=5ca170032259b805051967fe22da8e32$有线电视
+江苏卫视,http://dd.ddzb.fun/php/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24$有线电视
+陕西卫视,http://dd.ddzb.fun/php/gzyx.php?id=9206b0f22c4febf2d490a85ac02766a1$有线电视
+新疆卫视,http://dd.ddzb.fun/php/gzyx.php?id=9f18a3278d5b83dc37d52b059e5b068e$有线电视
+东南卫视,http://dd.ddzb.fun/php/gzyx.php?id=d3b7451d5e68fc29788f48089c1e5d25$有线电视
+辽宁卫视,http://dd.ddzb.fun/php/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56$有线电视
+山东卫视,http://dd.ddzb.fun/php/gzyx.php?id=1db177c7492ad2769a93e3746f25f701$有线电视
+浙江卫视,http://dd.ddzb.fun/php/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69$有线电视
+黑龙江卫视,http://dd.ddzb.fun/php/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e$有线电视
+内蒙古卫视,http://dd.ddzb.fun/php/gzyx.php?id=c429d41e2e18aa0cd5bd2c838d35eda7$有线电视
+天津卫视,http://dd.ddzb.fun/php/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683$有线电视
+河南卫视,http://dd.ddzb.fun/php/gzyx.php?id=a30fc79dc17df5a58885f43cd1aaaf2e$有线电视
+湖北卫视,http://dd.ddzb.fun/php/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca$有线电视
+江西卫视,http://dd.ddzb.fun/php/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19$有线电视
+湖南卫视,http://dd.ddzb.fun/php/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083$有线电视
+四川卫视,http://dd.ddzb.fun/php/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca$有线电视
+兵团卫视,http://dd.ddzb.fun/php/gzyx.php?id=0f425d173b623ea4c49c96c6f073d109$有线电视
+青海卫视,http://dd.ddzb.fun/php/gzyx.php?id=d563232cc923dbc4efb4293d8d588aeb$有线电视
 
 北京卫视,http://8.138.7.223/tv/bst8m.php?id=19$百事通8M
 东方卫视,http://8.138.7.223/tv/bst8m.php?id=20$百事通8M
@@ -635,34 +474,6 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 海南卫视,http://8.138.7.223/tv/bst8m.php?id=51$百事通8M
 厦门卫视,http://8.138.7.223/tv/bst8m.php?id=52$百事通8M
 康巴卫视,http://8.138.7.223/tv/bst8m.php?id=53$百事通8M
-
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$移动 | 回看
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$移动 | 回看
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$移动 | 回看
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$移动 | 回看
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$移动 | 回看
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$移动 | 回看
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$移动 | 回看
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8$移动 | 回看
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$移动 | 回看
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$移动 | 回看
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$移动 | 回看
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$移动 | 回看
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$移动 | 回看
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$移动 | 回看
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$移动 | 回看
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$移动 | 回看
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$移动 | 回看
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$移动 | 回看
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$移动 | 回看
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$移动 | 回看
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$移动 | 回看
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$移动 | 回看
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$移动 | 回看
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$移动 | 回看
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$移动 | 回看
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$移动 | 回看
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$移动 | 回看
 
 北京卫视,http://8.138.7.223/tv/cqyx2.php?id=beijingHD$重庆有线
 东方卫视,http://8.138.7.223/tv/cqyx2.php?id=shanghaiHD$重庆有线
@@ -913,7 +724,96 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>95</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>97</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>98</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>99</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>100</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>101</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>102</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>103</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>105</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>106</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>107</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>108</b><br />
 🐼数字电视,#genre#
+
+CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D$湖南广电
+CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D$湖南广电
+CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D$湖南广电
+重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D$湖南广电
+
+天元围棋,http://dd.ddzb.fun/php/gzyx.php?id=350f4bdf893adc568aeb796b139af064
+书画频道,http://dd.ddzb.fun/php/gzyx.php?id=f584a606a8cab35961e7f2744c096d9f
+百姓健康,http://dd.ddzb.fun/php/gzyx.php?id=4842050ebaa8706a0ad6502f5d2597e7
+收藏天下,http://dd.ddzb.fun/php/gzyx.php?id=0862fb9fad870bf0a849a9732216bdca
+劲爆体育,http://dd.ddzb.fun/php/gzyx.php?id=5502a25d87fb30c220433805c239d7df
+环球奇观,http://dd.ddzb.fun/php/gzyx.php?id=ec7d83b6c14da50a603c558004f7960d
+早期教育,http://dd.ddzb.fun/php/gzyx.php?id=4f28027308b4ed133fa0a8a115482492
+魅力音乐,http://dd.ddzb.fun/php/gzyx.php?id=62de8fa92b82977bd64850c6f8376d4f
+都市剧场,http://dd.ddzb.fun/php/gzyx.php?id=45cd7a20f72e4333e9aaaa95884fd0b8
+汽摩频道,http://dd.ddzb.fun/php/gzyx.php?id=000bee523b4d422dd2548cd7e4f41c75
+梨园频道,http://dd.ddzb.fun/php/gzyx.php?id=96d98851b82ed72979d481afee653f96
+金色频道,http://dd.ddzb.fun/php/gzyx.php?id=5cf268bd185728d97eba54e6964d3bb9
+全纪实HD,http://dd.ddzb.fun/php/gzyx.php?id=deeefd1f564b33e3dd0311109327d130
+英语辅导,http://dd.ddzb.fun/php/gzyx.php?id=ee3d229194011515d191c86424be3565
+靓妆频道,http://dd.ddzb.fun/php/gzyx.php?id=fd50c539dbf66e7c62a184b58e55d346
+车迷频道,http://dd.ddzb.fun/php/gzyx.php?id=581721a464fa6469a63c0781da576703
+老年福,http://dd.ddzb.fun/php/gzyx.php?id=f85f6a5e0121d8257e23b3cca65ddd3b
+体育赛事,http://dd.ddzb.fun/php/gzyx.php?id=0bd07f50e36135c1cf025311798cad9b
+职业指南,http://dd.ddzb.fun/php/gzyx.php?id=29a07d1828d61288d409295537d150fb
+四海钓鱼,http://dd.ddzb.fun/php/gzyx.php?id=51f69a8aaf2dd2a3d30ca2296ba4c163
+环球旅游,http://dd.ddzb.fun/php/gzyx.php?id=9f6c9fc0d4db981b4a6da770e3e2a163
+游戏竞技,http://dd.ddzb.fun/php/gzyx.php?id=914ccc86bfb5459881f4ea54affba70a
+武术世界,http://dd.ddzb.fun/php/gzyx.php?id=5f6c99163e6e7d1fb2b68fada4da6999
+文物宝库,http://dd.ddzb.fun/php/gzyx.php?id=33bb4266b52ee4b8a9d4ab6e28782366
+快乐垂钓,http://dd.ddzb.fun/php/gzyx.php?id=5dd1c17a5f5c3f8ff243a2a8b4adc712
+先锋乒羽,http://dd.ddzb.fun/php/gzyx.php?id=3a0a15c87f5a22a11d7156593afb8fc5
+茶频道,http://dd.ddzb.fun/php/gzyx.php?id=2028ea2021b61551aeae542bcf73f7ba
+七彩戏剧,http://dd.ddzb.fun/php/gzyx.php?id=4e43c567b014fad9425bc5094a3988c2
+家庭理*,http://dd.ddzb.fun/php/gzyx.php?id=53b123567abc18bdd70618b00d433ca0
+新娱乐,http://dd.ddzb.fun/php/gzyx.php?id=1b8c3109e65eba3b17c3a404fc65ac5b
+欢笑剧场HD,http://dd.ddzb.fun/php/gzyx.php?id=5f677ff797fc4c5e6c59d6c861f6b07d
+华视动漫,http://dd.ddzb.fun/php/gzyx.php?id=65fb16a948c29aa04cd1b3c1e6019b60
+法治天地,http://dd.ddzb.fun/php/gzyx.php?id=bf1f392df64df3a97a294e83f465f028
+彩民在线,http://dd.ddzb.fun/php/gzyx.php?id=7366a092905cedfb4c99b1a05ee84add
+幸福彩,http://dd.ddzb.fun/php/gzyx.php?id=9f1066d48e587d9303f691670f12ddcc
+东方财*,http://dd.ddzb.fun/php/gzyx.php?id=3407a8a12fdec9802dde5cc30f688898
+国学频道,http://dd.ddzb.fun/php/gzyx.php?id=bc75f91f395b85e3d2c1136a9228c831
+极速汽车,http://dd.ddzb.fun/php/gzyx.php?id=3d2d1b03c7dd6ed67fdc8305296e1963
+游戏风云,http://dd.ddzb.fun/php/gzyx.php?id=2abb8a699d8073134830e425164d7f6d
+动漫秀场,http://dd.ddzb.fun/php/gzyx.php?id=57e09be91d8b2f208e407b5abfa23b05
+金鹰卡通,http://dd.ddzb.fun/php/gzyx.php?id=8b39e279c32ac7b183920278d1a2fc04
+卡酷动画,http://dd.ddzb.fun/php/gzyx.php?id=c1e3c0a73311c171107b2e6444b6d104
+嘉佳卡通,http://dd.ddzb.fun/php/gzyx.php?id=72c0f74fccd9259a12fb01bf47a66649
+摄影频道,http://dd.ddzb.fun/php/gzyx.php?id=4c9fa17591dfd8dd736c80e87d6dc72b
+CCTV-世界地理,http://dd.ddzb.fun/php/gzyx.php?id=6e407aeb2256f118cbc7500efb69ea37
+CCTV-怀旧剧场,http://dd.ddzb.fun/php/gzyx.php?id=7a2b1c83b212fa4e2a68ce0c1c25c9f0
+CCTV-第一剧场,http://dd.ddzb.fun/php/gzyx.php?id=155774022270441e808f7fe34a461113
+CCTV-风云剧场,http://dd.ddzb.fun/php/gzyx.php?id=28b3dfac03626525db867cfe5efa6c08
+CCTV-央视精品,http://dd.ddzb.fun/php/gzyx.php?id=df2c3d5ea40de75807e926c8764da0d0
+CCTV-风云足球,http://dd.ddzb.fun/php/gzyx.php?id=9a4447cf2f6ad5e48a273929e3e12d79
+CCTV-央视台球,http://dd.ddzb.fun/php/gzyx.php?id=db5ba3a40c2d5867978cc2db30f662a9
+CCTV-高尔夫网球,http://dd.ddzb.fun/php/gzyx.php?id=739c8947f3ae1fff32001ea966c2fb0d
+CCTV-风云音乐,http://dd.ddzb.fun/php/gzyx.php?id=55aa4e6799e5cf2e016d25ea298df515
+CCTV-兵器科技,http://dd.ddzb.fun/php/gzyx.php?id=a0e5ccb15677fd5ecb6bfe15eeae94aa
+CCTV-发现之旅,http://dd.ddzb.fun/php/gzyx.php?id=0d7c4ba0acfe86609acdbcb88ef54f3a
+CCTV-卫生健康,http://dd.ddzb.fun/php/gzyx.php?id=d123a2c9a596930753a983f982e3e6fd
+CCTV-中学生,http://dd.ddzb.fun/php/gzyx.php?id=6c099be5934da093a156f2d652954bdd
+CCTV-老故事,http://dd.ddzb.fun/php/gzyx.php?id=d92287ad8f1851adbf7365becc0f6ca8
+中国气象频道,http://dd.ddzb.fun/php/gzyx.php?id=9684959ac1679041f38f40552626a9c7
 
 CCTV兵器科技,http://pan.inote.live:7000/udp/239.110.205.95:7896
 CCTV兵器科技,http://pan.inote.live:7000/udp/239.111.205.74:5140
@@ -1489,6 +1389,7 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰秀
 凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
 凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
+凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
@@ -2100,6 +2001,7 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 
 🐼电影轮播,#genre#
 
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
@@ -2711,6 +2613,11 @@ MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 天空体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
 天空体育4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
 天空体育5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+
+<br />
+<b>Warning</b>:  Undefined variable $海淀联通组播 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/7.php</b> on line <b>68</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $北京联通 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/7.php</b> on line <b>69</b><br />
 
 🐼4K专线,#genre#
 
@@ -4011,6 +3918,8 @@ CETV4,http://124.112.241.134:4022/udp/238.1.78.107:6728
 哈哈炫动,http://124.112.241.134:4022/udp/238.1.78.82:6528
 金鹰卡通,http://124.112.241.134:4022/udp/238.1.78.100:6672
 山东教育,http://124.112.241.134:4022/udp/238.1.78.254:7904
+<br />
+<b>Warning</b>:  Undefined variable $锦江电信组播 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/9.php</b> on line <b>48</b><br />
 
 🐼电影频道,#genre#
 
@@ -4549,6 +4458,8 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 滨海新区2,http://125.37.57.186:18888/udp/225.1.2.8:5002
 4K超清影视,http://125.37.57.186:18888/udp/225.1.1.156:5002
 
+<br />
+<b>Warning</b>:  Undefined variable $官方源 in <b>/www/wwwroot/tv.tvbox6.icu/tv/s/12.php</b> on line <b>24</b><br />
 🐼河北ID12,#genre#
 
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58$官方源
