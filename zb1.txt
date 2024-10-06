@@ -39,43 +39,51 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 更新2024-10-06,http://api.yujn.cn/api/jiepai.php?type=video
 
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>87</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>358</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>88</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>359</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>89</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>360</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>90</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>361</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>91</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>362</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>92</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>363</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>93</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>364</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>94</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>365</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>95</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>366</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>96</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>367</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>97</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>368</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>98</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>369</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>99</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>370</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>100</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>371</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>101</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>372</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>102</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>373</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>103</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>374</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>104</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>375</b><br />
 <br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>105</b><br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>376</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>377</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>378</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>379</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>380</b><br />
 <br />
 <b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>381</b><br />
 <br />
@@ -88,52 +96,6 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 <b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>385</b><br />
 <br />
 <b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>386</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>387</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>388</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>389</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>390</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>391</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>392</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>393</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>394</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>395</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>396</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>397</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>398</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>399</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>400</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>401</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>402</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>403</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>404</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>405</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>406</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>407</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>408</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>409</b><br />
 🐼中央电视,#genre#
 
 CCTV1综合,http://117.72.68.25:9930/migu.php?id=cctv1$咪咕直播
@@ -155,6 +117,8 @@ CCTV13新闻,http://117.72.68.25:9930/migu.php?id=cctv13$咪咕直播
 CCTV14少儿,http://117.72.68.25:9930/migu.php?id=cctv14$咪咕直播
 CCTV15音乐,http://117.72.68.25:9930/migu.php?id=cctv15$咪咕直播
 CCTV17农业农村,http://117.72.68.25:9930/migu.php?id=cctv17$咪咕直播
+
+CCTV6电影,http://8.138.7.223/tv/cctv6.m3u8$官方频道
 
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动 | 回看
 CCTV2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$移动 | 回看
@@ -193,48 +157,23 @@ CCTV14少儿,http://dd.ddzb.fun/php/gzyx.php?id=9a8a29dbf54f51d4502ae2cbf87272b4
 CCTV15音乐,http://dd.ddzb.fun/php/gzyx.php?id=3f7ce58607980e4a75c3d065ef4e33d3$有线电视
 CCTV17农业农村,http://dd.ddzb.fun/php/gzyx.php?id=f5bc1ced6da68073115cc7ccd2c8925b$有线电视
 
-CCTV6电影,http://8.138.7.223/tv/cctv6.m3u8$官方频道
-
-CCTV1综合,http://8.138.7.223/tv/cqyx2.php?id=cctv1HD
-CCTV2财经,http://8.138.7.223/tv/cqyx2.php?id=cctv2HD
-CCTV3综艺,http://8.138.7.223/tv/cqyx2.php?id=cctv3HD
-CCTV4中文国际,http://8.138.7.223/tv/cqyx2.php?id=cctv4HD
-CCTV5体育,http://8.138.7.223/tv/cqyx2.php?id=cctv5HD
-CCTV5+体育赛事,http://8.138.7.223/tv/cqyx2.php?id=cctv5SportHD
-CCTV6电影,http://8.138.7.223/tv/cqyx2.php?id=cctv6HD
-CCTV7国防军事,http://8.138.7.223/tv/cqyx2.php?id=cctv7HD
-CCTV8电视剧,http://8.138.7.223/tv/cqyx2.php?id=cctv8HD
-CCTV9纪录,http://8.138.7.223/tv/cqyx2.php?id=cctv9HD
-CCTV10科教,http://8.138.7.223/tv/cqyx2.php?id=cctv10HD
-CCTV11戏曲,http://8.138.7.223/tv/cqyx2.php?id=cctv11HD
-CCTV12社会与法,http://8.138.7.223/tv/cqyx2.php?id=cctv12HD
-CCTV13新闻,http://8.138.7.223/tv/cqyx2.php?id=CCTVNewsHD
-CCTV14少儿,http://8.138.7.223/tv/cqyx2.php?id=cctvseHD
-CCTV15音乐,http://8.138.7.223/tv/cqyx2.php?id=cctv15HD
-CCTV16奥林匹克,http://8.138.7.223/tv/cqyx2.php?id=cctv16HD
-CCTV17农业农村,http://8.138.7.223/tv/cqyx2.php?id=cctv17HD
-CCTV4K超高清,http://8.138.7.223/tv/cqyx2.php?id=CCTV4K
-
-CCTV1综合,http://8.138.7.223/tv/zb/bjcucc.php?id=1$北京联通组播
-CCTV2财经,http://8.138.7.223/tv/zb/bjcucc.php?id=2$北京联通组播
-CCTV3综艺,http://8.138.7.223/tv/zb/bjcucc.php?id=3$北京联通组播
-CCTV4中文国际,http://8.138.7.223/tv/zb/bjcucc.php?id=4$北京联通组播
-CCTV4欧洲,http://8.138.7.223/tv/zb/bjcucc.php?id=19$北京联通组播
-CCTV4美洲,http://8.138.7.223/tv/zb/bjcucc.php?id=20$北京联通组播
-CCTV5体育,http://8.138.7.223/tv/zb/bjcucc.php?id=5$北京联通组播
-CCTV5+体育赛事,http://8.138.7.223/tv/zb/bjcucc.php?id=6$北京联通组播
-CCTV6电影,http://8.138.7.223/tv/zb/bjcucc.php?id=7$北京联通组播
-CCTV7国防军事,http://8.138.7.223/tv/zb/bjcucc.php?id=8$北京联通组播
-CCTV8电视剧,http://8.138.7.223/tv/zb/bjcucc.php?id=9$北京联通组播
-CCTV9纪录,http://8.138.7.223/tv/zb/bjcucc.php?id=10$北京联通组播
-CCTV10科教,http://8.138.7.223/tv/zb/bjcucc.php?id=11$北京联通组播
-CCTV11戏曲,http://8.138.7.223/tv/zb/bjcucc.php?id=12$北京联通组播
-CCTV12社会与法,http://8.138.7.223/tv/zb/bjcucc.php?id=13$北京联通组播
-CCTV13新闻,http://8.138.7.223/tv/zb/bjcucc.php?id=14$北京联通组播
-CCTV14少儿,http://8.138.7.223/tv/zb/bjcucc.php?id=15$北京联通组播
-CCTV15音乐,http://8.138.7.223/tv/zb/bjcucc.php?id=16$北京联通组播
-CCTV16奥林匹克,http://8.138.7.223/tv/zb/bjcucc.php?id=17$北京联通组播
-CCTV17农业农村,http://8.138.7.223/tv/zb/bjcucc.php?id=18$北京联通组播
+CCTV1综合,http://tvbox6.com/tv/bfgd.php?id=488$北方广电
+CCTV2财经,http://tvbox6.com/tv/bfgd.php?id=061$北方广电
+CCTV3综艺,http://tvbox6.com/tv/bfgd.php?id=062$北方广电
+CCTV4中文国际,http://tvbox6.com/tv/bfgd.php?id=063$北方广电
+CCTV5体育,http://tvbox6.com/tv/bfgd.php?id=064$北方广电
+CCTV5+体育赛事,http://tvbox6.com/tv/bfgd.php?id=246$北方广电
+CCTV6电影,http://tvbox6.com/tv/bfgd.php?id=065$北方广电
+CCTV7国防军事,http://tvbox6.com/tv/bfgd.php?id=127$北方广电
+CCTV8电视剧,http://tvbox6.com/tv/bfgd.php?id=066$北方广电
+CCTV9纪录,http://tvbox6.com/tv/bfgd.php?id=128$北方广电
+CCTV10科教,http://tvbox6.com/tv/bfgd.php?id=129$北方广电
+CCTV11戏曲,http://tvbox6.com/tv/bfgd.php?id=130$北方广电
+CCTV12社会与法,http://tvbox6.com/tv/bfgd.php?id=131$北方广电
+CCTV13新闻,http://tvbox6.com/tv/bfgd.php?id=067$北方广电
+CCTV14少儿,http://tvbox6.com/tv/bfgd.php?id=132$北方广电
+CCTV15音乐,http://tvbox6.com/tv/bfgd.php?id=133$北方广电
+CCTV17农业农村,http://tvbox6.com/tv/bfgd.php?id=204$北方广电
 
 CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=1$mgitv
 CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=2$mgitv
@@ -732,83 +671,6 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&livemode=1&stbId=4&Contentid=1000000001000009082
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
-
-🐼上海ID18,#genre#
-
-上海新闻,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-上海都市,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-上海外语,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
-七彩戏剧,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
-五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-东方影视,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
-法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
-
-五星体育,http://avd.iptviptv.site:9694/hls/150/index.m3u8
-新闻综合,http://avd.iptviptv.site:9694/hls/151/index.m3u8
-东方财经,http://avd.iptviptv.site:9694/hls/152/index.m3u8
-第一财经,http://avd.iptviptv.site:9694/hls/153/index.m3u8
-法治天地,http://avd.iptviptv.site:9694/hls/154/index.m3u8
-都市频道,http://avd.iptviptv.site:9694/hls/155/index.m3u8
-东方影视,http://avd.iptviptv.site:9694/hls/156/index.m3u8
-上海教育,http://avd.iptviptv.site:9694/hls/157/index.m3u8
-七彩戏剧,http://avd.iptviptv.site:9694/hls/158/index.m3u8
-金色学堂,http://avd.iptviptv.site:9694/hls/159/index.m3u8
-
-第一财经,http://tv.tvbox6.icu/tv/migu.php?id=dycj$咪咕854
-上视纪实人文,http://tv.tvbox6.icu/tv/migu.php?id=shjsrw$咪咕1280
-上海外语,http://tv.tvbox6.icu/tv/migu.php?id=shics$咪咕854
-法治天地,http://tv.tvbox6.icu/tv/migu.php?id=fztd$咪咕1280
-劲爆体育,http://tv.tvbox6.icu/tv/migu.php?id=jbty$咪咕1280
-魅力足球,http://tv.tvbox6.icu/tv/migu.php?id=mlzq$咪咕1280
-乐游,http://tv.tvbox6.icu/tv/migu.php?id=ly$咪咕1280
-欢笑剧场,http://tv.tvbox6.icu/tv/migu.php?id=hxjc$咪咕1280
-七彩戏剧,http://tv.tvbox6.icu/tv/migu.php?id=qcxj$咪咕1280
-游戏风云,http://tv.tvbox6.icu/tv/migu.php?id=yxfy$咪咕1280
-四海钓鱼,http://tv.tvbox6.icu/tv/migu.php?id=shdy$咪咕1280
-
-第一财经,http://tv.tvbox6.icu/tv/yicai.php?id=dycjhd$官方源
-东方财经,http://tv.tvbox6.icu/tv/yicai.php?id=dfcjhd$官方源
-
-新闻综合,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=1$上海电信组播
-东方卫视,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=2$上海电信组播
-都市频道,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=3$上海电信组播
-纪实人文,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=4$上海电信组播
-东方影视,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=5$上海电信组播
-第一财经,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=6$上海电信组播
-五星体育,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=7$上海电信组播
-哈哈炫动,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=8$上海电信组播
-上视外语,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=9$上海电信组播
-都市剧场,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=10$上海电信组播
-欢笑剧场,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=11$上海电信组播
-欢笑剧场,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=12$上海电信组播
-全纪实,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=13$上海电信组播
-动漫秀场,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=31$上海电信组播
-生活时尚,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=32$上海电信组播
-游戏风云,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=33$上海电信组播
-MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
-教育台,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=35$上海电信组播
-东方财经,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=36$上海电信组播
-七彩戏剧,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=37$上海电信组播
-法治天地,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=38$上海电信组播
-浦东频道,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=39$上海电信组播
-崇明电视,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=40$上海电信组播
-嘉定频道,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=41$上海电信组播
-金色频道,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=42$上海电信组播
-健康人生,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=43$上海电信组播
-百事通超级体育,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=44$上海电信组播
-百事通4K,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=45$上海电信组播
-百事通4K,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=46$上海电信组播
-
-浦东电视台,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB$官方
-魅力足球,http://61.136.96.78:880/97.m3u8$官方
-东方购物,http://ocj2.kksmg.com/ocj2/ocj2.m3u8$官方
-嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8$官方
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8$官方
-上海普陀综合,http://tv.tvbox6.icu/tv/quklive.php?id=18
-上海教育,http://8.138.7.223/tv/shsetv.php
-上海教育,http://8.138.7.223/tv/shsetv1.php
 
 <br />
 <b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>95</b><br />
