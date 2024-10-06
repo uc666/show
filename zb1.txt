@@ -32,70 +32,12 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140
 风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
 风云足球,http://154.12.55.21/zb/zb.php?id=239.253.93.254:6432475173f06f696049e5f5502479f743f1&v=3&time=0
-更新2024-10-06,https://api.lq.mba/api/dm-xjj
-更新2024-10-06,https://api.yujn.cn/api/duilian.php?type=video
-更新2024-10-06,https://api.kuleu.com/api/xjj?type=string
-更新2024-10-06,http://api.yujn.cn/api/juhexjj.php?type=video
-更新2024-10-06,http://api.yujn.cn/api/jiepai.php?type=video
+更新2024-10-07,https://api.lq.mba/api/dm-xjj
+更新2024-10-07,https://api.yujn.cn/api/duilian.php?type=video
+更新2024-10-07,https://api.kuleu.com/api/xjj?type=string
+更新2024-10-07,http://api.yujn.cn/api/juhexjj.php?type=video
+更新2024-10-07,http://api.yujn.cn/api/jiepai.php?type=video
 
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>358</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>359</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>360</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>361</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>362</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>363</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>364</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>365</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>366</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>367</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>368</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>369</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>370</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>371</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>372</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>373</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>374</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>375</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>376</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>377</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>378</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>379</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>380</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>381</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>382</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>383</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>384</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>385</b><br />
-<br />
-<b>Warning</b>:  Undefined variable $重庆有线 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/1.php</b> on line <b>386</b><br />
 🐼中央电视,#genre#
 
 CCTV1综合,http://117.72.68.25:9930/migu.php?id=cctv1$咪咕直播
@@ -422,38 +364,6 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 海南卫视,http://8.138.7.223/tv/bst8m.php?id=51$百事通8M
 厦门卫视,http://8.138.7.223/tv/bst8m.php?id=52$百事通8M
 康巴卫视,http://8.138.7.223/tv/bst8m.php?id=53$百事通8M
-
-北京卫视,http://8.138.7.223/tv/cqyx2.php?id=beijingHD$重庆有线
-东方卫视,http://8.138.7.223/tv/cqyx2.php?id=shanghaiHD$重庆有线
-天津卫视,http://8.138.7.223/tv/cqyx2.php?id=tianjinHD
-重庆卫视,http://8.138.7.223/tv/cqyx2.php?id=chongqingHD
-黑龙江卫视,http://8.138.7.223/tv/cqyx2.php?id=heilongjiangHD
-吉林卫视,http://8.138.7.223/tv/cqyx2.php?id=jilinHD
-辽宁卫视,http://8.138.7.223/tv/cqyx2.php?id=liaoningHD
-内蒙古卫视,http://8.138.7.223/tv/cqyx2.php?id=neimengkuSD
-宁夏卫视,http://8.138.7.223/tv/cqyx2.php?id=ningxia
-青海卫视,http://8.138.7.223/tv/cqyx2.php?id=qinghaiSD
-河北卫视,http://8.138.7.223/tv/cqyx2.php?id=hebeiSD
-山西卫视,http://8.138.7.223/tv/cqyx2.php?id=shanxiSD
-安徽卫视,http://8.138.7.223/tv/cqyx2.php?id=anhuiSD
-河南卫视,http://8.138.7.223/tv/cqyx2.php?id=henanHD
-湖北卫视,http://8.138.7.223/tv/cqyx2.php?id=hubeiSD
-湖南卫视,http://8.138.7.223/tv/cqyx2.php?id=hunanHD
-江西卫视,http://8.138.7.223/tv/cqyx2.php?id=jiangxiHD
-江苏卫视,http://8.138.7.223/tv/cqyx2.php?id=jiangsuHD
-浙江卫视,http://8.138.7.223/tv/cqyx2.php?id=zhejiangHD
-东南卫视,http://8.138.7.223/tv/cqyx2.php?id=dongnanHD
-广东卫视,http://8.138.7.223/tv/cqyx2.php?id=guangdongHD
-深圳卫视,http://8.138.7.223/tv/cqyx2.php?id=shenzhenHD
-广西卫视,http://8.138.7.223/tv/cqyx2.php?id=guangxiHD
-云南卫视,http://8.138.7.223/tv/cqyx2.php?id=yunanSD
-贵州卫视,http://8.138.7.223/tv/cqyx2.php?id=guizhouHD
-四川卫视,http://8.138.7.223/tv/cqyx2.php?id=sichuanHD
-新疆卫视,http://8.138.7.223/tv/cqyx2.php?id=xinjiangSD
-兵团卫视,http://8.138.7.223/tv/cqyx2.php?id=bingtuanSD
-西藏卫视,http://8.138.7.223/tv/cqyx2.php?id=xizangSD
-海南卫视,http://8.138.7.223/tv/cqyx2.php?id=hainanSD
-三沙卫视,http://8.138.7.223/tv/cqyx2.php?id=sanshaSD
 
 重庆卫视,http://8.138.7.223/tv/zb/bjcucc.php?id=77$北京联通组播HD
 江西卫视,http://8.138.7.223/tv/zb/bjcucc.php?id=78$北京联通组播HD
@@ -1339,13 +1249,14 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
 凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
 凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
+凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass 
 
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-凤凰中文台,http://e2.woc.iiiya.cn:8888/udp/239.61.2.184:9092
-凤凰中文台,http://e2.woc.iiiya.cn:8888/udp/239.61.5.48:1025
-凤凰资讯台,http://e2.woc.iiiya.cn:8888/udp/239.61.2.183:9086
-凤凰资讯台,http://e2.woc.iiiya.cn:8888/udp/239.61.5.47:1025
+凤凰中文,http://e2.woc.iiiya.cn:8888/udp/239.61.2.184:9092
+凤凰中文,http://e2.woc.iiiya.cn:8888/udp/239.61.5.48:1025
+凤凰资讯,http://e2.woc.iiiya.cn:8888/udp/239.61.2.183:9086
+凤凰资讯,http://e2.woc.iiiya.cn:8888/udp/239.61.5.47:1025
 凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
@@ -1407,6 +1318,8 @@ RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/st
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK31,https://stream1.freetv.fun/gang-tai-dian-shi--31-2.m3u8
 RTHK32,https://stream1.freetv.fun/gang-tai-dian-shi--32-1.m3u8
+AMC电影台,https://stream1.freetv.fun/amcdian-ying-1.m3u8 
+ANIMAX,https://stream1.freetv.fun/animax-1.m3u8
 
 //06星空卫视
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
@@ -4595,18 +4508,52 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8$官方
 兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8$官方
 🐼辽宁ID15,#genre#
+//辽宁电视台
+辽宁卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001945/1.m3u8$海南移动IPV6
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$黑龙江移动
 
-辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
-辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
-辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
-辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
-辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
-辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
-辽宁教育青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
+辽宁卫视,http://tvbox6.com/tv/bfgd.php?id=058$北方广电
+辽宁都市,http://tvbox6.com/tv/bfgd.php?id=610
+辽宁北方,http://tvbox6.com/tv/bfgd.php?id=071
+辽宁生活,http://tvbox6.com/tv/bfgd.php?id=073
+辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611
+辽宁影视剧,http://tvbox6.com/tv/bfgd.php?id=070
+辽宁教育青少,http://tvbox6.com/tv/bfgd.php?id=075
+辽宁经济,http://tvbox6.com/tv/bfgd.php?id=076
+辽宁公共,http://tvbox6.com/tv/bfgd.php?id=077
+辽宁公共,http://tvbox6.com/tv/bfgd.php?id=481
+辽宁经济,http://tvbox6.com/tv/bfgd.php?id=480
+北方导视,http://tvbox6.com/tv/bfgd.php?id=187
+辽宁新动漫,http://tvbox6.com/tv/bfgd.php?id=140
 
-辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
+沈阳新闻综合,http://tvbox6.com/tv/bfgd.php?id=059
+抚顺综合,http://tvbox6.com/tv/bfgd.php?id=275
+鞍山新闻综合,http://tvbox6.com/tv/bfgd.php?id=274
+大连新闻综合,http://tvbox6.com/tv/bfgd.php?id=273
+丹东新闻综合,http://tvbox6.com/tv/bfgd.php?id=276
+锦州新闻综合,http://tvbox6.com/tv/bfgd.php?id=277
+阜新综合,http://tvbox6.com/tv/bfgd.php?id=279
+辽阳新闻综合,http://tvbox6.com/tv/bfgd.php?id=280
+营口新闻综合,http://tvbox6.com/tv/bfgd.php?id=278
+盘锦新闻综合,http://tvbox6.com/tv/bfgd.php?id=283
+铁岭新闻综合,http://tvbox6.com/tv/bfgd.php?id=281
+朝阳新闻综合,http://tvbox6.com/tv/bfgd.php?id=282
+本溪综合,http://tvbox6.com/tv/bfgd.php?id=312
+连山区综合,http://tvbox6.com/tv/bfgd.php?id=491
+龙港区综合,http://tvbox6.com/tv/bfgd.php?id=490
+葫芦岛新闻综合,http://tvbox6.com/tv/bfgd.php?id=284
+
+辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8$鞍山联通
+辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8$鞍山联通
+辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8$鞍山联通
+辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8$鞍山联通
+辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8$鞍山联通
+辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8$鞍山联通
+辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$鞍山联通
+辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8$鞍山联通
+辽宁教育青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8$鞍山联通
+
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8$北方广电代理
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
 辽宁卫视HD,http://120.76.248.139/live/bfgd/4200000058.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
@@ -4640,51 +4587,7 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 铁岭综合频道,http://120.76.248.139/live/bfgd/4200000281.m3u8
 营口新闻频道,http://120.76.248.139/live/bfgd/4200000278.m3u8
 
-辽宁卫视,http://59.44.102.18:8888/newlive/live/hls/42/live.m3u8
-辽宁公共,http://59.44.102.18:8888/newlive/live/hls/44/live.m3u8
-辽宁生活,http://59.44.102.18:8888/newlive/live/hls/45/live.m3u8
-辽宁都市,http://59.44.102.18:8888/newlive/live/hls/46/live.m3u8
-辽宁经济,http://59.44.102.18:8888/newlive/live/hls/47/live.m3u8
-辽宁体育休闲,http://59.44.102.18:8888/newlive/live/hls/48/live.m3u8
-辽宁影视剧,http://59.44.102.18:8888/newlive/live/hls/49/live.m3u8
-辽宁北方,http://59.44.102.18:8888/newlive/live/hls/50/live.m3u8
-辽宁教育青少,http://59.44.102.18:8888/newlive/live/hls/51/live.m3u8
-大连新闻综合,http://59.44.102.18:8888/newlive/live/hls/52/live.m3u8
-
 大连文体频道,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500$官方源
-
-辽宁卫视,http://tv.tvbox6.icu/tv/bfgd.php?id=058$北方广电高清
-辽宁都市,http://tv.tvbox6.icu/tv/bfgd.php?id=610$北方广电高清
-辽宁北方,http://tv.tvbox6.icu/tv/bfgd.php?id=071$北方广电高清
-辽宁生活,http://tv.tvbox6.icu/tv/bfgd.php?id=073$北方广电高清
-辽宁体育,http://tv.tvbox6.icu/tv/bfgd.php?id=611$北方广电高清
-辽宁影视剧,http://tv.tvbox6.icu/tv/bfgd.php?id=070$北方广电高清
-辽宁教育青少,http://tv.tvbox6.icu/tv/bfgd.php?id=075$北方广电高清
-辽宁经济,http://tv.tvbox6.icu/tv/bfgd.php?id=076$北方广电高清
-辽宁公共,http://tv.tvbox6.icu/tv/bfgd.php?id=077$北方广电高清
-辽宁公共,http://tv.tvbox6.icu/tv/bfgd.php?id=481$北方广电高清
-辽宁经济,http://tv.tvbox6.icu/tv/bfgd.php?id=480$北方广电高清
-北方导视,http://tv.tvbox6.icu/tv/bfgd.php?id=187$北方广电高清
-辽宁新动漫,http://tv.tvbox6.icu/tv/bfgd.php?id=140$北方广电
-沈阳新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=059$北方广电高清
-抚顺综合,http://tv.tvbox6.icu/tv/bfgd.php?id=275$北方广电
-鞍山新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=274$北方广电
-大连新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=273$北方广电
-丹东新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=276$北方广电
-锦州新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=277$北方广电
-阜新综合,http://tv.tvbox6.icu/tv/bfgd.php?id=279$北方广电
-辽阳新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=280$北方广电
-营口新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=278$北方广电
-盘锦新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=283$北方广电
-铁岭新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=281$北方广电
-朝阳新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=282$北方广电
-本溪综合,http://tv.tvbox6.icu/tv/bfgd.php?id=312$北方广电
-连山区综合,http://tv.tvbox6.icu/tv/bfgd.php?id=491$北方广电
-龙港区综合,http://tv.tvbox6.icu/tv/bfgd.php?id=490$北方广电
-葫芦岛新闻综合,http://tv.tvbox6.icu/tv/bfgd.php?id=284$北方广电
-
-辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6568C05FU3193204BK78434123I75F565DFP2BF4M340D4BFV20A50Z339C9W179C755E45F0F9ED&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000068
-大连新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
 
 辽宁都市,http://gang.pecmd.cn:6000/rtp/232.0.0.154:1234$辽宁鞍山联通
 辽宁公共,http://gang.pecmd.cn:6000/rtp/232.0.0.168:1234$辽宁鞍山联通
