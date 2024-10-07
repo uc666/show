@@ -582,6 +582,58 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 
+🐼安徽ID21,#genre#
+
+安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+
+安徽卫视FHD,http://8.138.7.223/tv/zb/ahctcc.php?id=54\安徽电信组播
+安徽经济HD,http://8.138.7.223/tv/zb/ahctcc.php?id=55\安徽电信组播
+安徽影视HD,http://8.138.7.223/tv/zb/ahctcc.php?id=56\安徽电信组播
+安徽公共HD,http://8.138.7.223/tv/zb/ahctcc.php?id=57\安徽电信组播
+安徽体育HD,http://8.138.7.223/tv/zb/ahctcc.php?id=58\安徽电信组播
+安徽科教HD,http://8.138.7.223/tv/zb/ahctcc.php?id=59\安徽电信组播
+安徽人物HD,http://8.138.7.223/tv/zb/ahctcc.php?id=60\安徽电信组播
+安徽国际,http://8.138.7.223/tv/zb/ahctcc.php?id=61\安徽电信组播
+安徽导视,http://8.138.7.223/tv/zb/ahctcc.php?id=62\安徽电信组播
+
+安徽卫视FHD,http://183.164.59.71:8888/udp/238.1.79.27:4328
+安徽经济HD,http://183.164.59.71:8888/udp/238.1.79.44:4464
+安徽影视HD,http://183.164.59.71:8888/udp/238.1.79.42:4448
+安徽公共HD,http://183.164.59.71:8888/udp/238.1.79.43:4456
+安徽体育HD,http://183.164.59.71:8888/udp/238.1.79.41:4440
+安徽科教HD,http://183.164.59.71:8888/udp/238.1.79.40:4432
+安徽人物HD,http://183.164.59.71:8888/udp/238.1.79.45:4472
+安徽国际,http://183.164.59.71:8888/udp/238.1.78.61:6360
+安徽导视,http://183.164.59.71:8888/udp/238.1.79.66:4664
+
+安徽卫视FHD,http://124.112.241.134:4022/udp/238.1.79.27:4328
+安徽经济HD,http://124.112.241.134:4022/udp/238.1.79.44:4464
+安徽影视HD,http://124.112.241.134:4022/udp/238.1.79.42:4448
+安徽公共HD,http://124.112.241.134:4022/udp/238.1.79.43:4456
+安徽体育HD,http://124.112.241.134:4022/udp/238.1.79.41:4440
+安徽科教HD,http://124.112.241.134:4022/udp/238.1.79.40:4432
+安徽人物HD,http://124.112.241.134:4022/udp/238.1.79.45:4472
+安徽国际,http://124.112.241.134:4022/udp/238.1.78.61:6360
+安徽导视,http://124.112.241.134:4022/udp/238.1.79.66:4664
+
+宿州新闻综合频道,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+宿州经济生活频道,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+宿州科技教育频道,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+淮南新闻综合频道,http://stream.0554news.com/hnds1/sd/live.m3u8
+淮南民生频道,http://stream.0554news.com/hnds2/sd/live.m3u8
+池州文化生活频道,http://cm.wshls.homecdn.com/live/4abdf.m3u8
+亳州农村频道,http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
+灵璧县电视台,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+固镇县电视台,http://www.guzhenm.com:7001/hls/hd-live.m3u8
+歙县电视台,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+肥西县电视台,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5.flv
+利辛新闻电视台,https://live.fst1994.net/hls/lixinxw/index.m3u8
+安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
+利辛影视电视台,https://live.fst1994.net/hls/lixinys/index.m3u8
 <br />
 <b>Warning</b>:  Undefined variable $江西cmc3 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/2.php</b> on line <b>95</b><br />
 <br />
@@ -5286,6 +5338,12 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 福建经济,http://8.138.7.223/tv/fjtv.php?id=9$官方源
 福建文体,http://8.138.7.223/tv/fjtv.php?id=10$官方源
 福建少儿,http://8.138.7.223/tv/fjtv.php?id=2$官方源
+
+//厦门电视台
+厦门卫视,http://8.138.7.223/tv/xmtv.php?id=xmws$厦门电视台
+厦门一套,http://8.138.7.223/tv/xmtv.php?id=xm1$厦门电视台
+厦门二套,http://8.138.7.223/tv/xmtv.php?id=xm2$厦门电视台
+厦门移动,http://8.138.7.223/tv/xmtv.php?id=xmyd$厦门电视台
 
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$官方源
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$官方源
