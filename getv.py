@@ -16,7 +16,7 @@ headers = {'User-Agent': 'okhttp/3.15'}
 
 # 定义两个 URL
 urls = [
-    "http://8.138.7.223/8.php?all=1",
+    "http://8.138.7.223/11.php?all=1",
     "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/zb2.txt"
 ]
 
