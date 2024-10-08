@@ -1037,23 +1037,6 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 金鹰纪实,http://video.qd.sdu.edu.cn/liverespath/d623386366118b9f7e610c167dbb8dc552b7660c/index.m3u8
 全纪实,http://video.qd.sdu.edu.cn/liverespath/56840359360f071dfdd9568e7ab86d1b3232a9ee/index.m3u8
 
-CHC家庭影院,http://avd.iptviptv.site:9694/hls/700/index.m3u8
-CHC动作电影,http://avd.iptviptv.site:9694/hls/701/index.m3u8
-CHC影迷电影,http://avd.iptviptv.site:9694/hls/702/index.m3u8
-星空卫视,http://avd.iptviptv.site:9694/hls/703/index.m3u8
-风云足球,http://avd.iptviptv.site:9694/hls/704/index.m3u8
-央视台球,http://avd.iptviptv.site:9694/hls/705/index.m3u8
-高尔夫网球,http://avd.iptviptv.site:9694/hls/706/index.m3u8
-女性时尚,http://avd.iptviptv.site:9694/hls/707/index.m3u8
-世界地理,http://avd.iptviptv.site:9694/hls/708/index.m3u8
-怀旧剧场,http://avd.iptviptv.site:9694/hls/709/index.m3u8
-风云剧场,http://avd.iptviptv.site:9694/hls/710/index.m3u8
-第一剧场,http://avd.iptviptv.site:9694/hls/711/index.m3u8
-老故事,http://avd.iptviptv.site:9694/hls/712/index.m3u8
-中学生,http://avd.iptviptv.site:9694/hls/713/index.m3u8
-快乐垂钓,http://avd.iptviptv.site:9694/hls/714/index.m3u8
-天元围棋,http://avd.iptviptv.site:9694/hls/715/index.m3u8
-
 🐼网络电视,#genre#
 
 郑铁频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
@@ -7011,48 +6994,6 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 海南自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 🐼重庆ID31,#genre#
 
-重庆卫视超高清,http://27.11.56.147:8008/udp/225.0.4.187:7980
-重庆新闻超高清,http://27.11.56.147:8008/udp/225.0.4.188:7980
-重庆影视超高清,http://27.11.56.147:8008/udp/225.0.4.192:7980
-重庆社会与法超高清,http://27.11.56.147:8008/udp/225.0.4.190:7980
-重庆时尚生活超高清,http://27.11.56.147:8008/udp/225.0.4.196:7980
-重庆娱乐超高清,http://27.11.56.147:8008/udp/225.0.4.194:7980
-重庆新农村超高清,http://27.11.56.147:8008/udp/225.0.4.189:7980
-重庆少儿超高清,http://27.11.56.147:8008/udp/225.0.4.191:7980
-重庆科教超高清,http://27.11.56.147:8008/udp/225.0.4.193:7980
-重庆汽摩超高清,http://27.11.56.147:8008/udp/225.0.4.195:7980
-CQTV移动超高清,http://27.11.56.147:8008/udp/225.0.4.215:7980
-CQTV移动,http://27.11.56.147:8008/udp/225.0.4.68:7980
-时尚购物超高清,http://27.11.56.147:8008/udp/225.0.4.198:7980
-
-重庆卫视超高清,http://27.11.248.192:8007/udp/225.0.4.187:7980
-重庆新闻超高清,http://27.11.248.192:8007/udp/225.0.4.188:7980
-重庆影视超高清,http://27.11.248.192:8007/udp/225.0.4.192:7980
-重庆社会与法超高清,http://27.11.248.192:8007/udp/225.0.4.190:7980
-重庆时尚生活超高清,http://27.11.248.192:8007/udp/225.0.4.196:7980
-重庆娱乐超高清,http://27.11.248.192:8007/udp/225.0.4.194:7980
-重庆新农村超高清,http://27.11.248.192:8007/udp/225.0.4.189:7980
-重庆少儿超高清,http://27.11.248.192:8007/udp/225.0.4.191:7980
-重庆科教超高清,http://27.11.248.192:8007/udp/225.0.4.193:7980
-重庆汽摩超高清,http://27.11.248.192:8007/udp/225.0.4.195:7980
-CQTV移动超高清,http://27.11.248.192:8007/udp/225.0.4.215:7980
-CQTV移动,http://27.11.248.192:8007/udp/225.0.4.68:7980
-时尚购物超高清,http://27.11.248.192:8007/udp/225.0.4.198:7980
-
-重庆卫视超高清,http://113.205.19.231:8088/udp/225.0.4.187:7980
-重庆新闻超高清,http://113.205.19.231:8088/udp/225.0.4.188:7980
-重庆影视超高清,http://113.205.19.231:8088/udp/225.0.4.192:7980
-重庆社会与法超高清,http://113.205.19.231:8088/udp/225.0.4.190:7980
-重庆时尚生活超高清,http://113.205.19.231:8088/udp/225.0.4.196:7980
-重庆娱乐超高清,http://113.205.19.231:8088/udp/225.0.4.194:7980
-重庆新农村超高清,http://113.205.19.231:8088/udp/225.0.4.189:7980
-重庆少儿超高清,http://113.205.19.231:8088/udp/225.0.4.191:7980
-重庆科教超高清,http://113.205.19.231:8088/udp/225.0.4.193:7980
-重庆汽摩超高清,http://113.205.19.231:8088/udp/225.0.4.195:7980
-CQTV移动超高清,http://113.205.19.231:8088/udp/225.0.4.215:7980
-CQTV移动,http://113.205.19.231:8088/udp/225.0.4.68:7980
-时尚购物超高清,http://113.205.19.231:8088/udp/225.0.4.198:7980
-
 重庆卫视,http://tv.tvbox6.icu/tv/cqws.m3u8$官方源
 重庆新闻频道,http://tv.tvbox6.icu/tv/cbg3.m3u8$官方源
 重庆垫江综合,http://tv.tvbox6.icu/tv/quklive.php?id=1
@@ -7129,6 +7070,8 @@ CQTV移动,http://113.205.19.231:8088/udp/225.0.4.68:7980
 
 乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 乐山文旅生活,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel12/playlist.m3u8
+
+南充蓬安综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 
 四川|黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 四川|巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
