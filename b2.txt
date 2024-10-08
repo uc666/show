@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c",
   "logo": "./jar/logo.gif",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
@@ -83,7 +83,7 @@
     },
     {
       "key": "csp_JPYY",
-      "name": "🥇金牌┃1080P",
+      "name": "🥇文采┃1080P",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -233,12 +233,29 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json"
     },
     {
+      "key": "荐片",
+      "name": "🎬荐片┃磁力",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "1",
+      "ext": "http://api2.rinhome.com"
+    },
+    {
       "key": "csp_农民",
       "name": "🐶汪汪┃1080P",
       "type": 3,
       "playerType": 1,
       "changeable": 0,
-      "api": "csp_Nongm"
+      "api": "csp_Nongm",
+      "ext": "https://www.wwgz.cn/"
+    },
+    {
+      "key": "csp_yigeg",
+      "name": "🥬菠菜┃1080P",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_Pptv",
+      "ext": "https://yigeg.pro/"
     },
     {
       "key": "csp_全网",
