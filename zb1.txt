@@ -81,24 +81,6 @@ CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$移动 | 回看
 CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$移动 | 回看
 
-CCTV1综合,http://dd.ddzb.fun/php/gzyx.php?id=ca1f525f17a2eddd9c98fbe17997d9df$有线电视
-CCTV2财经,http://dd.ddzb.fun/php/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398$有线电视
-CCTV3综艺,http://dd.ddzb.fun/php/gzyx.php?id=9c19c05ea31400b3c85598e71b2c39cf$有线电视
-CCTV4中文国际,http://dd.ddzb.fun/php/gzyx.php?id=0ad5b86534e39cb9a77b00a76ac9fe12$有线电视
-CCTV5体育,http://dd.ddzb.fun/php/gzyx.php?id=4f8e268f178c3b0d2cf82c2997b0346b$有线电视
-CCTV5+体育赛事,http://dd.ddzb.fun/php/gzyx.php?id=33cf15c8ece66fe3c41d2e4ec707ef59$有线电视
-CCTV6电影,http://dd.ddzb.fun/php/gzyx.php?id=f590aa425023d9a327fa1b69678f51e7$有线电视
-CCTV7国防军事,http://dd.ddzb.fun/php/gzyx.php?id=3fa4584c5de70fde94692563299e998c$有线电视
-CCTV8电视剧,http://dd.ddzb.fun/php/gzyx.php?id=b755332610506fe4746830b72438ae86$有线电视
-CCTV9纪录,http://dd.ddzb.fun/php/gzyx.php?id=0f8ce350b1250e8e50f4d1b10042b1c5$有线电视
-CCTV10科教,http://dd.ddzb.fun/php/gzyx.php?id=a1a56acc29d03965227b40ff665e2377$有线电视
-CCTV11戏曲,http://dd.ddzb.fun/php/gzyx.php?id=f73d2482318583c3ba7513b4e21d4a48$有线电视
-CCTV12社会与法,http://dd.ddzb.fun/php/gzyx.php?id=113eb2f0bd0ca6cf1779140bd1bb525f$有线电视
-CCTV13新闻,http://dd.ddzb.fun/php/gzyx.php?id=9bd0e0cf065e0ea9f5adfb9f0bad355e$有线电视
-CCTV14少儿,http://dd.ddzb.fun/php/gzyx.php?id=9a8a29dbf54f51d4502ae2cbf87272b4$有线电视
-CCTV15音乐,http://dd.ddzb.fun/php/gzyx.php?id=3f7ce58607980e4a75c3d065ef4e33d3$有线电视
-CCTV17农业农村,http://dd.ddzb.fun/php/gzyx.php?id=f5bc1ced6da68073115cc7ccd2c8925b$有线电视
-
 CCTV1综合,http://tvbox6.com/tv/bfgd.php?id=488$北方广电
 CCTV2财经,http://tvbox6.com/tv/bfgd.php?id=061$北方广电
 CCTV3综艺,http://tvbox6.com/tv/bfgd.php?id=062$北方广电
@@ -269,65 +251,6 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$移动 | 回看
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$移动 | 回看
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$移动 | 回看
-
-东方卫视,http://dd.ddzb.fun/php/gzyx.php?id=d697d7112f7cf3609cd88b63cce479d4$有线电视
-吉林卫视,http://dd.ddzb.fun/php/gzyx.php?id=27975dec3d5bb0158291c75402d4a691$有线电视
-广东卫视,http://dd.ddzb.fun/php/gzyx.php?id=02f45209e8dab92899920d74157fe58b$有线电视
-安徽卫视,http://dd.ddzb.fun/php/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c$有线电视
-重庆卫视,http://dd.ddzb.fun/php/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9$有线电视
-云南卫视,http://dd.ddzb.fun/php/gzyx.php?id=ddeb36cf1dfe993107c20e7d42b14948$有线电视
-贵州卫视,http://dd.ddzb.fun/php/gzyx.php?id=9245676006cb79b03798b89fa05576b1$有线电视
-广西卫视,http://dd.ddzb.fun/php/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a$有线电视
-北京卫视,http://dd.ddzb.fun/php/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52$有线电视
-西藏卫视,http://dd.ddzb.fun/php/gzyx.php?id=9e0df14790c0e020e939da4d2bfa0521$有线电视
-甘肃卫视,http://dd.ddzb.fun/php/gzyx.php?id=576a584528110c09d82de6b45d7ce182$有线电视
-宁夏卫视,http://dd.ddzb.fun/php/gzyx.php?id=5ca170032259b805051967fe22da8e32$有线电视
-江苏卫视,http://dd.ddzb.fun/php/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24$有线电视
-陕西卫视,http://dd.ddzb.fun/php/gzyx.php?id=9206b0f22c4febf2d490a85ac02766a1$有线电视
-新疆卫视,http://dd.ddzb.fun/php/gzyx.php?id=9f18a3278d5b83dc37d52b059e5b068e$有线电视
-东南卫视,http://dd.ddzb.fun/php/gzyx.php?id=d3b7451d5e68fc29788f48089c1e5d25$有线电视
-辽宁卫视,http://dd.ddzb.fun/php/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56$有线电视
-山东卫视,http://dd.ddzb.fun/php/gzyx.php?id=1db177c7492ad2769a93e3746f25f701$有线电视
-浙江卫视,http://dd.ddzb.fun/php/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69$有线电视
-黑龙江卫视,http://dd.ddzb.fun/php/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e$有线电视
-内蒙古卫视,http://dd.ddzb.fun/php/gzyx.php?id=c429d41e2e18aa0cd5bd2c838d35eda7$有线电视
-天津卫视,http://dd.ddzb.fun/php/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683$有线电视
-河南卫视,http://dd.ddzb.fun/php/gzyx.php?id=a30fc79dc17df5a58885f43cd1aaaf2e$有线电视
-湖北卫视,http://dd.ddzb.fun/php/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca$有线电视
-江西卫视,http://dd.ddzb.fun/php/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19$有线电视
-湖南卫视,http://dd.ddzb.fun/php/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083$有线电视
-四川卫视,http://dd.ddzb.fun/php/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca$有线电视
-兵团卫视,http://dd.ddzb.fun/php/gzyx.php?id=0f425d173b623ea4c49c96c6f073d109$有线电视
-青海卫视,http://dd.ddzb.fun/php/gzyx.php?id=d563232cc923dbc4efb4293d8d588aeb$有线电视
-东方卫视,http://dd.ddzb.fun/php/gzyx.php?id=d697d7112f7cf3609cd88b63cce479d4$有线电视
-吉林卫视,http://dd.ddzb.fun/php/gzyx.php?id=27975dec3d5bb0158291c75402d4a691$有线电视
-广东卫视,http://dd.ddzb.fun/php/gzyx.php?id=02f45209e8dab92899920d74157fe58b$有线电视
-安徽卫视,http://dd.ddzb.fun/php/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c$有线电视
-重庆卫视,http://dd.ddzb.fun/php/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9$有线电视
-云南卫视,http://dd.ddzb.fun/php/gzyx.php?id=ddeb36cf1dfe993107c20e7d42b14948$有线电视
-贵州卫视,http://dd.ddzb.fun/php/gzyx.php?id=9245676006cb79b03798b89fa05576b1$有线电视
-广西卫视,http://dd.ddzb.fun/php/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a$有线电视
-北京卫视,http://dd.ddzb.fun/php/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52$有线电视
-西藏卫视,http://dd.ddzb.fun/php/gzyx.php?id=9e0df14790c0e020e939da4d2bfa0521$有线电视
-甘肃卫视,http://dd.ddzb.fun/php/gzyx.php?id=576a584528110c09d82de6b45d7ce182$有线电视
-宁夏卫视,http://dd.ddzb.fun/php/gzyx.php?id=5ca170032259b805051967fe22da8e32$有线电视
-江苏卫视,http://dd.ddzb.fun/php/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24$有线电视
-陕西卫视,http://dd.ddzb.fun/php/gzyx.php?id=9206b0f22c4febf2d490a85ac02766a1$有线电视
-新疆卫视,http://dd.ddzb.fun/php/gzyx.php?id=9f18a3278d5b83dc37d52b059e5b068e$有线电视
-东南卫视,http://dd.ddzb.fun/php/gzyx.php?id=d3b7451d5e68fc29788f48089c1e5d25$有线电视
-辽宁卫视,http://dd.ddzb.fun/php/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56$有线电视
-山东卫视,http://dd.ddzb.fun/php/gzyx.php?id=1db177c7492ad2769a93e3746f25f701$有线电视
-浙江卫视,http://dd.ddzb.fun/php/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69$有线电视
-黑龙江卫视,http://dd.ddzb.fun/php/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e$有线电视
-内蒙古卫视,http://dd.ddzb.fun/php/gzyx.php?id=c429d41e2e18aa0cd5bd2c838d35eda7$有线电视
-天津卫视,http://dd.ddzb.fun/php/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683$有线电视
-河南卫视,http://dd.ddzb.fun/php/gzyx.php?id=a30fc79dc17df5a58885f43cd1aaaf2e$有线电视
-湖北卫视,http://dd.ddzb.fun/php/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca$有线电视
-江西卫视,http://dd.ddzb.fun/php/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19$有线电视
-湖南卫视,http://dd.ddzb.fun/php/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083$有线电视
-四川卫视,http://dd.ddzb.fun/php/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca$有线电视
-兵团卫视,http://dd.ddzb.fun/php/gzyx.php?id=0f425d173b623ea4c49c96c6f073d109$有线电视
-青海卫视,http://dd.ddzb.fun/php/gzyx.php?id=d563232cc923dbc4efb4293d8d588aeb$有线电视
 
 北京卫视,http://8.138.7.223/tv/bst8m.php?id=19$百事通8M
 东方卫视,http://8.138.7.223/tv/bst8m.php?id=20$百事通8M
