@@ -71,15 +71,16 @@
       }
     },
     {
-      "key": "FreeOK",
-      "name": "👀FreeOK┃影视",
+      "key": "FERRR",
+      "name": "👀FREE┃1080P",
       "type": 3,
-      "api": "csp_Pptv",
-      "click": "try{function requestApix(callback){$.post(\"api.php\",{vid:getQueryString(\"vid\")},function(result){callback(result.data.url);},\"json\");}requestApix(function(data){location.href=sign(data);})}catch(e){}location.href=document.querySelector(\"#playleft iframe\").src;",
+      "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.freeok.lol"
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://www.mpanso.com/小米/FREE.js"
     },
     {
       "key": "88看球",
