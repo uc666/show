@@ -71,6 +71,15 @@
       }
     },
     {
+      "key": "Wexwwe",
+      "name": "WWE┃1080P",
+      "type": 3,
+      "api": "csp_Wexwwe",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
+    },
+    {
       "key": "FERRR",
       "name": "👀FREE┃1080P",
       "type": 3,
