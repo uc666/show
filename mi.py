@@ -139,6 +139,15 @@ try:
             "jar": "./jar/wddanmu.jar;md5;c52fb9e051491089b007fea2b3109ee8",
             "ext": {"danmu": True}
         }
+        new_site6 = {
+            "key": "Wexwwe",
+            "name": "WWE┃1080P",
+            "type": 3,
+            "api": "csp_Wexwwe",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
+        }
         
         # 将 new_site 和 new_site2 插入到特定位置
         data["sites"].insert(0, new_site)
@@ -146,6 +155,7 @@ try:
         data["sites"].insert(4, new_site3)
         data["sites"].insert(5, new_site4)
         data["sites"].insert(6, new_site5)
+        data["sites"].insert(7, new_site6)
 
     else:
         print('"sites" 键不在数据中')
