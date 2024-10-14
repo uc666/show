@@ -2,8 +2,7 @@
 "storeHouse": [
 {"sourceName":"🌸全网主力仓库🌸","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/dc.txt"},
 {"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/dx.txt"},
-{"sourceName":"🌺天微精选🌺","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
-{"sourceName":"欧歌","sourceUrl":"http://tv.nxog.top/"},
+{"sourceName":"🌺欧歌精选🌺","sourceUrl":"http://tv.nxog.top/"},
 {"sourceName":"金多宝","sourceUrl":"https://wds.ecsxs.com/227812.js"},
 {"sourceName":"云星","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"月光","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"},
