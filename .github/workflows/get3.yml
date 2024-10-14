@@ -1,0 +1,32 @@
+name: get3
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  Convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get M3U File
+        run: |
+          wget -q https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O ipv6.m3u
+
+      - name: Convert M3U to TXT
+        run: |
+          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$.*$/\1,\2/p' ipv6.m3u > zb3.txt
+
+      - name: Show zb3.txt
+        run: cat zb3.txt
+
+      - name: Push Converted File
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add zb3.txt
+          git commit -m "Auto-updated zb3.txt"
+          git push
