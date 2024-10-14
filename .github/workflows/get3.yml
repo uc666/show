@@ -3,6 +3,7 @@ name: Get 3
 on:
   schedule:
     - cron: '*/30 * * * *'
+      workflow_dispatch:
 
 jobs:
   convert:
