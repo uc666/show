@@ -1,32 +1,35 @@
-name: get3
+name: Get 3
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: 0 0 * * *
+  push:
+    branches:
+      - main
 
 jobs:
-  Convert:
+  convert_ipvt:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
-      - name: Get M3U File
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download M3U file
         run: |
-          wget -q https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O ipv6.m3u
-          
+          curl -s -o temp_file.yml https://raw.githubusercontent.com/Rivens7/Livelist/main/.github/workflows/IPTV_Update.yml
+
       - name: Convert M3U to TXT
         run: |
-          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$$.*$$/\1,\2/p' ipv6.m3u > zb3.txt
+          echo "央视频道,#genre#" > zb3.txt
+          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$.*$/\1,\2/p' temp_file.yml >> zb3.txt
+          echo "卫视频道,#genre#" >> zb3.txt
+          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$.*$/\1,\2/p' temp_file.yml >> zb3.txt
 
-      - name: Show zb3.txt
-        run: cat zb3.txt
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: zb3
+          path: zb3.txt
 
-      - name: Push Converted File
+      - name: Clean up
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add zb3.txt
-          git commit -m "Auto-updated zb3.txt"
-          git push
+          rm temp_file.yml
