@@ -161,7 +161,7 @@ try:
         print('"sites" 键不在数据中')
 
     # 删除指定的键
-    keys_to_remove = ["csp_wanou", "csp_zhizhen", "米搜", "配置", "虎牙直播js"]
+    keys_to_remove = ["csp_wanou", "csp_zhizhen", "米搜", "配置", "虎牙直播js"", "荐片"]
     data["sites"] = [site for site in data["sites"] if site.get("key") not in keys_to_remove]
     
     # 将修改后的内容转换为 JSON 字符串，并指定 ensure_ascii=False 以确保汉字和表情符号正常显示
