@@ -12,8 +12,6 @@
 
         { "url": "https://龙伊.top", "name": "🏄️龙伊" },
 
-        { "url": "https://yt.wya6.cn", "name": "🐹无意" },
-
         { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/", "name": "🐹放牛娃🐹" },
 
         { "url": "https://fmbox.cc", "name": "🏄️星辰" },
