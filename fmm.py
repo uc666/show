@@ -53,8 +53,8 @@ if "央视频道" in output_dict:
 
     # 将新频道添加到 ‘央视频道’ 中
     output_dict["央视频道"].extend(new_channels)
-# 将结果写入 tv.txt 文件
-with open("tv.txt", "w", encoding="utf-8") as output_file:
+# 将结果写入 zb3.txt 文件
+with open("zb3.txt", "w", encoding="utf-8") as output_file:
     # 遍历字典，写入结果文件
     for group_name, links in output_dict.items():
         output_file.write(f"{group_name},#genre#\n")
