@@ -35,6 +35,6 @@ jobs:
       run: |
        git config --global user.email "actions@github.com"
        git config --global user.name "GitHub Actions"
-       git add tv.txt
+       git add zb3.txt
        git commit -m "Update zb3.txt [skip ci]"
        git push
