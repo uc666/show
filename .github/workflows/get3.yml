@@ -18,7 +18,7 @@ jobs:
           
       - name: Convert M3U to TXT
         run: |
-          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$[^,]*$$/\1,\2/p' ipv6.m3u > zb3.txt
+          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$$.*$$/\1,\2/p' ipv6.m3u > zb3.txt
 
       - name: Show zb3.txt
         run: cat zb3.txt
