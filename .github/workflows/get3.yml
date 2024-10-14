@@ -15,14 +15,14 @@ jobs:
 
       - name: Download M3U file
         run: |
-          curl -s -o temp_file.yml https://raw.githubusercontent.com/Rivens7/Livelist/main/.github/workflows/IPTV_Update.yml
+          curl -s -o ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
       - name: Convert M3U to TXT
         run: |
           echo "央视频道,#genre#" > zb3.txt
-          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$.*$/\1,\2/p' temp_file.yml >> zb3.txt
+          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$.*$/\1,\2/p' ipv6.m3u >> zb3.txt
           echo "卫视频道,#genre#" >> zb3.txt
-          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$.*$/\1,\2/p' temp_file.yml >> zb3.txt
+          sed -n 's/^#EXTINF:-1 tvg-name="$[^"]*$".*group-title="[^"]*",$.*$/\1,\2/p' ipv6.m3u >> zb3.txt
 
       - name: Upload result
         uses: actions/upload-artifact@v2
@@ -32,4 +32,4 @@ jobs:
 
       - name: Clean up
         run: |
-          rm temp_file.yml
+          rm ipv6.m3u
