@@ -80,8 +80,6 @@
 
         { "url": "http://jinenyy.vip/app/tvbox/tvbox.json", "name": "🐹进恩哥" },
 
-        { "url": "https://gitee.com/tv888/tv/raw/master/svip.json", "name": "🐹天微" },
-
         { "url": "https://xn--8owq8u.com/tv/", "name": "🐹毒盒" },
         
         { "url": "http://www.meowtv.top", "name": "🐹喵影视🐹" }
