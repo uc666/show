@@ -284,12 +284,12 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json"
     },
     {
-      "key": "csp_农民",
+      "key": "csp_Wwys",
       "name": "🐶汪汪┃1080P",
       "type": 3,
       "playerType": 1,
       "changeable": 0,
-      "api": "csp_Nongm",
+      "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn/"
     },
     {
@@ -299,14 +299,6 @@
       "changeable": 0,
       "api": "csp_Pptv",
       "ext": "https://yigeg.pro/"
-    },
-    {
-      "key": "csp_全网",
-      "name": "🥣全网┃1080P",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_Quanwk",
-      "ext": "https://888.qkw2.cc/"
     },
     {
       "key": "csp_SP360",
