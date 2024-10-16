@@ -1,5 +1,3 @@
-import os
-import hashlib
 import re
 import base64
 import requests
@@ -40,46 +38,6 @@ try:
     data["wallpaper"] = "http://www.kf666888.cn/api/tvbox/img"
     data["logo"] = "./jar/logo.gif"
     data["warningText"] ="否极泰来,好运连连。"
-    # 处理 spider 字段
-    spider_url = data.get("spider")
-    if spider_url:
-        jar_url = spider_url.split(';')[0]
-        md5_remote = spider_url.split(';')[2]  # 获取 MD5 值
-
-        # 本地 JAR 文件路径
-        jar_filename = os.path.basename(jar_url)
-        local_jar_path = os.path.join('./jar', jar_filename)
-
-        # 创建 jar 目录（如果不存在）
-        os.makedirs('./jar', exist_ok=True)
-
-        # 计算本地 JAR 文件的 MD5 值
-        def calculate_md5(file_path):
-            hash_md5 = hashlib.md5()
-            with open(file_path, "rb") as f:
-                for chunk in iter(lambda: f.read(4096), b""):
-                    hash_md5.update(chunk)
-            return hash_md5.hexdigest()
-
-        # 检查本地文件是否存在，并计算 MD5
-        if os.path.exists(local_jar_path):
-            md5_local = calculate_md5(local_jar_path)
-        else:
-            md5_local = None
-
-        # 比较 MD5 值
-        if md5_local != md5_remote:
-            print("MD5 值不匹配，开始下载新的 JAR 文件...")
-            response = requests.get(jar_url)
-            response.raise_for_status()
-
-            # 保存新 JAR 文件
-            with open(local_jar_path, 'wb') as jar_file:
-                jar_file.write(response.content)
-            print(f"成功下载并更新 JAR 文件到: {local_jar_path}")
-        else:
-            print("MD5 值一致，跳过下载。")
-
     data["lives"] = [
         {
             "name": "LIVE",
