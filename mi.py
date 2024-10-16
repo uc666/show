@@ -1,8 +1,9 @@
 import os
 import hashlib
+import re
+import base64
 import requests
 import json
-import re
 
 url = 'http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json'
 
@@ -14,7 +15,7 @@ try:
     # 发送 GET 请求
     response = requests.get(url, headers=headers)
     response.raise_for_status()
-    response_text = response.text
+    response_text = response.text  # 获取文本内容
 
     print("Response text:", response_text)
     
@@ -24,7 +25,7 @@ try:
         print("在响应文本中未找到匹配项。")
     else:
         result = match.group(1)
-        print("正则匹配到的内容:", result)
+        print("正则匹配到的内容:", content)
 
     data = json.loads(response_text)
 
@@ -38,8 +39,7 @@ try:
     # 修改内容
     data["wallpaper"] = "http://www.kf666888.cn/api/tvbox/img"
     data["logo"] = "./jar/logo.gif"
-    data["warningText"] = "否极泰来,好运连连。"
-
+    data["warningText"] ="否极泰来,好运连连。"
     # 处理 spider 字段
     spider_url = data.get("spider")
     if spider_url:
@@ -80,46 +80,46 @@ try:
         else:
             print("MD5 值一致，跳过下载。")
 
-        data["lives"] = [
-            {
-                "name": "LIVE",
-                "ua": "okhttp/3.15",
-                "type": 0,
-                "playerType": 1,
-                "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-                "logo": "https://live.fanmingming.com/tv/{name}.png",
-                "url": "./zb1.txt"
-            },
-            {
-                "name": "TV",
-                "ua": "okhttp/3.15",
-                "type": 0,
-                "playerType": 1,
-                "url": "./zb.txt"
-            },
-            {
-                "name": "TVB",
-                "type": 0,
-                "url": "./zba.txt",
-                "playerType": 1
-            },
-            {
-                "name": "NOW",
-                "type": 0,
-                "url": "./zb3.txt",
-                "playerType": 1
-            },
-            {
-                "name": "BTV",
-                "type": 0,
-                "url": "https://l.gmbbk.com/upload/37933793.txt",
-                "playerType": 1
-            }
-        ]
+    data["lives"] = [
+        {
+            "name": "LIVE",
+            "ua": "okhttp/3.15",
+            "type": 0,
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "url": "./zb1.txt"
+        },
+        {
+            "name": "TV",
+            "ua": "okhttp/3.15",
+            "type": 0,
+            "playerType": 1,
+            "url": "./zb.txt"
+        },
+        {
+            "name": "TVB",
+            "type": 0,
+            "url": "./zba.txt",
+            "playerType": 1
+        },
+        {
+            "name": "NOW",
+            "type": 0,
+            "url": "./zb3.txt",
+            "playerType": 1
+        },
+        {
+      "name": "BTV",
+      "type": 0,
+      "url": "https://l.gmbbk.com/upload/37933793.txt",
+      "playerType": 1
+        }
+    ]
 
-        # 添加新数据到 "sites" 的第二段
-        if "sites" in data:
-            # 如果 "sites" 是一个包含列表的列表，则将其转换为单一的列表
+    # 添加新数据到 "sites" 的第二段
+    if "sites" in data:
+        # 如果 "sites" 是一个包含列表的列表，则将其转换为单一的列表
         if isinstance(data["sites"], list) and isinstance(data["sites"][0], list):
             data["sites"] = [item for sublist in data["sites"] for item in sublist]
 
@@ -205,9 +205,11 @@ try:
     # 删除指定的键
     keys_to_remove = ["csp_wanou", "csp_zhizhen", "米搜", "配置", "虎牙直播js", "荐片"]
     data["sites"] = [site for site in data["sites"] if site.get("key") not in keys_to_remove]
-
-    # 将修改后的内容转换为 JSON 字符串，并写入 b2.txt 文件
+    
+    # 将修改后的内容转换为 JSON 字符串，并指定 ensure_ascii=False 以确保汉字和表情符号正常显示
     modified_content = json.dumps(data, indent=2, ensure_ascii=False)
+
+    # 将修改后的 JSON 字符串写入 b2.txt 文件中
     with open('b2.txt', 'w', newline='', encoding='utf-8') as f:
         f.write(modified_content)
 
