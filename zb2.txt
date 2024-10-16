@@ -21,8 +21,12 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/inde
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 黑龙江卫视少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 黑龙江卫视少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
+湖北经视,http://111.170.82.136:9999/rtp/239.69.1.41:9886
+湖北经视,http://111.178.104.143:9999/rtp/239.69.1.41:9886
 湖北经视,http://php.iptviptv.site/iptv.php?id=hubeijs
 湖北经视,http://20191221.xyz:8888/udp/239.69.1.41:9886
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+金马影院,http://pull.kktv8.com/livekktv/128600025.flv
 风云足球,http://s.cdhongyuan.cn:4022/udp/239.93.0.235:5140
 风云足球,http://60.10.225.157:555/rtp/239.253.93.254:6432
 风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140
