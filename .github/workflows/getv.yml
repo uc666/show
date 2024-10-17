@@ -31,5 +31,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add zb1.txt
-        git commit -m "Update live streams playlist" --allow-empty
+        git commit -m "Update zb1" --allow-empty
         git push
