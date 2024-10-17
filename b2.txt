@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729170900999/1007.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
   "logo": "./jar/logo.gif",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
@@ -80,22 +80,10 @@
       "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
     },
     {
-      "key": "FERRR",
-      "name": "👀FREE┃1080P",
-      "type": 3,
-      "api": "https://gitea.moe/NB666/netdisk/raw/branch/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://www.mpanso.com/小米/FREE.js"
-    },
-    {
       "key": "88看球",
       "name": "🏀看球┃直播",
       "type": 3,
-      "api": "https://gitea.moe/NB666/netdisk/raw/branch/main/drpy_libs/drpy2.min.js",
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -214,7 +202,7 @@
       "key": "hipy_js_腾云驾雾[官]",
       "name": "🌞腾腾┃解析",
       "type": 3,
-      "api": "https://gitea.moe/NB666/netdisk/raw/branch/main/drpy_libs/drpy2.min.js",
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -226,7 +214,7 @@
       "key": "guoguo",
       "name": "🌞果果┃解析",
       "type": 3,
-      "api": "https://gitea.moe/NB666/netdisk/raw/branch/main/drpy_libs/drpy2.min.js",
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -238,7 +226,7 @@
       "key": "摘星",
       "name": "✨星星┃1080P",
       "type": 3,
-      "api": "https://gitea.moe/NB666/netdisk/raw/branch/main/drpy_libs/drpy2.min.js",
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -291,21 +279,6 @@
       "changeable": 0,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn/"
-    },
-    {
-      "key": "csp_yigeg",
-      "name": "🥬菠菜┃1080P",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_Pptv",
-      "ext": "https://yigeg.pro/"
-    },
-    {
-      "key": "csp_SP360",
-      "name": "🐠360┃1080P",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_SP360"
     },
     {
       "key": "QIYIU",
