@@ -54,7 +54,7 @@
         
         { "url": "http://home.jundie.top:81/top98.json", "name": "💚俊于💚" },
         
-        { "url": "http://我不是.摸鱼儿.top", "name": "💖摸鱼💖" },
+        { "url": "http://我不是.摸鱼儿.com", "name": "💖摸鱼💖" },
 
         { "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0", "name": "💖吾爱💖" },
 
