@@ -32,13 +32,30 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140
 风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
 风云足球,http://154.12.55.21/zb/zb.php?id=239.253.93.254:6432475173f06f696049e5f5502479f743f1&v=3&time=0
-更新2024-10-18,https://api.lq.mba/api/dm-xjj
-更新2024-10-18,https://api.yujn.cn/api/duilian.php?type=video
-更新2024-10-18,https://api.kuleu.com/api/xjj?type=string
-更新2024-10-18,http://api.yujn.cn/api/juhexjj.php?type=video
-更新2024-10-18,http://api.yujn.cn/api/jiepai.php?type=video
+更新2024-10-19,https://api.lq.mba/api/dm-xjj
+更新2024-10-19,https://api.yujn.cn/api/duilian.php?type=video
+更新2024-10-19,https://api.kuleu.com/api/xjj?type=string
+更新2024-10-19,http://api.yujn.cn/api/juhexjj.php?type=video
+更新2024-10-19,http://api.yujn.cn/api/jiepai.php?type=video
 
 🐼中央电视,#genre#
+
+CCTV1综合,http://8.138.7.223/tv/gitv.php?id=1$银河电视
+CCTV2财经,http://8.138.7.223/tv/gitv.php?id=2$银河电视
+CCTV3综艺,http://8.138.7.223/tv/gitv.php?id=3$银河电视
+CCTV4中文国际,http://8.138.7.223/tv/gitv.php?id=4$银河电视
+CCTV5体育,http://8.138.7.223/tv/gitv.php?id=5$银河电视
+CCTV5+体育赛事,http://8.138.7.223/tv/gitv.php?id=6$银河电视
+CCTV6电影,http://8.138.7.223/tv/gitv.php?id=7$银河电视
+CCTV7国防军事,http://8.138.7.223/tv/gitv.php?id=8$银河电视
+CCTV8电视剧,http://8.138.7.223/tv/gitv.php?id=9$银河电视
+CCTV9纪录,http://8.138.7.223/tv/gitv.php?id=10$银河电视
+CCTV10科教,http://8.138.7.223/tv/gitv.php?id=11$银河电视
+CCTV11戏曲,http://8.138.7.223/tv/gitv.php?id=12$银河电视
+CCTV12社会与法,http://8.138.7.223/tv/gitv.php?id=13$银河电视
+CCTV13新闻,http://8.138.7.223/tv/gitv.php?id=14$银河电视
+CCTV14少儿,http://8.138.7.223/tv/gitv.php?id=15$银河电视
+CCTV15音乐,http://8.138.7.223/tv/gitv.php?id=16$银河电视
 
 CCTV1综合,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8
 CCTV2财经,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8
@@ -250,6 +267,26 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031126/index
 CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
 🐼全国卫视,#genre#
+
+安徽卫视,http://8.138.7.223/tv/gitv.php?id=17$银河电视
+北京卫视,http://8.138.7.223/tv/gitv.php?id=18$银河电视
+重庆卫视,http://8.138.7.223/tv/gitv.php?id=19$银河电视
+东方卫视,http://8.138.7.223/tv/gitv.php?id=20$银河电视
+东南卫视,http://8.138.7.223/tv/gitv.php?id=21$银河电视
+广东卫视,http://8.138.7.223/tv/gitv.php?id=22$银河电视
+贵州卫视,http://8.138.7.223/tv/gitv.php?id=23$银河电视
+河北卫视,http://8.138.7.223/tv/gitv.php?id=24$银河电视
+黑龙江卫视,http://8.138.7.223/tv/gitv.php?id=25$银河电视
+湖北卫视,http://8.138.7.223/tv/gitv.php?id=26$银河电视
+湖南卫视,http://8.138.7.223/tv/gitv.php?id=27$银河电视
+吉林卫视,http://8.138.7.223/tv/gitv.php?id=28$银河电视
+江苏卫视,http://8.138.7.223/tv/gitv.php?id=29$银河电视
+江西卫视,http://8.138.7.223/tv/gitv.php?id=30$银河电视
+辽宁卫视,http://8.138.7.223/tv/gitv.php?id=31$银河电视
+山东卫视,http://8.138.7.223/tv/gitv.php?id=32$银河电视
+天津卫视,http://8.138.7.223/tv/gitv.php?id=33$银河电视
+深圳卫视,http://8.138.7.223/tv/gitv.php?id=34$银河电视
+浙江卫视,http://8.138.7.223/tv/gitv.php?id=35$银河电视
 
 北京卫视,http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8
 东方卫视,http://beijinglive.online.domybox.com:91/live/DFWShd-8M/live.m3u8
@@ -626,6 +663,7 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&livemode=1&stbId=4&Contentid=1000000001000009082
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
+
 🔥网络推流,#genre#
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
@@ -651,59 +689,6 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
- 🐼河南ID25,#genre#
-
-河南|周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
-河南|郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-河南|登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-河南|范县新闻综合,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
-河南|扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-河南|固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-河南|光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-河南|鹤岗新闻综合,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
-河南|淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-河南|潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-河南|济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-河南|焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-河南|焦作教育,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
-河南|焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-河南|睛彩焦作,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
-河南|开封公共,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
-河南|开封新闻综合,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
-河南|兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-河南|临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-河南|栾川新闻,http://wshls.live.migucloud.com/live/LVVUJGFD_C0/playlist.m3u8
-河南|洛宁综合,http://wshls.live.migucloud.com/live/WJ1E4VDQ_C0/playlist.m3u8
-河南|泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
-河南|渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-河南|内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
-河南|沁阳文化旅游,http://live.qinyangtv.com:82/channel2/sd/live.m3u8
-河南|汝南综合,http://tvpull.dxhmt.cn:9081/tv/11727-1.m3u8
-河南|嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8
-河南|遂平一套,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
-河南|唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-河南|桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
-河南|息县综合,http://120.194.173.75:6060/0.ts
-河南|淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-河南|项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-河南|新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-河南|新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-河南|新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-河南|鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-河南|偃师新闻,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
-河南|叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-河南|义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
-河南|禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
-河南|禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-河南|叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-河南|渑池综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-河南|义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-河南|淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-河南|禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-河南|兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-河南|项城电视,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-河南|新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-河南|新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
@@ -862,6 +847,8 @@ CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373
 CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 
 //03中国广播电视网络集团有限公司（每日健身、体育赛事、重温经典）
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8$北方广电
 重温经典,http://tv.tvbox6.icu/tv/bj3w.php?id=20$北京全网通
 重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
 重温经典,http://36.108.172.237:10005/stream/channelid/1658622386
@@ -1315,7 +1302,7 @@ FOCUS,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 
 //中国国际电视台
 
-CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8$官方源
+CGTN英语,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8$官方源
 CGTN西语,http://livees.cgtn.com/500e/prog_index.m3u8$官方源
 CGTN阿语,https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8$官方源
@@ -5594,7 +5581,21 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 
 西藏藏语卫视,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8	
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
-🐼陕西地区,#genre#
+🐼陕西ID36,#genre#
+
+陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
+陕西一套,http://112.46.85.60:8009/hls/18/index.m3u8
+陕西二套,http://112.46.85.60:8009/hls/19/index.m3u8
+陕西三套,http://112.46.85.60:8009/hls/20/index.m3u8
+陕西四套,http://112.46.85.60:8009/hls/21/index.m3u8
+陕西五套,http://112.46.85.60:8009/hls/22/index.m3u8
+陕西六套,http://112.46.85.60:8009/hls/23/index.m3u8
+陕西七套,http://112.46.85.60:8009/hls/24/index.m3u8
+陕西八套,http://112.46.85.60:8009/hls/62/index.m3u8
+精彩三秦,http://112.46.85.60:8009/hls/26/index.m3u8
+农林卫视,http://112.46.85.60:8009/hls/27/index.m3u8
+西安一套,http://112.46.85.60:8009/hls/28/index.m3u8
+西安二套,http://112.46.85.60:8009/hls/29/index.m3u8
 
 延安综合,http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 延安公共,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
