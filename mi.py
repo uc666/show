@@ -92,15 +92,15 @@ try:
             "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
         }
         new_site2 = {
-            "key": "追剧影视",
+            "key": "追剧猫",
             "name": "🏅追剧┃1080P",
             "type": 3,
-            "api": "csp_AppZJ",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/0914.jar;md5;03c83adc48ceacbda2ab7fae8b1c6597",
-            "ext": "http://z.kzjtv.com/"
+            "jar": "./jar/wddanmu.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
         }
         new_site3 = {
             "key": "qwqfun",
@@ -136,7 +136,7 @@ try:
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/wddanmu.jar;md5;c52fb9e051491089b007fea2b3109ee8",
+            "jar": "./jar/wddanmu.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
             "ext": {"danmu": True}
         }
         new_site6 = {
