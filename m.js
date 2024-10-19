@@ -1,79 +1,9 @@
-{
-  "plugins": [
-    {
-      "name": "小秋音乐",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaoqiu.js",
-      "version": "0.3.0"
-    },
-    {
-      "name": "小蜗音乐",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaowo.js",
-      "version": "0.3.0"
-    },
-    {
-      "name": "小芸音乐",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaoyun.js",
-      "version": "0.3.0"
-    },
-    {
-      "name": "小枸音乐",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaogou.js",
-      "version": "0.3.0"
-    },
-    {
-      "name": "小蜜音乐",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaomi.js",
-      "version": "0.3.0"
-    },
-    {
-      "name": "Audiomack",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/audiomack/index.js",
-      "version": "0.0.2"
-    },
-    {
-      "name": "bilibili",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
-      "version": "0.1.15"
-    },
-    {
-      "name": "歌词网",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciwang/index.js",
-      "version": "0.0.0"
-    },
-    {
-      "name": "歌词千寻",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciqianxun/index.js",
-      "version": "0.0.0"
-    },
-    {
-      "name": "快手",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kuaishou/index.js",
-      "version": "0.0.1"
-    },
-    {
-      "name": "猫耳FM",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/maoerfm/index.js",
-      "version": "0.1.4"
-    },
-    {
-      "name": "Navidrome",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/navidrome/index.js",
-      "version": "0.0.0"
-    },
-    {
-      "name": "音悦台",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/yinyuetai/index.js",
-      "version": "0.0.1"
-    },
-    {
-      "name": "WebDAV",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/webdav/index.js",
-      "version": "0.0.2"
-    },
-    {
-      "name": "Youtube",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/youtube/index.js",
-      "version": "0.0.1"
-    }
-  ]
-}
+{ 
+   "plugins": [
+   {"url": "http://cdn.teyonds.com/music/kw"},
+   {"url": "http://cdn.teyonds.com/music/kg"},
+   {"url": "http://cdn.teyonds.com/music/qq"},
+   {"url": "http://cdn.teyonds.com/music/wy"},
+   {"url": "http://cdn.teyonds.com/music/mg"},
+   {"url": "http://cdn.teyonds.com/music/bl"}
+   ]}
