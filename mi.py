@@ -92,19 +92,18 @@ try:
             "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
         }
         new_site2 = {
-            "key": "追剧猫",
-            "name": "🏅追剧┃1080P",
+            "key": "素白白",
+            "name": "🏅素白┃1080P",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Subaibai",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/wddanmu.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
+            "jar": "./jar/wddanmu.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3"
         }
         new_site3 = {
             "key": "qwqfun",
-            "name": "🍦qwqfun┃1080P",
+            "name": "🍦qwq┃1080P",
             "type": 1,
             "api": "https://www.qwqfun.one/api.php/tvbox",
             "searchable": 1,
