@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729170900999/1007.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729346339841/1020.jar;md5;543af998bc7a6628b43e916192c0dd1b",
   "logo": "./jar/logo.gif",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
@@ -21,19 +21,18 @@
       "searchable": 0
     },
     {
-      "key": "追剧猫",
-      "name": "🏅追剧┃1080P",
+      "key": "素白白",
+      "name": "🏅素白┃1080P",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Subaibai",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jar/wddanmu.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-      "ext": "https://jingxiang.lingutv.cn/api.php/app/"
+      "jar": "./jar/wddanmu.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3"
     },
     {
       "key": "qwqfun",
-      "name": "🍦qwqfun┃1080P",
+      "name": "🍦qwq┃1080P",
       "type": 1,
       "api": "https://www.qwqfun.one/api.php/tvbox",
       "searchable": 1,
