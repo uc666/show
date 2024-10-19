@@ -442,7 +442,7 @@ const qualityLevels = {
 };
 async function getMediaSource(musicItem, quality) {
     const res = (
-        await axios_1.default.get(`https://render.niuma666bet.buzz/url/tx/${musicItem.songmid}/${qualityLevels[quality]}`, {
+        await axios_1.default.get(`https://lxmusicapi.onrender.com/url/tx/${musicItem.songmid}/${qualityLevels[quality]}`, {
             headers: {
                 "X-Request-Key": "share-v2"
             },
@@ -455,7 +455,7 @@ async function getMediaSource(musicItem, quality) {
 module.exports = {
     platform: "小秋音乐",
     author: "Huibq",
-    version: "0.2.0",
+    version: "0.3.0",
     srcUrl: "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaoqiu.js",
     cacheControl: "no-cache",
     hints: {

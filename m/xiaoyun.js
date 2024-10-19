@@ -24,16 +24,16 @@ function Rsa(text) {
     const d = "010001";
     const e = "00e0b509f6259df8642dbc35662901477df22677ec152b5ff68ace615bb7b725152b3ab17a876aea8a5aa76d2e417629ec4ee341f56135fccf695280104e0312ecbda92557c93870114af6c9d05c4f7f0c3685b7a46bee255932575cce10b424d813cfe4875d3e82047b97ddef52741d546b8e289dc6935b3ece0462db0a22b8e7";
     const hexText = text
-        。split("")
-        。map((_) => _.charCodeAt(0).toString(16))
-        。join("");
+        .split("")
+        .map((_) => _.charCodeAt(0).toString(16))
+        .join("");
     const res = bigInt(hexText, 16)
-        。modPow(bigInt(d, 16), bigInt(e, 16))
-        。toString(16);
+        .modPow(bigInt(d, 16), bigInt(e, 16))
+        .toString(16);
     return Array(256 - res.length)
-        。fill("0")
-        。join("")
-        。concat(res);
+        .fill("0")
+        .join("")
+        .concat(res);
 }
 function getParamsAndEnc(text) {
     const first = AES(text, "0CoJUm6Qyw8W8jud");
@@ -392,7 +392,7 @@ const qualityLevels = {
 };
 async function getMediaSource(musicItem, quality) {
     const res = (
-        await axios_1.default.get(`https://render.niuma666bet.buzz/url/wy/${musicItem.id}/${qualityLevels[quality]}`, {
+        await axios_1.default.get(`https://lxmusicapi.onrender.com/url/wy/${musicItem.id}/${qualityLevels[quality]}`, {
             headers: {
                 "X-Request-Key": "share-v2"
             },
@@ -514,7 +514,7 @@ async function getMusicSheetInfo(sheet, page) {
 module.exports = {
     platform: "小芸音乐",
     author: 'Huibq',
-    version: "0.2.0",
+    version: "0.3.0",
     appVersion: ">0.1.0-alpha.0",
     srcUrl: "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaoyun.js",
     cacheControl: "no-store",
