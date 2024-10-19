@@ -4,11 +4,13 @@
 
         { "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/b1.txt", "name": "🐼看电视吧" },
 
+        { "url": "http://74.120.175.78/JK/XYQTVBox/dj.json", "name": " 👨‍🌾短剧" },
+
+        { "url": "https://肥猫.com", "name": "🐼肥猫" },
+
         { "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json", "name": "🍨小米" },  
 
         { "url": "http://www.饭太硬.com/tv/", "name": "🍚饭太硬" },
-
-        { "url": "https://肥猫.com", "name": "🐼肥猫" },
 
         { "url": "https://龙伊.top", "name": "🏄️龙伊" },
 
@@ -17,8 +19,6 @@
         { "url": "https://fmbox.cc", "name": "🏄️星辰" },
 
         { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "😎潇洒" },
-
-        { "url": "http://74.120.175.78/JK/XYQTVBox/dj.json", "name": " 👨‍🌾短剧" },
 
         { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "🧚‍♀️游乐园" },
 
