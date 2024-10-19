@@ -88,15 +88,15 @@ try:
       "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
     }
             new_site2 = {
-      "key": "追剧影视",
-      "name": "🏅追剧┃不卡",
+      "key": "優質",
+      "name": "🏅優質┃不卡",
       "type": 3,
-      "api": "csp_AppZJ",
+      "api": "csp_XBPQ",
       "searchable":1,
       "quickSearch":1,
       "changeable":1,
-      "jar": "./jar/0914.jar;md5;03c83adc48ceacbda2ab7fae8b1c6597",
-      "ext": "http://z.kzjtv.com/"
+      "jar": "./jar/XBPQ.jar;md5;bab500a7ca7cddbe8f745de9402ffbd1",
+      "ext": "./json/youzhi.json"
     }
             data["sites"].insert(0, new_site)
             data["sites"].insert(3, new_site2)
