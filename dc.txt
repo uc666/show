@@ -22,7 +22,7 @@
 
         { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "🧚‍♀️游乐园" },
 
-        { "url": "https://gitee.com/liuqu01/liuqutvbox/raw/master/%E5%85%AD%E8%B6%A3%E7%89%9B%E9%80%BC.json", "name": "🧚‍♀️六趣" },
+     //   { "url": "https://gitee.com/liuqu01/liuqutvbox/raw/master/%E5%85%AD%E8%B6%A3%E7%89%9B%E9%80%BC.json", "name": "🧚‍♀️六趣" },
 
         { "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json", "name": "🐹月光" },
 
@@ -48,7 +48,7 @@
         
         { "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json", "name": "🚀道长" },
         
-        { "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-VI.json", "name": "🐇圥忈" },
+        { "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-VX.json", "name": "🐇圥忈" },
         
         { "url": "https://盒子迷.top/禁止贩卖", "name": "🌟盒子迷" },
         
