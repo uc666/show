@@ -92,14 +92,15 @@ try:
             "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
         }
         new_site2 = {
-            "key": "素白白",
-            "name": "🏅素白┃1080P",
+            "key": "人人影视",
+            "name": "🧿人人┃1080P",
             "type": 3,
-            "api": "csp_Subaibai",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/wddanmu.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3"
+            "jar": "./jar/yu.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+            "ext":{"影片类型":"看电视吧","简介":"请勿相信视频中广告。+<div class=\"stui-pannel_bd\"&&</div>","分类url":"https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}
         }
         new_site3 = {
             "key": "qwqfun",
