@@ -29,8 +29,6 @@ try:
 
     # 找到并替换特定字段值
     for site in data.get("sites", []):
-        if site.get("key") == "豆瓣":
-            site["name"] = "📺电视吧"
         if site.get("key") == "push_agent":
             site["name"] = "请勿相信视频中广告"
 
@@ -130,7 +128,7 @@ try:
         }
         new_site4 = {
             "key": "ikun",
-            "name": "🦆爱坤┃1080P",
+            "name": "⛱爱坤┃1080P",
             "type": 1,
             "api": "https://ikzy7.com/api.php/provide/vod?",
             "searchable": 1,
@@ -157,12 +155,23 @@ try:
         }
         new_site6 = {
             "key": "Wexwwe",
-            "name": "💶WWE┃1080P",
+            "name": "🏝WWE┃1080P",
             "type": 3,
             "api": "csp_Wexwwe",
             "searchable": 1,
             "changeable": 0,
             "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
+        }
+                new_site7 = {
+            "key": "七新影视",
+            "name": "🐇七新影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+            "ext":"./json/qx.json"
         }
         
         # 将 new_site 和 new_site2 插入到特定位置
@@ -173,12 +182,13 @@ try:
         data["sites"].insert(5, new_site4)
         data["sites"].insert(6, new_site5)
         data["sites"].insert(7, new_site6)
+        data["sites"].insert(8, new_site7)
 
     else:
         print('"sites" 键不在数据中')
 
     # 删除指定的键
-    keys_to_remove = ["csp_wanou", "csp_zhizhen", "米搜", "配置", "虎牙直播js", "荐片", "csp_Wwys"]
+    keys_to_remove = ["豆瓣","csp_wanou", "csp_zhizhen", "米搜", "配置", "虎牙直播js", "荐片", "csp_Wwys"]
     data["sites"] = [site for site in data["sites"] if site.get("key") not in keys_to_remove]
     
     # 将修改后的内容转换为 JSON 字符串，并指定 ensure_ascii=False 以确保汉字和表情符号正常显示
