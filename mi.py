@@ -90,7 +90,7 @@ try:
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-            "ext":"./json/nm.json"}
+            "ext":"./json/nm.json"
         }
         new_site2 = {
             "key": "人人影视",
