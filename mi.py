@@ -94,7 +94,7 @@ try:
         }
         new_site2 = {
             "key": "人人影视",
-            "name": "🌺人人┃1080P",
+            "name": "🧙人人┃1080P",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
