@@ -91,7 +91,7 @@ try:
         }
         new_site1 = {
             "key": "农民",
-            "name": "🧑🏻‍农民影视",
+            "name": "🧑🏻‍农民┃1080P",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -118,7 +118,7 @@ try:
         }
         new_site3 = {
             "key": "qwqfun",
-            "name": "👌qwq┃1080P",
+            "name": "👌QWQ┃1080P",
             "type": 1,
             "api": "https://www.qwqfun.one/api.php/tvbox",
             "searchable": 1,
@@ -164,7 +164,7 @@ try:
         }
         new_site7 = {
             "key": "七新影视",
-            "name": "🐇七新影视",
+            "name": "🐇七新┃1080P",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
