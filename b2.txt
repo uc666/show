@@ -14,14 +14,7 @@
       "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
     },
     {
-      "key": "豆瓣",
-      "name": "📺电视吧",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "农民影视",
+      "key": "农民",
       "name": "🧑🏻‍农民影视",
       "type": 3,
       "api": "csp_XYQHiker",
@@ -30,6 +23,13 @@
       "filterable": 1,
       "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
       "ext": "./json/nm.json"
+    },
+    {
+      "key": "豆瓣",
+      "name": "📺电视吧",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
     },
     {
       "key": "人人影视",
@@ -59,7 +59,7 @@
     },
     {
       "key": "ikun",
-      "name": "💶爱坤┃1080P",
+      "name": "🦆爱坤┃1080P",
       "type": 1,
       "api": "https://ikzy7.com/api.php/provide/vod?",
       "searchable": 1,
@@ -88,7 +88,7 @@
     },
     {
       "key": "Wexwwe",
-      "name": "🎃‍WWE┃1080P",
+      "name": "💶WWE┃1080P",
       "type": 3,
       "api": "csp_Wexwwe",
       "searchable": 1,
