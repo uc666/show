@@ -92,7 +92,7 @@ try:
             "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
         }
         new_site1 = {
-            "key": "农民影视",
+            "key": "农民",
             "name": "🧑🏻‍农民影视",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -130,7 +130,7 @@ try:
         }
         new_site4 = {
             "key": "ikun",
-            "name": "💶爱坤┃1080P",
+            "name": "🦆爱坤┃1080P",
             "type": 1,
             "api": "https://ikzy7.com/api.php/provide/vod?",
             "searchable": 1,
@@ -157,7 +157,7 @@ try:
         }
         new_site6 = {
             "key": "Wexwwe",
-            "name": "🎃‍WWE┃1080P",
+            "name": "💶WWE┃1080P",
             "type": 3,
             "api": "csp_Wexwwe",
             "searchable": 1,
@@ -167,12 +167,12 @@ try:
         
         # 将 new_site 和 new_site2 插入到特定位置
         data["sites"].insert(0, new_site)
-        data["sites"].insert(2, new_site1)
-        data["sites"].insert(4, new_site2)
-        data["sites"].insert(5, new_site3)
-        data["sites"].insert(6, new_site4)
-        data["sites"].insert(7, new_site5)
-        data["sites"].insert(8, new_site6)
+        data["sites"].insert(1, new_site1)
+        data["sites"].insert(3, new_site2)
+        data["sites"].insert(4, new_site3)
+        data["sites"].insert(5, new_site4)
+        data["sites"].insert(6, new_site5)
+        data["sites"].insert(7, new_site6)
 
     else:
         print('"sites" 键不在数据中')
