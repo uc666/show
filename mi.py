@@ -85,15 +85,16 @@ try:
             "key": "农民影视",
             "name": "📺看电视吧",
             "type": 3,
-            "api": "csp_WexNmys",
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
+            "filterable": 1,
+            "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+            "ext":"./json/农民影视.json"}
         }
         new_site2 = {
             "key": "人人影视",
-            "name": "🧿人人┃1080P",
+            "name": "🌺人人┃1080P",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -109,7 +110,7 @@ try:
         }
         new_site3 = {
             "key": "qwqfun",
-            "name": "🍦qwq┃1080P",
+            "name": "👌qwq┃1080P",
             "type": 1,
             "api": "https://www.qwqfun.one/api.php/tvbox",
             "searchable": 1,
@@ -119,7 +120,7 @@ try:
         }
         new_site4 = {
             "key": "ikun",
-            "name": "🐔爱坤┃1080P",
+            "name": "💶爱坤┃1080P",
             "type": 1,
             "api": "https://ikzy7.com/api.php/provide/vod?",
             "searchable": 1,
@@ -146,7 +147,7 @@ try:
         }
         new_site6 = {
             "key": "Wexwwe",
-            "name": "WWE┃1080P",
+            "name": "🎃‍WWE┃1080P",
             "type": 3,
             "api": "csp_Wexwwe",
             "searchable": 1,
