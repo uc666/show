@@ -3,7 +3,7 @@
   "lives":[{"name":"live","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/sjyes168/tvbox/main/%E8%87%AA%E7%94%A8%E6%BA%901","playerType":2,"ua":"okhttp/5.0.0-alpha.14","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "wallpaper":"./wp.png",
    "sites":[
-    {"key":"农民影视","name":"📺看电视吧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b","ext":"./json/nm.json"},
+    {"key":"农民影视","name":"📺看电视吧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b","ext":"./json/nm.json"},
     {"key":"黑木耳","name":"🌸|黑木耳🥇","type":3,"api":"csp_XBPQ","ext":"./json/heimuer.json"},
     {"key":"索尼","name":"📺|索尼🥇","type":3,"api":"csp_XBPQ","ext":"./json/suoni.json"},
     {"key":"聚合","name":"🎁|聚合🥇","type":3,"api":"csp_XBPQ","ext":"./json/juhe.json"},
