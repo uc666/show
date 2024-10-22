@@ -162,7 +162,7 @@ try:
             "changeable": 0,
             "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
         }
-                new_site7 = {
+        new_site7 = {
             "key": "七新影视",
             "name": "🐇七新影视",
             "type": 3,
