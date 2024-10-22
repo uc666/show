@@ -85,6 +85,16 @@ try:
             "key": "农民影视",
             "name": "📺看电视吧",
             "type": 3,
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
+        }
+        new_site1 = {
+            "key": "农民影视",
+            "name": "🧑🏻‍农民影视",
+            "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
@@ -157,17 +167,18 @@ try:
         
         # 将 new_site 和 new_site2 插入到特定位置
         data["sites"].insert(0, new_site)
-        data["sites"].insert(3, new_site2)
-        data["sites"].insert(4, new_site3)
-        data["sites"].insert(5, new_site4)
-        data["sites"].insert(6, new_site5)
-        data["sites"].insert(7, new_site6)
+        data["sites"].insert(2, new_site1)
+        data["sites"].insert(4, new_site2)
+        data["sites"].insert(5, new_site3)
+        data["sites"].insert(6, new_site4)
+        data["sites"].insert(7, new_site5)
+        data["sites"].insert(8, new_site6)
 
     else:
         print('"sites" 键不在数据中')
 
     # 删除指定的键
-    keys_to_remove = ["csp_wanou", "csp_zhizhen", "米搜", "配置", "虎牙直播js", "荐片"]
+    keys_to_remove = ["csp_wanou", "csp_zhizhen", "米搜", "配置", "虎牙直播js", "荐片", "csp_Wwys"]
     data["sites"] = [site for site in data["sites"] if site.get("key") not in keys_to_remove]
     
     # 将修改后的内容转换为 JSON 字符串，并指定 ensure_ascii=False 以确保汉字和表情符号正常显示
