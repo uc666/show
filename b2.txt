@@ -25,13 +25,6 @@
       "ext": "./json/nm.json"
     },
     {
-      "key": "豆瓣",
-      "name": "📺电视吧",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
       "key": "人人影视",
       "name": "🧙人人┃1080P",
       "type": 3,
@@ -59,7 +52,7 @@
     },
     {
       "key": "ikun",
-      "name": "🦆爱坤┃1080P",
+      "name": "⛱爱坤┃1080P",
       "type": 1,
       "api": "https://ikzy7.com/api.php/provide/vod?",
       "searchable": 1,
@@ -88,12 +81,23 @@
     },
     {
       "key": "Wexwwe",
-      "name": "💶WWE┃1080P",
+      "name": "🏝WWE┃1080P",
       "type": 3,
       "api": "csp_Wexwwe",
       "searchable": 1,
       "changeable": 0,
       "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
+    },
+    {
+      "key": "七新影视",
+      "name": "🐇七新影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "./json/qx.json"
     },
     {
       "key": "88看球",
