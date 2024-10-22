@@ -7,12 +7,11 @@
       "key": "农民影视",
       "name": "📺看电视吧",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_WexNmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "./json/nm.json"
+      "changeable": 1,
+      "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
     },
     {
       "key": "豆瓣",
@@ -20,6 +19,17 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
+    },
+    {
+      "key": "农民影视",
+      "name": "🧑🏻‍农民影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "./json/nm.json"
     },
     {
       "key": "人人影视",
@@ -276,15 +286,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json"
-    },
-    {
-      "key": "csp_Wwys",
-      "name": "🐶汪汪┃1080P",
-      "type": 3,
-      "playerType": 1,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
     },
     {
       "key": "QIYIU",
