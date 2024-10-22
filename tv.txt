@@ -3,6 +3,7 @@
 {"sourceName":"🌸全网主力仓库🌸","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/dc.txt"},
 {"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/dx.txt"},
 {"sourceName":"🌺欧歌精选🌺","sourceUrl":"http://tv.nxog.top/"},
+{"sourceName":"星辰","sourceUrl":"http://47.99.102.252/dc.json"},
 {"sourceName":"金多宝","sourceUrl":"https://wds.ecsxs.com/227812.js"},
 {"sourceName":"云星","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"月光","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"},
