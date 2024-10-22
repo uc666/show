@@ -90,11 +90,11 @@ try:
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-            "ext":"./json/农民影视.json"}
+            "ext":"./json/农民影视.json"
         }
         new_site2 = {
             "key": "人人影视",
-            "name": "🌺人人┃1080P",
+            "name": "🧙人人┃1080P",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
