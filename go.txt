@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;a7fa03c528e3479d98da5973c4e70d56",
+"spider":"./jar/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -15,7 +15,7 @@
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy.top/"},
+{"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
