@@ -54,7 +54,7 @@
     "年代详情": "body&&span:contains(年代：)&&Text!年代：",
     "地区详情": "",
     "演员详情": "body&&.desc_item:contains(主演:)&&Text!主演:",
-    "导演详情": "body&&.desc_item:contains(导演:)&&Html!导演:",
+    "导演详情": "body&&.desc_item:contains(导演:) a&&Text",
     "简介详情": ".detail-con&&p&&Text!简介:",
     "线路列表数组规则": "#leftTabBox&&ul&&li",
     "线路标题": "Text[替换:默认=>📺看电视吧||云播①=>📺看电视吧]",
