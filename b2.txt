@@ -116,11 +116,29 @@
       "name": "🍉瓜子┃APP",
       "type": 3,
       "api": "csp_Gz360",
-      "searchable": 0,
-      "quickSearch": 1,
+      "searchable": 1,
+      "quickSearch": 0,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0
+    },
+    {
+      "key": "天天",
+      "name": "☁️天天┃1080P",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+    },
+    {
+      "key": "繁荣",
+      "name": "🥝凡人┃1080P",
+      "type": 3,
+      "api": "csp_Frong",
+      "playerType": 1,
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
     },
     {
       "key": "csp_LiteApple",
@@ -170,43 +188,6 @@
       }
     },
     {
-      "key": "非凡┃无广",
-      "name": "📺非凡┃测试",
-      "type": 0,
-      "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "日本剧",
-        "台湾剧",
-        "泰国剧",
-        "海外剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "大陆综艺",
-        "欧美综艺",
-        "日韩综艺",
-        "港台综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
-    {
       "key": "csp_Czsapp",
       "name": "🪖厂长┃1080P",
       "type": 3,
@@ -244,18 +225,6 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-    },
-    {
-      "key": "摘星",
-      "name": "✨星星┃1080P",
-      "type": 3,
-      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
     },
     {
       "key": "csp_NanGua",
