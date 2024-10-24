@@ -13,6 +13,16 @@
       "jar": "./jar/nmys.jar;md5;819aa9a38e837b51f65abd51817f7b77"
     },
     {
+      "key": "农民",
+      "name": "🧑🏻‍农民┃1080P",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nm.json"
+    },
+    {
       "key": "豆豆",
       "name": "📺电视吧",
       "type": 3,
