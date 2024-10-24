@@ -18,25 +18,25 @@ if response.status_code == 200:
         with open('zb3.txt', 'r', encoding='utf-8') as f:
             lines = f.readlines()
 
-        # 找到 "内部测试" 的行，保留之前的内容
+        # 找到 "内部测试_889966,#genre#" 这一行
         with open('zb3.txt', 'w', encoding='utf-8') as f:
             found_header = False
             for line in lines:
-                if "内部测试" in line:
+                if "内部测试_889966,#genre#" in line:
                     found_header = True
-                    f.write(line)  # 保留 "内部测试" 行
+                    f.write(line)  # 保留这一行标题
                     break
                 f.write(line)  # 保留之前的所有行
 
             if found_header:
-                f.write("#genre#\n")  # 替换 header 后面的行
+                # 只替换该行之后的内容
                 for stream in streams:
-                    title = stream['title']  # 使用 utf-8 解码处理字符
+                    title = stream['title']  # 使用 utf-8 处理字符
                     address = stream['address']
                     f.write(f"{title},{address}\n")
-                print("转换完成，已替换 '内部测试' 之后的内容。")
+                print("替换完成，已更新 '内部测试_889966,#genre#' 之后的内容。")
             else:
-                print("未找到 '内部测试' 行。")
+                print("未找到 '内部测试_889966,#genre#' 行。")
     else:
         print("返回的数据为空。")
 else:
