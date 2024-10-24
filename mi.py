@@ -158,7 +158,7 @@ try:
             "name": "🏝WWE┃1080P",
             "type": 3,
             "api": "csp_Wexwwe",
-            "searchable": 1,
+            "searchable": 0,
             "changeable": 0,
             "jar": "./jar/wex.txt;md5;32fe8b5c7d65837dd1d040fc026c1746"
         }
