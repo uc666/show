@@ -86,7 +86,7 @@
       "api": "csp_Wexwwe",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
+      "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
     },
     {
       "key": "七新影视",
