@@ -78,7 +78,7 @@ with open("zb3.txt", "r", encoding="utf-8") as file:
 with open("zb3.txt", "w", encoding="utf-8") as file:
     found_header = False
     for line in existing_lines:
-        if "内部测试_889966,#genre#" in line:
+        if "会员频道_616cs,#genre#" in line:
             found_header = True
             file.write(line)  # 保留标题行
             break
@@ -92,7 +92,7 @@ with open("zb3.txt", "w", encoding="utf-8") as file:
                 file.write(f"{link}\n")
         print("替换完成，已更新")
     else:
-        file.write("内部测试_889966,#genre#\n")
+        file.write("会员频道_616cs,#genre#\n")
         for group_name, links in output_dict.items():
             file.write(f"{group_name},#genre#\n")
             for link in links:
