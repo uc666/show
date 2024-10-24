@@ -31,7 +31,7 @@ if response.status_code == 200:
             if found_header:
                 f.write("#genre#\n")  # 替换 header 后面的行
                 for stream in streams:
-                    title = bytes(stream['title'], 'latin1').decode('unicode_escape')
+                    title = stream['title']  # 使用 utf-8 解码处理字符
                     address = stream['address']
                     f.write(f"{title},{address}\n")
                 print("转换完成，已替换 '内部测试' 之后的内容。")
