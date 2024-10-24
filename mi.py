@@ -128,7 +128,7 @@ try:
         }
         new_site4 = {
             "key": "ikun",
-            "name": "⛱爱坤┃1080P",
+            "name": "🦢爱坤┃1080P",
             "type": 1,
             "api": "https://ikzy7.com/api.php/provide/vod?",
             "searchable": 1,
@@ -160,7 +160,7 @@ try:
             "api": "csp_Wexwwe",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9"
+            "jar": "./jar/wex.txt;md5;32fe8b5c7d65837dd1d040fc026c1746"
         }
         new_site7 = {
             "key": "七新影视",
