@@ -2,7 +2,7 @@ import json
 import requests
 
 # 从指定网址获取数据
-url = ""
+url = "https://l.gmbbk.com/upload/37933793.txt"
 response = requests.get(url)
 
 # 确保请求成功
