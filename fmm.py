@@ -1,9 +1,9 @@
 import json
 import requests
 
-# 从指定网址获取数据
-url = "http://api.vipmisss.com:81/xcdsw/jsonhuahudie.txt"
-response = requests.get(url)
+json_url = "http://api.vipmisss.com:81/xcdsw/jsonhuahudie.txt"  
+response = requests.get(json_url)
+streams = []
 
 if response.status_code == 200:
     data = response.text
@@ -12,18 +12,15 @@ if response.status_code == 200:
             streams = json.loads(data).get('zhubo', [])
         except json.JSONDecodeError as e:
             print(f"JSON 解码失败: {e}")
-            streams = []
-    else:
-        print("返回的数据为空。")
 else:
-    print(f"无法获取数据，状态码: {response.status_code}")
+    print(f"无法获取 JSON 数据，状态码: {response.status_code}")
 
-# 获取链接的文本内容
+# 处理 M3U 链接
 m3u_url = "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
-m3u_response = requests.get(m3u_url)
-m3u_content = m3u_response.text
+response = requests.get(m3u_url)
+m3u_content = response.text
 
-# 移除第一行
+# 移除 M3U 的第一行
 m3u_content = m3u_content.split('\n', 1)[1]
 
 # 初始化变量
@@ -32,26 +29,19 @@ channel_name = ""
 channel_link = ""
 output_dict = {}
 
-# 处理每两行为一组的情况
+# 处理 M3U 数据
 for line in m3u_content.split('\n'):
     if line.startswith("#EXTINF"):
-        # 获取 group-title 的值
         group_name = line.split('group-title="')[1].split('"')[0]
-        
-        # 获取频道名
         channel_name = line.split(',')[-1]
     elif line.startswith("http"):
-        # 获取频道链接
         channel_link = line
-        # 合并频道名和频道链接
         combined_link = f"{channel_name},{channel_link}"
-
-        # 将组名作为键，合并链接作为值存储在字典中
         if group_name not in output_dict:
             output_dict[group_name] = []
         output_dict[group_name].append(combined_link)
 
-# 在央视频道组下添加新的频道
+# 在 '央视频道' 下添加新频道
 if "央视频道" in output_dict:
     new_channels = [
         "纬来体育,https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=8b6d7dbcec85c678564613c8e13763e54b28361ef3560dd3c872267ef4237c64&hwTime=67286CF8",
@@ -68,35 +58,36 @@ if "央视频道" in output_dict:
         "纬来体育,rtmp://f13h.mine.nu/sat/tv721",
         "纬来日本,rtmp://f13h.mine.nu/sat/tv771"
     ]
-
-    # 将新频道添加到 ‘央视频道’ 中
     output_dict["央视频道"].extend(new_channels)
 
-# 读取现有文件内容
-with open("zb3.txt", "r", encoding="utf-8") as file:
+# 将 JSON 和 M3U 数据写入 zb3.txt 文件
+with open('zb3.txt', 'r', encoding='utf-8') as f:
+    lines = f.readlines()
 
-    existing_lines = file.readlines()
-
-with open("zb3.txt", "w", encoding="utf-8") as file:
-    found_header = False
-    for line in existing_lines:
-        if "会员频道_616cs,#genre#" in line:
+found_header = False
+with open('zb3.txt', 'w', encoding='utf-8') as f:
+    for line in lines:
+        f.write(line)
+        if "熊猫看看_j693k,#genre#" in line:
             found_header = True
-            file.write(line)  # 保留标题行
             break
-        file.write(line)  # 保留之前的所有行
 
     if found_header:
-        # 写入替换后的内容
-        for group_name, links in output_dict.items():
-            file.write(f"{group_name},#genre#\n")
-            for link in links:
-                file.write(f"{link}\n")
-        print("替换完成，已更新")
+        for stream in streams:
+            title = stream['title']
+            address = stream['address']
+            f.write(f"{title},{address}\n")
+        print("已更新。")
     else:
-        file.write("会员频道_616cs,#genre#\n")
-        for group_name, links in output_dict.items():
-            file.write(f"{group_name},#genre#\n")
-            for link in links:
-                file.write(f"{link}\n")
-        print("未找到，已自动添加该行及内容。")
+        f.write("熊猫看看_j693k,#genre#\n")
+        for stream in streams:
+            title = stream['title']
+            address = stream['address']
+            f.write(f"{title},{address}\n")
+        print("未找到，已添加新行。")
+
+    # 处理 M3U 数据的写入
+    for group_name, links in output_dict.items():
+        f.write(f"{group_name},#genre#\n")
+        for link in links:
+            f.write(f"{link}\n")
