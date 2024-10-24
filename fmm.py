@@ -1,14 +1,14 @@
 import json
 import requests
 
-url = "http://api.vipmisss.com:81/xcdsw/jsonhuahudie.txt"  
+# 从指定网址获取数据
+url = "http://api.vipmisss.com:81/xcdsw/jsonhuahudie.txt"
 response = requests.get(url)
 
 if response.status_code == 200:
     data = response.text
     if data.strip():
         try:
-            # 获取 'zhubo' 键下的内容
             streams = json.loads(data).get('zhubo', [])
         except json.JSONDecodeError as e:
             print(f"JSON 解码失败: {e}")
@@ -72,7 +72,9 @@ if "央视频道" in output_dict:
     # 将新频道添加到 ‘央视频道’ 中
     output_dict["央视频道"].extend(new_channels)
 
+# 读取现有文件内容
 with open("zb3.txt", "r", encoding="utf-8") as file:
+
     existing_lines = file.readlines()
 
 with open("zb3.txt", "w", encoding="utf-8") as file:
