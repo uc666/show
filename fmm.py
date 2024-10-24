@@ -1,9 +1,27 @@
+import json
 import requests
 
-# 获取链接的文本内容
-url = "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+url = "http://api.vipmisss.com:81/xcdsw/jsonhuahudie.txt"  
 response = requests.get(url)
-m3u_content = response.text
+
+if response.status_code == 200:
+    data = response.text
+    if data.strip():
+        try:
+            # 获取 'zhubo' 键下的内容
+            streams = json.loads(data).get('zhubo', [])
+        except json.JSONDecodeError as e:
+            print(f"JSON 解码失败: {e}")
+            streams = []
+    else:
+        print("返回的数据为空。")
+else:
+    print(f"无法获取数据，状态码: {response.status_code}")
+
+# 获取链接的文本内容
+m3u_url = "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+m3u_response = requests.get(m3u_url)
+m3u_content = m3u_response.text
 
 # 移除第一行
 m3u_content = m3u_content.split('\n', 1)[1]
@@ -53,10 +71,30 @@ if "央视频道" in output_dict:
 
     # 将新频道添加到 ‘央视频道’ 中
     output_dict["央视频道"].extend(new_channels)
-# 将结果写入 zb3.txt 文件
-with open("zb3.txt", "w", encoding="utf-8") as output_file:
-    # 遍历字典，写入结果文件
-    for group_name, links in output_dict.items():
-        output_file.write(f"{group_name},#genre#\n")
-        for link in links:
-            output_file.write(f"{link}\n")
+
+with open("zb3.txt", "r", encoding="utf-8") as file:
+    existing_lines = file.readlines()
+
+with open("zb3.txt", "w", encoding="utf-8") as file:
+    found_header = False
+    for line in existing_lines:
+        if "内部测试_889966,#genre#" in line:
+            found_header = True
+            file.write(line)  # 保留标题行
+            break
+        file.write(line)  # 保留之前的所有行
+
+    if found_header:
+        # 写入替换后的内容
+        for group_name, links in output_dict.items():
+            file.write(f"{group_name},#genre#\n")
+            for link in links:
+                file.write(f"{link}\n")
+        print("替换完成，已更新")
+    else:
+        file.write("内部测试_889966,#genre#\n")
+        for group_name, links in output_dict.items():
+            file.write(f"{group_name},#genre#\n")
+            for link in links:
+                file.write(f"{link}\n")
+        print("未找到，已自动添加该行及内容。")
