@@ -71,7 +71,7 @@ if response.status_code == 200:
         for stream in streams:
             title = stream['title']
             address = stream['address']
-            output_dict["🌺花儿_j693k"].append(f"{title},{address}")
+            output_dict["🌺花儿TV_j693k"].append(f"{title},{address}")
     else:
         print("返回的数据为空。")
 else:
