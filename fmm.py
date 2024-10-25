@@ -1,7 +1,7 @@
 import json
 import requests
 
-json_url = "http://api.vipmisss.com:81/xcdsw/jsonhuahudie.txt"  
+json_url = "http://api.vipmisss.com:81/xcdsw/jsonhuahudie.txt"
 response = requests.get(json_url)
 streams = []
 
@@ -60,34 +60,34 @@ if "央视频道" in output_dict:
     ]
     output_dict["央视频道"].extend(new_channels)
 
-# 将 JSON 和 M3U 数据写入 zb3.txt 文件
 with open('zb3.txt', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
-found_header = False
-with open('zb3.txt', 'w', encoding='utf-8') as f:
-    for line in lines:
-        f.write(line)
-        if "熊猫看看_j693k,#genre#" in line:
-            found_header = True
-            break
+updated_lines = []
+found_panda = False
 
-    if found_header:
-        for stream in streams:
-            title = stream['title']
-            address = stream['address']
-            f.write(f"{title},{address}\n")
-        print("已更新。")
+for line in lines:
+    if "熊猫TV_j693k,#genre#" in line:
+        found_panda = True
+        updated_lines.append("熊猫TV_j693k,#genre#\n")  
     else:
-        f.write("熊猫看看_j693k,#genre#\n")
-        for stream in streams:
-            title = stream['title']
-            address = stream['address']
-            f.write(f"{title},{address}\n")
-        print("未找到，已添加新行。")
+        updated_lines.append(line)  
 
-    # 处理 M3U 数据的写入
+with open('zb3.txt', 'w', encoding='utf-8') as f:
+    for line in updated_lines:
+        f.write(line)  
+
+    for stream in streams:
+        title = stream['title']
+        address = stream['address']
+        f.write(f"{title},{address}\n")
+    
+    if not found_panda:
+        f.write("熊猫TV_j693k,#genre#\n")
+    
     for group_name, links in output_dict.items():
         f.write(f"{group_name},#genre#\n")
         for link in links:
             f.write(f"{link}\n")
+
+print("处理完成。")
