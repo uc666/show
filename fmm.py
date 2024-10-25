@@ -41,7 +41,6 @@ for line in m3u_content.split('\n'):
             output_dict[group_name] = []
         output_dict[group_name].append(combined_link)
 
-# 在 '央视频道' 下添加新频道
 if "央视频道" in output_dict:
     new_channels = [
         "纬来体育,https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=8b6d7dbcec85c678564613c8e13763e54b28361ef3560dd3c872267ef4237c64&hwTime=67286CF8",
@@ -69,13 +68,13 @@ found_panda = False
 for line in lines:
     if "熊猫TV_j693k,#genre#" in line:
         found_panda = True
-        updated_lines.append("熊猫TV_j693k,#genre#\n")  
+        updated_lines.append("央视频道,#genre#\n")
     else:
-        updated_lines.append(line)  
+        updated_lines.append(line)
 
 with open('zb3.txt', 'w', encoding='utf-8') as f:
     for line in updated_lines:
-        f.write(line)  
+        f.write(line)
 
     for stream in streams:
         title = stream['title']
@@ -85,6 +84,7 @@ with open('zb3.txt', 'w', encoding='utf-8') as f:
     if not found_panda:
         f.write("熊猫TV_j693k,#genre#\n")
     
+    # 处理 M3U 数据的写入
     for group_name, links in output_dict.items():
         f.write(f"{group_name},#genre#\n")
         for link in links:
