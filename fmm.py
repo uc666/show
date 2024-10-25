@@ -66,12 +66,12 @@ if response.status_code == 200:
             print(f"JSON 解码失败: {e}")
             streams = []
 
-        output_dict["熊猫TV_j693k"] = []
+        output_dict["🌺花儿TV_j693k"] = []
 
         for stream in streams:
             title = stream['title']
             address = stream['address']
-            output_dict["熊猫TV_j693k"].append(f"{title},{address}")
+            output_dict["🌺花儿_j693k"].append(f"{title},{address}")
     else:
         print("返回的数据为空。")
 else:
