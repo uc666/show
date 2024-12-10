@@ -1,0 +1,27 @@
+name: Get 302
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check-302-redirect:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python 3
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests cloudscraper
+
+    - name: Run Python script to check for 302 redirect
+      run: python ./m2.py
+      env:
+        B3: ${{ secrets.B3 }}
