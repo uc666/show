@@ -1,0 +1,29 @@
+{
+  "plugins": [
+    {
+      "name": "小秋音乐",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaoqiu.js",
+      "version": "0.3.0"
+    },
+    {
+      "name": "小蜗音乐",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaowo.js",
+      "version": "0.3.0"
+    },
+    {
+      "name": "小芸音乐",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaoyun.js",
+      "version": "0.3.0"
+    },
+    {
+      "name": "小枸音乐",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaogou.js",
+      "version": "0.3.0"
+    },
+    {
+      "name": "小蜜音乐",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/m/xiaomi.js",
+      "version": "0.3.0"
+    }
+  ]
+}

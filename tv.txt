@@ -1,0 +1,16 @@
+{
+"storeHouse": [
+{"sourceName":"🌸全网主力仓库🌸","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/dc.txt"},
+{"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/uc666/show/main/dx.txt"},
+{"sourceName":"🌺天微精选🌺","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
+{"sourceName":"☁️欧歌","sourceUrl":"https://xn--yod-mf3g9f.u.nxog.top/nxog/ou1.php?b=%E6%AC%A7%E6%AD%8Cyod"},
+{"sourceName":"☁️蓝色","sourceUrl":"https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json"},
+{"sourceName":"☁️恒星","sourceUrl":"http://恒星.net/hxck1.txt"},
+{"sourceName":"☁️拾光","sourceUrl":"https://gitlab.com/xmbjm/ck/-/raw/main/ck.json"},
+{"sourceName":"☁️码点","sourceUrl":"http://120.79.4.185/dc.json"},
+{"sourceName":"☁️苹果","sourceUrl":"http://zby.xjqxz.top/"},
+{"sourceName":"☁️盒子","sourceUrl":"https://tv.youdu.fan:666/"},
+{"sourceName":"☁️叶子","sourceUrl":"http://ee.nihaohezi.com/yz2.php"},
+{"sourceName":"☁️星辰","sourceUrl":"http://47.99.102.252/dc.json"}
+]
+}

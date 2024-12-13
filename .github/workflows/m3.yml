@@ -1,0 +1,57 @@
+name: Get m3
+
+on:
+  schedule:
+    - cron: '10 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  get_streams:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pytz  # 安装 requests 和 pytz
+
+    - name: Set up environment variables
+      run: |
+        echo "JSON_URL=${{ secrets.JSON_URL }}" >> $GITHUB_ENV
+        
+    - name: Run Python script
+      run: python ./m3.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add zb3.txt
+        git commit -m "Update m3" --allow-empty
+
+    - name: Clean
+      run: |
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -m "Update" --allow-empty
+        git branch -D main
+        git branch -m main
+
+    - name: Push
+      run: git push -f origin main
+
+    - name: Delete old workflow runs
+      uses: Mattraks/delete-workflow-runs@v2
+      with:
+        token: ${{ secrets.WORK_TOKEN }}
+        repository: ${{ github.repository }}
+        retain_days: 0
+        keep_minimum_runs: 0

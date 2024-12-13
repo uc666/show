@@ -1,0 +1,416 @@
+{
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733755231778/xmwd.jar;md5;3ef54a7eb1e4488a7f10e12c41b08ea0",
+  "logo": "./jar/logo.gif",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "sites": [
+    {
+      "key": "农民",
+      "name": "📺看电视吧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c",
+      "ext": "./json/nm.json"
+    },
+    {
+      "key": "人人影视",
+      "name": "🧙人人┃1080P",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./jar/yu.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "ext": {
+        "影片类型": "看电视吧",
+        "简介": "请勿相信视频中广告。+<div class=\"stui-pannel_bd\"&&</div>",
+        "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+      }
+    },
+    {
+      "key": "qwqfun",
+      "name": "👌QWQ┃1080P",
+      "type": 1,
+      "api": "https://www.qwqfun.one/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "qwqfun"
+    },
+    {
+      "key": "ikun",
+      "name": "🦢爱坤┃1080P",
+      "type": 1,
+      "api": "https://ikzy7.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "大陆综艺",
+        "国产剧",
+        "香港剧",
+        "爽文短剧",
+        "喜剧片",
+        "国产动漫"
+      ]
+    },
+    {
+      "key": "天天弹幕",
+      "name": "👻天天┃1080P",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/xs.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "Wexwwe",
+      "name": "🏝WWE┃1080P",
+      "type": 3,
+      "api": "csp_Wexwwe",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "./jar/wex.txt;md5;f54ce925795ab9a15db5b32345844be6"
+    },
+    {
+      "key": "七新影视",
+      "name": "🐇七新┃1080P",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "./json/qx.json"
+    },
+    {
+      "key": "csp_Bili",
+      "name": "🆎哔哩┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://drive.almondcloud.cn/f/odVjUB/bili.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "88看球",
+      "name": "🏀看球┃直播",
+      "type": 3,
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
+    },
+    {
+      "key": "csp_JPYY",
+      "name": "🚗文采┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "👨农民┃1080P",
+      "type": 3,
+      "playerType": 2,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
+    },
+    {
+      "key": "csp_XSX",
+      "name": "👀视讯┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "csp_Xsx",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "csp_SuBaiBai",
+      "name": "☁️白白┃1080P",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "playerType": 2,
+      "ext": "https://subaibai.com/"
+    },
+    {
+      "key": "huohuo",
+      "name": "💥火火┃1080P",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "瓜子",
+      "name": "🍉瓜子┃1080P",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_MiTuApp",
+      "name": "🐰米兔┃1080P",
+      "type": 3,
+      "api": "csp_MiTuApp",
+      "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
+    },
+    {
+      "key": "csp_电影",
+      "name": "🎬电影┃1080P",
+      "type": 3,
+      "api": "csp_MiTuApp",
+      "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0="
+    },
+    {
+      "key": "zhaixing",
+      "name": "✨摘星┃1080P",
+      "type": 3,
+      "api": "csp_AppZX",
+      "playerType": 2
+    },
+    {
+      "key": "csp_zhufan",
+      "name": "🍚追饭┃1080P",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "csp_MiTo",
+      "ext": {
+        "url": "http://xiafan.zhuiju666.com",
+        "dataKey": "aassddwwxxllsx1x",
+        "playKey": "bbssqdbbssll25sx",
+        "version": "1.1.0"
+      }
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_LiteApple",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🐧腾腾┃1080P",
+      "type": 3,
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "🥭果果┃4K4K",
+      "type": 3,
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+    },
+    {
+      "key": "csp_视觉",
+      "name": "🔭视觉┃PYTHON",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
+      "playerType": 2,
+      "filterable": 1
+    },
+    {
+      "key": "csp_FirstAid",
+      "name": "🍧急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
+    {
+      "key": "push_agent",
+      "name": "请勿相信视频中广告",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "解析1",
+      "type": 1,
+      "url": "https://www.mpanso.com/muou/qilin.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "反弹",
+      "type": 1,
+      "url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "1080解析",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "LIVE",
+      "ua": "okhttp/3.15",
+      "type": 0,
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "./zo.txt"
+    },
+    {
+      "name": "TV",
+      "ua": "okhttp/3.15",
+      "type": 0,
+      "playerType": 1,
+      "url": "./zb.txt"
+    },
+    {
+      "name": "TVB",
+      "type": 0,
+      "url": "./zba.txt",
+      "playerType": 1
+    },
+    {
+      "name": "NOW",
+      "type": 0,
+      "url": "./zb3.txt",
+      "playerType": 1
+    },
+    {
+      "name": "BTV",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1
+    }
+  ],
+  "warningText": "否极泰来,好运连连。"
+}

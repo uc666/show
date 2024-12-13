@@ -1,0 +1,42 @@
+name: Get Live
+
+on:
+  #schedule:
+    #- cron: '5 */8 * * *'
+  workflow_dispatch:
+
+jobs:
+  get_streams:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        pip install pytz  # 确保安装 pytz 库
+
+    - name: Set up environment variables
+      run: |
+        echo "URL_1=${{ secrets.URL_1 }}" >> $GITHUB_ENV
+        echo "URL_2=${{ secrets.URL_2 }}" >> $GITHUB_ENV
+        echo "URL_3=${{ secrets.URL_3 }}" >> $GITHUB_ENV
+
+    - name: Run Python script
+      run: python ./getv.py
+
+    - name: Commit 和 push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add zo.txt
+        git commit -m "Update zo" --allow-empty
+        git push

@@ -1,0 +1,39 @@
+name: Get b2
+
+on:
+  schedule:
+    - cron: '2 */4 * * *'
+  workflow_dispatch: 
+
+jobs:
+  update_b2:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Set up environment variables
+      run: |
+        echo "B2=${{ secrets.B2 }}" >> $GITHUB_ENV
+        
+    - name: Run Python script
+      run: python ./mi.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add b2.txt
+        git commit -m "Update b2" --allow-empty
+        git push
