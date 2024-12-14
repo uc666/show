@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733755231778/xmwd.jar;md5;3ef54a7eb1e4488a7f10e12c41b08ea0",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
   "logo": "./jar/logo.gif",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
@@ -128,6 +128,13 @@
       "ext": ""
     },
     {
+      "key": "csp_Xlys",
+      "name": "🍤哔嘀┃1080P",
+      "api": "csp_Xlys",
+      "type": 3,
+      "playerType": 2
+    },
+    {
       "key": "csp_Wwys",
       "name": "👨农民┃1080P",
       "type": 3,
@@ -189,13 +196,6 @@
       "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0="
     },
     {
-      "key": "zhaixing",
-      "name": "✨摘星┃1080P",
-      "type": 3,
-      "api": "csp_AppZX",
-      "playerType": 2
-    },
-    {
       "key": "csp_zhufan",
       "name": "🍚追饭┃1080P",
       "searchable": 1,
@@ -203,10 +203,10 @@
       "type": 3,
       "api": "csp_MiTo",
       "ext": {
-        "url": "http://xiafan.zhuiju666.com",
+        "url": "http://103.88.35.251:8989",
         "dataKey": "aassddwwxxllsx1x",
         "playKey": "bbssqdbbssll25sx",
-        "version": "1.1.0"
+        "version": "2.1.0"
       }
     },
     {
